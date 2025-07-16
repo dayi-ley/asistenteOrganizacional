@@ -1,0 +1,343 @@
+{
+  "archivo": "001_SI_ERP.pdf",
+  "semana": "semana_09",
+  "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+  "fragmentos": [
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Tema 4 Sistemas de información funcionales ERP. Objetivos Entender el concepto de ERP y su utilidad para las organizaciones. Conocer los diferentes componentes principales y extensiones de los ERP y las principales características de cada uno. Analizar las ventajas e inconvenientes de los ERP para las organizaciones. Comprender la importancia de integrar los SCM, CRM y ERP para el éxito de la empresa. Entender qué son los sistemas colaborativos y las diferentes tipologías."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Saber identificar las diferentes funciones empresariales con los diferentes tipos de sistemas estudiados. 4.1. Introducción a los ERP. El contexto económico actual se caracteriza por un alto dinamismo, donde la importancia de la información y de la gestión del conocimiento es crucial para el desarrollo empresarial. Sobre esta premisa, los sistemas ERP Enterprise Resource Planning juegan un papel fundamental en la gestión de las empresas sin importar su tamaño."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Antes de definir qué es un ERP y sus principales características, realizaremos un pequeño recorrido histórico sobre el desarrollo de los sistemas informáticos más característicos en el ámbito empresarial. El comienzo de la introducción de herramientas informáticas en las empresas inicia con la automatización."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "En la década de los 60, algunas empresas pioneras detectaron que ciertas actividades empresariales, relacionadas con la gestión y la producción, eran susceptibles de mejorar su eficiencia a través de la automatización."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Como resultado, aparecen las primeras versiones de computadoras que ocupaban muchísimo espacio y funcionaban a través de válvulas de vacío TomásMiquel, ExpósitoLanga y CapóVicedo, 2008. Uno de los usos más habituales de las primeras computadoras en empresas fue el control de inventarios."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Las sucesivas evoluciones de este tipo de soluciones dieron origen al MRP Material Requirements Planning, utilizado para planificar los requerimientos de material incluidos en el plan maestro de producción. En la década de los 80, estos sistemas avanzan rápidamente con el MRPII Manufacturing Resource Planning, que se centró en todo el proceso productivo y no solo en la gestión de materiales."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "El MRPII optimizaba el proceso de manufactura, mejorando el control de talleres y la gestión de distribución TomásMiquel, ExpósitoLanga y CapóVicedo, 2008. Poco a poco, los MRPII se expandieron más allá del ámbito productivo, integrando funcionalidades financieras y de recursos humanos. En los 90, aparece lo que hoy conocemos como sistemas ERP. Antes de los ERP, la información empresarial se guardaba en papel o en bases de datos departamentales independientes, sin integración entre ellas."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Esta práctica generaba problemas en la gestión por duplicidad de datos, falta de actualización e integración TomásMiquel, ExpósitoLanga y CapóVicedo, 2008. Los sistemas ERP solucionan estos problemas mediante la integración de bases de datos departamentales. Permiten a empleados y directivos mejorar su eficiencia y optimizar la toma de decisiones."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Un ERP es una aplicación informática que integra la información de todos los departamentos y ayuda a planificar los recursos de la empresa eficientemente. Resumen los ERP son útiles porque integran información en un sistema único, permiten planificación efectiva, adaptabilidad funcional, mejora de eficiencia y control, y facilitan el compartir información entre departamentos."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Figura 4.1 Evolución del software empresarial. Fuente Elaboración propia a partir de TomásMiquel, ExpósitoLanga y CapóVicedo 2008. Las empresas tienen múltiples opciones en el mercado para adoptar sistemas ERP, incluyendo el desarrollo a medida. En el mercado existen paquetes comerciales tradicionales y opciones de software libre como Odoo, WebERP o Dolibarr. Fabricantes más conocidos que dominan el mercado SAP, Microsoft Navision, Oracle JD Edwards, Sage."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "4.2. Principales componentes de un ERP. Los ERP permiten la integración de los diferentes sistemas de información departamentales. Cobertura funcional de los ERP Finanzas y contabilidad. Recursos de la información. Ventas y marketing. Recursos humanos. Producción. Logística. Comercio electrónico ebusiness. Etc. La mayoría de los paquetes ERP del mercado ofrecen funcionalidades para cubrir las necesidades propias de cada una de estas áreas funcionales."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Algunas funciones ERP son más habituales que otras, por ello suelen incluir componentes principales comunes en la mayoría de paquetes del mercado, y extensiones que cubren necesidades específicas. Los componentes principales de un ERP core ERP, también conocidos como módulos, incluyen Módulo de finanzas y contabilidad. Módulo de recursos de la información TI. Módulo de producción y gestión de materiales. Módulo de ventas y marketing. Módulo de recursos humanos."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Las extensiones de ERP responden a necesidades más sofisticadas, como ventas, logística, comercio electrónico o inteligencia de negocio Business Intelligence. Extensiones comunes en el mercado Business Intelligence BI. Customer Relationship Management CRM. Supply Chain Management SCM. Comercio electrónico ebusiness. En los subapartados siguientes se comentan en detalle los componentes principales. Luego se abordan las extensiones. 4.2.1. Módulo de finanzas y contabilidad."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Es uno de los más clásicos y habituales en ERP. Su finalidad es la gestión contable y financiera. Funciones principales Gestión de la contabilidad general. Gestión de cobros. Gestión de pagos. Elaboración de presupuestos. Gestión de caja Cash Management. Gestión de activos. Gestión de créditos. Gestión del riesgo. Etc."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "4.2.2. Módulo de producción y gestión de materiales. Este módulo hereda las funciones de los antiguos sistemas MRPII. Se ocupa de la función productiva. Incluye ejecución del plan maestro de producción y gestión de materiales necesarios. Estos planes consideran las previsiones del Departamento de Ventas para establecer prioridades de secuenciación. Funciones principales Previsión de la demanda. Programación y gestión de la producción. Diseño de productos y máquinas."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Costes laborales y de materiales. Gestión de inventarios. Controles de calidad. Cambios en la configuración productiva. Secuenciación de productos en líneas productivas. Gestión de partes productivos. Figura 4.2 Planificación detallada del proceso de producción y gestión de materiales Baltzan, 2011."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "4.2.3. Módulo de recursos humanos. Incluye tareas administrativas altasbajas en seguridad social, nóminas y estratégicas reclutamiento, formación. Ayuda a identificar empleados con mayor riesgo de rotación o mayor talento. Funciones principales Confección de nóminas. Diseño de planes de beneficios empresariales. Evaluación de desempeño. Planes de compensación. Contratación de empleados. Organización de puestos. Gestión de tiempos y presencia. Gestión de planes de formación."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Gestión de carreras profesionales. Procesos de selección. Etc. 4.2.4. Módulo de marketing y ventas. Es de tipo administrativo. Las funciones comerciales sofisticadas se cubren mediante la extensión CRM. Funciones básicas Generación de presupuestos. Confección de pedidos. Emisión de albaranes. Emisión de facturas. Gestión de agenda básica. Generación de informes básicos de ventas. Más funcionalidades se detallan en el apartado CRM."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "4.2.5. Módulo de recursos de la información. Este módulo incluye aspectos técnicos relacionados con usuarios y administradores del sistema, principalmente del departamento informático. Funciones principales Gestión de infraestructuras hardware y telecomunicaciones. Gestión de aplicaciones y bases de datos. Servicios al usuario. Gestión de seguridad. Auditoría. Control de calidad de la información. Evolución de la plataforma de servicios. Actualizaciones del sistema."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Altas y bajas de usuarios. Etc. 4.3. Extensiones del ERP. Las extensiones del ERP extended ERP components son componentes adicionales para necesidades organizativas no cubiertas por los componentes principales. Estas extensiones se centran en operaciones externas y, combinadas con los módulos principales, permiten una integración óptima interna y externa. 4.3.1. Extensiones del ERP Business Intelligence BI. Business Intelligence impacta notablemente la toma de decisiones."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Es una aplicación o software que transforma datos en información, y esta en conocimiento. Permite mejorar la toma de decisiones empresariales. Su mecanismo consiste en recolectar información usada en la organización, incluida la generada por otros módulos ERP, y analizarla con herramientas analíticas. Provee información tanto interna como externa al responsable que debe tomar decisiones."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "La información generada por sistemas de Business Intelligence se representa de forma visual e intuitiva utilizando indicadores clave de negocio según el contexto. De esta manera, y con un rápido vistazo, el responsable puede identificar anomalías y profundizar en los datos para tomar las acciones pertinentes. Algunos ERP no incluían esta funcionalidad en sus versiones iniciales, lo que motivó la aparición de empresas especializadas en Business Intelligence."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Ejemplos de estas compañías Qlik View, MicroStrategy, Business Objects, SAS. Con el tiempo, fabricantes de ERP comenzaron a incorporar estas extensiones respondiendo a las necesidades del mercado. Algunas grandes empresas como SAP adquirieron proveedores especializados, como Business Objects. La figura 4.3 muestra el cuadrante de Gartner 2019 sobre las principales compañías de Business Intelligence. Destacan Microsoft, Tableau, Salesforce, Sisense, Domo, Oracle, entre otras."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "4.3.2. Extensiones del ERP Customer Relationship Management CRM. CRM gestiona tareas específicas de ventas que los módulos principales no cubren, enfocándose en la relación con clientes para aumentar su lealtad y rentabilidad. Funciones principales de un sistema CRM Gestión de contactos historial, comunicaciones y comentarios internos. Gestión de oportunidades de venta fases, productos, competencias, presupuestos. Rendimiento de ventas estadísticas, comentarios, recompensas."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Gestión de reclamaciones y rechazos. Organización de campañas de marketing y eventos. Integración de herramientas móviles, correo electrónico, flujos de trabajo, aprobaciones. Previsión de ventas y comparación con presupuestos. Informes y dashboards. Automatización de procesos alertas automáticas, asignación de tareas. Estudios de mercado y de productos."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Existen empresas especializadas en CRM como Salesforce y Zoho, y fabricantes de ERP como SAP, Sage u Oracle también lo incluyen en su catálogo."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "4.3.3. Extensiones del ERP Supply Chain Management SCM. SCM gestiona la cadena de suministro, desde proveedores hasta distribución a clientes. El objetivo es maximizar la eficiencia y rentabilidad de estos procesos. El sistema SCM ayuda a planificar, programar, controlar y optimizar el flujo desde la adquisición hasta la entrega del producto final. Sus tres procesos principales Flujo de materiales desde los proveedores y sus propios proveedores."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Transformación de materiales en productos semielaborados y finales. Distribución de productos terminados a clientes y socios comerciales. 4.3.4. Extensiones del ERP ebusiness. El desarrollo del comercio electrónico permite a las empresas incrementar beneficios. Esta extensión facilita compras, ventas y colaboración con agentes externos. Características clave elogística transporte y almacenamiento. eabastecimiento B2B compra y venta entre empresas."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "También incluye acceso a información de pedidos, inventario y facturación para clientes y proveedores B2C. Integra operaciones administrativas con estructuras web del comercio electrónico, como asociar productos al catálogo online o actualizar el stock automáticamente."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "4.4. Ventajas e inconvenientes del ERP. Ventajas Integración financiera visión única del desempeño general. Integración de pedidos mejor coordinación en producción e inventarios. Estandarización y aceleración del proceso de fabricación. Reducción del inventario y mejora en la entrega. Unificación de la información de recursos humanos. Inconvenientes Coste del software. Costes de consultoría externa. Necesidad de redefinir procesos para mayor eficiencia."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Adaptaciones si el software no se ajusta por completo. Integración con otros sistemas no ERP. Necesidad de formación de nuevos usuarios. Migración e integración de datos desde sistemas antiguos. 4.5. La empresa integrada SCM, CRM y ERP. Una de las razones clave para la popularización del ERP es su capacidad para integrar la información proveniente de diversos sistemas como SCM y CRM."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Los sistemas ERP nacen como alternativa a sistemas que no integraban todas las áreas de la empresa y que funcionaban como compartimentos estancos. En apartados anteriores se mencionó que los ERP pueden complementarse con extensiones como SCM y CRM. La integración entre estas extensiones y el ERP es crucial para el funcionamiento óptimo de la empresa. Por ejemplo, muchos desarrollos de comercio electrónico se fundamentan en la integración de SCM, CRM y ERP como columna vertebral del ebusiness."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "La integración permite que la información esté disponible para cualquier usuario, en cualquier lugar y momento. Figura 4.4 Esquema de integración de componentes principales del ERP y extensiones SCM y CRM. Fuente Baltzan 2011. Tabla 4.2 Resumen de sistemas, usuarios y beneficios. CRM Usuarios principales Ventas, Marketing, Atención al cliente, Clientes Beneficios Previsiones de venta, estrategias, campañas, demanda del mercado."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "SCM Usuarios Distribuidores, Partners, Proveedores Beneficios Restricciones de recursos, tiempos en tiempo real, gestión de entregas."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Tabla 4.2 continuación ERP Usuarios Finanzas, Contabilidad, Logística, Recursos Humanos, Producción, Inventarios, Distribución, Nóminas Beneficios Previsiones financieras, planificación, compras, gestión de materiales, almacenamiento. 4.6. Sistemas colaborativos. Los nuevos modelos organizativos demandan infraestructura de software para colaboración e interconectividad."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Un sistema de colaboración es un conjunto de aplicaciones y tecnologías que apoyan el trabajo en equipo, facilitando el intercambio y flujo de información Baltzan, 2011. Tipos a Sistemas no estructurados intercambio de documentos, foros de discusión, correo electrónico. Mejora productividad personal. b Sistemas estructurados participación en procesos de negocio como workflows, con conocimiento codificado en reglas o procedimientos. Mejora automatización y transferencia."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Los workflows abarcan Estructuración de tareas. Pautas para ejecución. Secuenciación. Sincronización. Flujos de información. Seguimiento. Ejemplo facturación. En empresas grandes, la aprobación manual ha sido sustituida por workflows automatizados para eficiencia y reducción de costos."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Facturas digitales permiten aprobación, rechazo o redireccionamiento, lo que optimiza procesos. Tipos de workflows a Basados en mensajería asignaciones enviadas por email, seguimiento automático de tareas según se completan. b Basados en bases de datos documentos almacenados centralmente, notificaciones automáticas según el turno de edición. Los workflows forman parte de sistemas Groupware."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "Groupware Systems software que soporta interacción entre trabajadores con herramientas como calendarios, programación y videoconferencia. Aplicaciones permiten comunicación, cooperación, coordinación, resolución de problemas, competencia y negociación. Clasificación por tiempo y lugar de colaboración Al mismo tiempo sincrónica vs. en tiempos diferentes asincrónica. En el mismo lugar vs. en lugares distintos. Tabla 4.3 Ejemplos."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "En el mismo lugar y mismo tiempo soporte para presentaciones proyector. En el mismo lugar y tiempos diferentes ordenadores compartidos. En diferentes lugares y mismo tiempo videoconferencias, chat. En diferentes lugares y tiempos distintos email, workflows."
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 15,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_15.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "4.7. Funciones empresariales y sistemas. Este tema ha abordado la importancia de los ERP, sus componentes, extensiones, ventajas e inconvenientes. Tabla 4.4 Función empresarial y sistema asociado. Contabilidad y Finanzas ERP Business Intelligence. Producción y Gestión de materiales ERP SCM. Recursos Humanos ERP. Ventas ERP CRM Business Intelligence Data Mining. Sistemas de Información mantenimiento de todas las aplicaciones. Actividades del tema"
+    },
+    {
+      "semana": "semana_09",
+      "archivo": "001_SI_ERP.pdf",
+      "pagina": 15,
+      "imagen": "procesados\\semana_09\\001_SI_ERP\\slide_15.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_09/001_SI_ERP.pdf",
+      "fragmento": "1. Analiza una empresa conocida y determina qué información debe compartirse entre departamentos. 2. Investiga noticias sobre ERP para reflexionar sobre su importancia, ventajas, inconvenientes y futuro desarrollo."
+    }
+  ]
+}

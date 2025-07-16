@@ -1,0 +1,62 @@
+{
+  "id": "ii",
+  "nombre": "Ingeniería Informática",
+  "facultad_id": "fiei",
+  "perfil_ingresante": {
+    "dimension_actitudinal": [
+      "Muestra actitud y motivación necesaria para el estudio de nivel universitario.",
+      "Asume principios éticos y morales para desenvolverse en la universidad y vivir en sociedad.",
+      "Evidencia identidad personal – social y respeto por los derechos de las personas y el medio ambiente."
+    ],
+    "dimension_cognoscitiva": [
+      "Comprende, analiza y evalúa información de textos e imágenes en su contexto.",
+      "Redacta textos estructurados con ortografía y gramática adecuada.",
+      "Reconoce la diversidad geográfica y humana como potencial de desarrollo.",
+      "Utiliza las matemáticas para resolver problemas académicos y de la vida diaria.",
+      "Gestiona su aprendizaje con métodos ordenados y motivación.",
+      "Participa en trabajos grupales y valora su importancia.",
+      "Respeta normas de convivencia y derechos ciudadanos.",
+      "Valora el desarrollo integral de la persona."
+    ],
+    "dimension_procedimental": [
+      "Utiliza TICs con sentido crítico y productivo.",
+      "Identifica problemas sociales y plantea soluciones.",
+      "Resuelve problemas matemáticos con razonamiento lógico.",
+      "Interpreta información relevante de ciencia, tecnología y ambiente."
+    ]
+  },
+  "perfil_graduado": {
+    "competencias_genericas": [
+      "Construye su proyecto ético de vida con autonomía y control emocional.",
+      "Refuerza su identidad cultural y universitaria para actuar en escenarios de incertidumbre.",
+      "Aplica estrategias generales de construcción del conocimiento como análisis y síntesis.",
+      "Gestiona su conocimiento con pensamiento crítico y creativo.",
+      "Valora y preserva el medio ambiente con participación activa.",
+      "Comprende y valora la diversidad cultural como base de la peruanidad.",
+      "Genera productos o servicios útiles para la sociedad, promoviendo empleabilidad.",
+      "Trabaja colaborativamente y utiliza tecnologías emergentes en su desempeño."
+    ],
+    "competencias_especificas": [
+      "Planifica sistemas TIC según requerimientos de usuarios, cumpliendo normativas.",
+      "Diseña sistemas TIC cumpliendo estándares y necesidades.",
+      "Desarrolla soluciones TIC adaptadas a los requerimientos del sistema.",
+      "Gestiona equipos TIC considerando sostenibilidad ambiental.",
+      "Analiza y resuelve problemas locales y regionales en sistemas de información.",
+      "Investiga problemas del ámbito TIC aplicando el método científico.",
+      "Comunica ideas y conocimientos con claridad según el idioma requerido."
+    ]
+  },
+  "campo_laboral": [
+    "Analista de sistemas informáticos.",
+    "Desarrollador de sistemas de información.",
+    "Diseñador de arquitecturas de comunicaciones y redes de datos.",
+    "Desarrollador de páginas web.",
+    "Planificador de estrategias para desarrollo de TIC.",
+    "Auditor informático."
+  ],
+  "responsable": {
+    "nombre": "Kleddy Guizado Zedano",
+    "correo": "epii.fiei@unfv.edu.pe",
+    "anexo": "982676"
+  }
+} 

@@ -1,0 +1,59 @@
+{
+  "cursos": [
+    {
+      "codigo_curso": "101029",
+      "nombre_curso": "INGENIERÍA DE SISTEMAS DE INFORMACIÓN",
+      "escuela_profesional": "Ingeniería Informática",
+      "ciclo": "VII",
+      "seccion": "B",
+      "docente": "Ing. Rea Morales, Alejandro",
+      "semestre": "2025-I",
+      "horarios": [
+        {
+          "dia": "martes",
+          "hora_inicio": "19:40",
+          "hora_fin": "21:20",
+          "aula": "404",
+          "piso": "cuarto",
+          "tipo_sesion": "teoria",
+          "duracion_minutos": 100
+        },
+        {
+          "dia": "miércoles",
+          "hora_inicio": "18:00",
+          "hora_fin": "20:30",
+          "aula": "403",
+          "piso": "cuarto",
+          "tipo_sesion": "practica",
+          "duracion_minutos": 150
+        }
+      ],
+      "total_horas_semanales": 5,
+      "total_horas_teoria": 3,
+      "total_horas_practica": 2,
+      "estado": "activo"
+    }
+  ],
+  "configuracion_horarios": {
+    "dias_laborables": [
+      "lunes",
+      "martes", 
+      "miércoles",
+      "jueves",
+      "viernes",
+      "sábado"
+    ],
+    "horario_institucional": {
+      "hora_inicio_jornada": "08:00",
+      "hora_fin_jornada": "22:00",
+      "duracion_bloque_estandar": 90
+    },
+    "tipos_sesion": [
+      "teoria",
+      "practica",
+      "laboratorio",
+      "evaluacion",
+      "tutoria"
+    ]
+  }
+} 

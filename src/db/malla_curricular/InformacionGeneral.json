@@ -1,0 +1,19 @@
+{
+  "titulo": "ESCUELA PROFESIONAL DE INGENIERÍA INFORMÁTICA",
+  "subtitulo": "MALLA CURRICULAR DE LA CARRERA PROFESIONAL DE INGENIERÍA INFORMÁTICA",
+  "duracion_en_semestres": 10,
+  "total_asignaturas": 72,
+  "total_creditos": 208,
+  "escuela_profesional": "Ingeniería Informática",
+  "facultad": "FIEI",
+  "plan_estudios": "2019",
+  "estado": "vigente",
+  "fecha_aprobacion": "2019",
+  "resolucion": "Rectoral",
+  "estructura_creditos": {
+    "formacion_general": "Cursos de formación básica y humanística",
+    "formacion_especifica": "Cursos de especialidad y profesional",
+    "formacion_electiva": "Cursos de libre elección",
+    "practicas_preprofesionales": "Prácticas y tesis"
+  }
+} 

@@ -1,0 +1,87 @@
+{
+  "configuracion_procesamiento": {
+    "descripcion": "Configuración para procesamiento automático de materiales del curso",
+    "formato_entrada": {
+      "presentaciones_ppt": {
+        "extensiones_soportadas": ["ppt", "pptx"],
+        "proceso_conversion": "texto_plano",
+        "estructura_salida": "diapositivas_individuales",
+        "metadatos_extraccion": [
+          "titulo_presentacion",
+          "numero_diapositivas",
+          "fecha_creacion",
+          "autor"
+        ]
+      },
+      "documentos_pdf": {
+        "extensiones_soportadas": ["pdf"],
+        "proceso_conversion": "texto_plano",
+        "estructura_salida": "secciones_parrafos",
+        "metadatos_extraccion": [
+          "titulo_documento",
+          "numero_paginas",
+          "fecha_creacion",
+          "autor",
+          "palabras_clave"
+        ]
+      },
+      "documentos_word": {
+        "extensiones_soportadas": ["doc", "docx"],
+        "proceso_conversion": "texto_plano",
+        "estructura_salida": "secciones_parrafos",
+        "metadatos_extraccion": [
+          "titulo_documento",
+          "numero_paginas",
+          "fecha_creacion",
+          "autor",
+          "estilos_aplicados"
+        ]
+      }
+    },
+    "procesamiento_contenido": {
+      "extraccion_puntos_clave": true,
+      "identificacion_secciones": true,
+      "generacion_resumen": true,
+      "extraccion_palabras_clave": true,
+      "limpieza_texto": {
+        "eliminar_caracteres_especiales": false,
+        "normalizar_espacios": true,
+        "preservar_formato_listas": true,
+        "preservar_negritas_cursivas": false
+      }
+    },
+    "estructura_salida": {
+      "formato_principal": "json",
+      "version_estructura": "1.0",
+      "campos_obligatorios": [
+        "id",
+        "titulo",
+        "descripcion",
+        "palabras_clave",
+        "fecha_publicacion",
+        "profesor_responsable",
+        "tipo_material"
+      ],
+      "campos_opcionales": [
+        "resumen",
+        "notas",
+        "url_recurso",
+        "archivo_original"
+      ]
+    },
+    "validacion_contenido": {
+      "longitud_minima_titulo": 5,
+      "longitud_maxima_titulo": 200,
+      "longitud_minima_descripcion": 10,
+      "longitud_maxima_descripcion": 500,
+      "palabras_clave_minimas": 3,
+      "palabras_clave_maximas": 10
+    },
+    "integracion_asistente": {
+      "actualizacion_indice_automatica": true,
+      "notificacion_nuevos_materiales": true,
+      "respuestas_contextuales": true,
+      "sugerencias_relacionadas": true
+    }
+  }
+} 

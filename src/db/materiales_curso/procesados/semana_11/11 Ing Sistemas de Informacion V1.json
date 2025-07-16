@@ -1,0 +1,536 @@
+{
+  "archivo": "11 Ing Sistemas de Informacion V1.pdf",
+  "num_paginas": 54,
+  "paginas": [
+    {
+      "pagina": 1,
+      "fragmento": [
+        "Universidad Nacional — Facultad de Ingeniería",
+        "Electrónica e Informática",
+        "Ingeniería de Sistemas de Información",
+        "Docente: Ing. Alejandro Rea",
+        "Lima, Perú - Junio 2025",
+        "Sesión 11"
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_01.png"
+    },
+    {
+      "pagina": 2,
+      "fragmento": [
+        "¿Qué es la ciberseguridad y para qué sirve?"
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_02.png"
+    },
+    {
+      "pagina": 3,
+      "fragmento": [
+        "En la actualidad, la mayoría de las organizaciones emplean sistemas informáticos para realizar sus operaciones y almacenar datos sensibles."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_03.png"
+    },
+    {
+      "pagina": 4,
+      "fragmento": [
+        "Aunque esta tendencia ofrece grandes facilidades, también es una vía de acceso para los delitos virtuales."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_04.png"
+    },
+    {
+      "pagina": 5,
+      "fragmento": [
+        "Para evitar ser víctima de estas prácticas, es necesario conocer qué es la ciberseguridad y cómo funciona."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_05.png"
+    },
+    {
+      "pagina": 6,
+      "fragmento": [
+        "Te invito a repasar conmigo la ciberseguridad desde cero, haciendo hincapié en su importancia y las amenazas que enfrenta."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_06.png"
+    },
+    {
+      "pagina": 7,
+      "fragmento": [
+        "Debido a la creciente demanda en los sectores público y privado, la especialización en ciberseguridad es una opción cada vez más solicitada entre los profesionales de ingeniería, sistemas e informática."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_07.png"
+    },
+    {
+      "pagina": 8,
+      "fragmento": [
+        "¿Qué es la ciberseguridad?"
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_08.png"
+    },
+    {
+      "pagina": 9,
+      "fragmento": [
+        "Conocemos como ciberseguridad a un amplio conjunto de herramientas y procesos, cuya función principal es la de prevenir los ataques de carácter informático en todas sus modalidades.",
+        "Además, busca mitigar su impacto en las organizaciones y personas."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_09.png"
+    },
+    {
+      "pagina": 10,
+      "fragmento": [
+        "La ciberseguridad se aplica en diferentes contextos, desde la elección de una contraseña segura hasta el uso de sistemas de protección sofisticados.",
+        "Estudiar ciberseguridad implica conocer todas las medidas existentes para la protección de sistemas informáticos, redes, software y bases de datos ante posibles amenazas digitales."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_10.png"
+    },
+    {
+      "pagina": 11,
+      "fragmento": [
+        "¿Por qué es importante la ciberseguridad en tu empresa?",
+        "Así como tu negocio físico necesita de sistemas de seguridad, tus propiedades digitales también."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_11.png"
+    },
+    {
+      "pagina": 12,
+      "fragmento": [
+        "Según reportes, la ciberdelincuencia podría acarrear a la economía mundial un gasto de 10.5 billones de dólares al año 2025.",
+        "Este y otros indicadores nos dan una idea de la importancia que tiene la ciberseguridad en Perú y el resto de los países."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_12.png"
+    },
+    {
+      "pagina": 13,
+      "fragmento": [
+        "En el caso de las organizaciones, los delitos y ataques cibernéticos pueden generar cuantiosas pérdidas económicas.",
+        "También provocan pérdida de datos y fallas operativas.",
+        "A nivel individual, las víctimas podrían sufrir robos o ver su identidad suplantada."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_13.png"
+    },
+    {
+      "pagina": 14,
+      "fragmento": [
+        "Para comprender la magnitud de las amenazas digitales, solo hace falta ver qué es una guerra cibernética.",
+        "Este tipo de conflicto implica que los Estados vulneran los sistemas informáticos de otros países para causarles perjuicio."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_14.png"
+    },
+    {
+      "pagina": 15,
+      "fragmento": [
+        "En ese contexto, en el que los riesgos son latentes, las empresas de ciberseguridad desempeñan un rol crucial."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_15.png"
+    },
+    {
+      "pagina": 16,
+      "fragmento": [
+        "Amenazas externas intencionadas",
+        "Amenazas accidentales",
+        "Amenazas internas intencionadas",
+        "Amenazas internas accidentales"
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_16.png"
+    },
+    {
+      "pagina": 17,
+      "fragmento": [
+        "Tipos de amenazas y ataques a la ciberseguridad.",
+        "Veamos cuáles son los tipos de ataques virtuales más comunes:",
+        "1. Malware",
+        "2. Phishing",
+        "3. Inyección SQL",
+        "4. Denegación de servicio",
+        "5. Denegación de servicio distribuido",
+        "6. Man in the middle",
+        "7. Rootkit",
+        "8. Emotet",
+        "9. Ataques de contraseña",
+        "10. Ransomware"
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_17.png"
+    },
+    {
+      "pagina": 18,
+      "fragmento": [
+        "Se conoce como malware a los programas o archivos maliciosos que se instalan en un sistema con el objetivo de dañarlo o deshabilitarlo.",
+        "Entre ellos se encuentran virus informáticos, troyanos, spyware, ransomware, adware, etc.",
+        "Recientemente han proliferado los mineros en ciberseguridad, un tipo de malware que utiliza los recursos del ordenador para minar criptomonedas sin autorización del propietario."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_18.png"
+    },
+    {
+      "pagina": 19,
+      "fragmento": [
+        "Perú enfrenta más de 177 mil ataques de malware por día.",
+        "Los sectores más afectados son el gobierno, energía y servicios públicos, y agricultura.",
+        "El Panorama de Amenazas de Kaspersky 2024 reveló que se bloquearon más de 64 millones de ataques de malware entre julio de 2023 y julio de 2024, equivalente a 177,409 por día.",
+        "El enfoque hacia el sector gubernamental responde a la gran cantidad de datos ciudadanos que maneja, volviéndolo vulnerable a fraudes y estafas, sobre todo en épocas electorales."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_19.png"
+    },
+
+    {
+      "pagina": 20,
+      "fragmento": [
+        "Más de 12 millones de smartphones fueron blanco de ataques con malware a inicios de 2025: revela Kaspersky.",
+        "9 de junio de 2025.",
+        "La compañía advirtió que estas amenazas siguen en aumento.",
+        "Entre enero y marzo se registró un crecimiento del 27% en archivos maliciosos detectados en comparación con el cierre de 2024.",
+        "Según el informe 'Evolución de las amenazas informáticas en el primer trimestre de 2025', los ataques a smartphones siguen en aumento.",
+        "Solo en los tres primeros meses del año se detectaron 180,000 archivos maliciosos, un 27% más que a fines de 2024.",
+        "Más de 12 millones de personas fueron afectadas por estas amenazas, lo que representa un incremento del 36% respecto al trimestre anterior.",
+        "La tendencia al alza viene desde mediados del año pasado.",
+        "Gráfico de evolución:",
+        "Q3 2024: 6,700,000; Q4 2024: 8,800,000; Q1 2025: 12,000,000"
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_20.png"
+    },
+    {
+      "pagina": 21,
+      "fragmento": [],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_21.png"
+    },
+    {
+      "pagina": 22,
+      "fragmento": [
+        "Ransomware.",
+        "Es un software o código malicioso que cifra los datos importantes dentro de un sistema para luego pedir un rescate por descifrarlos.",
+        "Funciona como un 'secuestro virtual', donde los hackers buscan obtener un beneficio económico.",
+        "Para prevenirlo, se recomienda hacer copias de respaldo de la información más valiosa."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_22.png"
+    },
+    {
+      "pagina": 23,
+      "fragmento": [
+        "Hackers se atribuyen ataque a web gob.pe, pero el Gobierno niega afectación: 'Los datos están a salvo'.",
+        "La plataforma gob.pe habría sufrido un ataque cibernético por parte de hackers que ocasionó la caída temporal del sitio.",
+        "El portal fue restablecido después de unos minutos de inactividad.",
+        "El ataque habría sido ejecutado por Ahysida Ransomware, grupo delincuencial que usa la táctica del 'rescate virtual'.",
+        "Según DarkWeb Informer, los ciberdelincuentes solicitaron un rescate equivalente a 1,779,568.25 soles."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_23.png"
+    },
+    {
+      "pagina": 24,
+      "fragmento": [
+        "Ooops, your files have been encrypted!",
+        "Your important files are encrypted. Many of your documents, photos, videos, databases and other files are no longer accessible.",
+        "Nobody can recover your files without our decryption service.",
+        "You can decrypt some files for free by clicking 'Decrypt'.",
+        "If you want to decrypt all files, you need to pay in Bitcoin.",
+        "You have 3 days to pay. After that, the price will double.",
+        "If you don't pay in 7 days, you won’t be able to recover your files.",
+        "Free events are available for those who can't pay within 6 months.",
+        "Send $300 worth of Bitcoin to the specified address to recover your data."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_24.png"
+    },
+    {
+      "pagina": 25,
+      "fragmento": [
+        "Ataque de intermediario.",
+        "Esta modalidad, también conocida como 'man-in-the-middle', permite al atacante interceptar la comunicación entre dos partes.",
+        "El objetivo es obtener información, robar credenciales o alterar datos.",
+        "En muchos casos se utilizan redes Wi-Fi sin contraseña como gancho para acceder al tráfico web de los dispositivos conectados."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_25.png"
+    },
+    {
+      "pagina": 26,
+      "fragmento": [
+        "¿Qué es un ataque de intermediario?",
+        "Los ataques de intermediario o MITM, por sus siglas en inglés, consisten en un ataque cibernético donde el cibercriminal intercepta los datos enviados entre dos empresas o particulares.",
+        "El objetivo es robar, espiar o modificar los datos con un fin malicioso, como la extorsión.",
+        "¿Cómo funciona un ataque de intermediario?",
+        "Estos ataques dependen de la manipulación de redes existentes o la creación de redes maliciosas que los cibercriminales controlan.",
+        "Pueden interceptar el tráfico y dejarlo pasar, recopilando información transaccional, o redirigirlo a otro lugar.",
+        "Los cibercriminales actúan como un \"intermediario\" entre quien envía y quien recibe la información.",
+        "Son sorprendentemente comunes, sobre todo en redes Wi-Fi públicas.",
+        "Estas redes suelen ser poco seguras, lo que permite que cualquier persona pueda interceptar el tráfico web sin ser detectada."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_26.png"
+    },
+    {
+      "pagina": 27,
+      "fragmento": [
+        "Conexión original entre usuario y aplicación web.",
+        "Nueva conexión interceptada por un atacante: man-in-the-middle."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_27.png"
+    },
+    {
+      "pagina": 28,
+      "fragmento": [
+        "Tipos de ataques de intermediario.",
+        "Estos ataques son de los más versátiles que existen en la actualidad.",
+        "Red Wi-Fi pública: suelen ser inseguras, permitiendo a los atacantes ver el tráfico web de los dispositivos conectados.",
+        "Suplantación de la dirección IP: se modifica la IP para redirigir tráfico a sitios maliciosos, simulando ser aplicaciones o webs legítimas.",
+        "Punto de acceso no autorizado: se instala en una red legítima para redirigir el tráfico y propiciar descargas de malware o extorsión.",
+        "Suplantación del ARP: vincula la dirección MAC del atacante con la IP de la víctima mediante mensajes falsos, para interceptar la información."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_28.png"
+    },
+    {
+      "pagina": 29,
+      "fragmento": [
+        "Suplantación de DNS: el atacante modifica el registro del servidor DNS de un sitio para redirigir el tráfico al sitio malicioso.",
+        "Secuestro de sesiones: el atacante toma el control de una sesión web, expulsando al usuario legítimo.",
+        "Suplantación de HTTPS: se envía un certificado falso para que el navegador piense que la conexión es segura.",
+        "Inyección de paquetes: se crean paquetes que parecen normales y se inyectan en la red para acceder o iniciar ataques DDoS."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_29.png"
+    },
+    {
+      "pagina": 30,
+      "fragmento": [
+        "SSL Stripping: el atacante modifica la señal TLS para que la web cargue por HTTP en lugar de HTTPS, dejando la sesión expuesta.",
+        "SSLBEAST: infección por JavaScript malicioso que intercepta cookies y tokens de autenticación, exponiendo la sesión.",
+        "Suplantación de SSL: el atacante disfraza un sitio malicioso con la URL legítima para robar información.",
+        "Robo de cookies: los atacantes sustraen cookies almacenadas para obtener datos confidenciales.",
+        "Rastreo: se utiliza hardware o software para supervisar el tráfico web y robar información."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_30.png"
+    },
+    {
+      "pagina": 31,
+      "fragmento": [
+        "Ataque de intermediario.",
+        "Ilustración gráfica sin texto explicativo adicional."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_31.png"
+    },
+    {
+      "pagina": 32,
+      "fragmento": [
+        "Equifax, 2017.",
+        "La agencia de crédito sufrió un ataque MITM por una vulnerabilidad no parcheada en su marco web.",
+        "La información financiera de casi 150 millones de personas fue expuesta.",
+        "También se hallaron brechas en sus apps móviles, por lo que se retiraron de App Store y Google Play."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_32.png"
+    },
+    {
+      "pagina": 33,
+      "fragmento": [
+        "DigiNotar, 2011.",
+        "Piratas informáticos atacaron a esta autoridad holandesa usando sitios web falsos para obtener contraseñas.",
+        "Más de 500 certificados de seguridad fueron comprometidos, afectando a empresas como Google, Yahoo!, y Microsoft.",
+        "DigiNotar fue eliminado como proveedor y declarado en quiebra."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_33.png"
+    },
+    {
+      "pagina": 34,
+      "fragmento": [
+        "Tesla, 2024.",
+        "Investigadores informaron sobre una vulnerabilidad que permite robar vehículos Tesla mediante MITM.",
+        "Un atacante usó un punto Wi-Fi falso en una estación de carga para obtener credenciales.",
+        "Luego, añadió una 'llave de teléfono' sin conocimiento del propietario para desbloquear y arrancar el auto."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_34.png"
+    },
+    {
+      "pagina": 35,
+      "fragmento": [
+        "Phishing.",
+        "Es un tipo de ciberataque en el que el atacante se hace pasar por una entidad legítima mediante correos, mensajes o sitios web falsos.",
+        "Su propósito es obtener información confidencial, robar dinero o causar daños a la víctima."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_35.png"
+    },
+
+    {
+      "pagina": 36,
+      "fragmento": [
+        "Día de 'pesca'.",
+        "A través del phishing se lanza un ataque con fines fraudulentos a millones de usuarios, principalmente por medio del correo electrónico.",
+        "De todos ellos, alguno 'pescará el anzuelo' y proporcionará información personal o financiera.",
+        "Frases comunes en mensajes de phishing:",
+        "- Presione aquí para descargar su estado de cuenta.",
+        "- Acceda al siguiente enlace para conocer sus adeudos.",
+        "- Multa por incumplimiento de obligaciones fiscales.",
+        "Internet Security Threat Report de Symantec reporta que el principal señuelo para el phishing son los correos que aparentemente contienen facturas.",
+        "Muchas personas, sin ser conscientes de los riesgos, dan clic en estos enlaces desconocidos.",
+        "Acciones preventivas:",
+        "- Las instituciones confiables nunca solicitan datos mediante un email.",
+        "- Verifica la autenticidad del enlace sospechoso escribiendo el nombre del sitio en la barra de direcciones.",
+        "- Revisa constantemente tus cuentas y el sistema operativo para evitar vulnerabilidades.",
+        "- No abras correos de origen dudoso ni hagas clic en los enlaces que contienen."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_36.png"
+    },
+    {
+      "pagina": 37,
+      "fragmento": [
+        "Tipos de ataques phishing o de suplantación de identidad.",
+        "1. Suplantación de identidad dirigida.",
+        "Se trata de ataques específicos contra una persona dentro de una organización, con el objetivo de robar sus credenciales.",
+        "El atacante primero recopila información como nombre, puesto y contacto.",
+        "Ejemplo: Un empleado de NTL World fue atacado con un mensaje que pedía firmar un nuevo manual de empleados.",
+        "El enlace conducía a un sitio donde se solicitaba información privada."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_37.png"
+    },
+    {
+      "pagina": 38,
+      "fragmento": [
+        "2. Vishing.",
+        "Vishing es la abreviatura de 'suplantación de identidad de voz'. El atacante utiliza llamadas telefónicas para engañar y obtener datos.",
+        "Puede hacerse pasar por alguien de confianza.",
+        "Ejemplo: En 2019, se dirigió una campaña de vishing contra parlamentarios del Reino Unido y sus empleados.",
+        "Se enviaron más de 21 millones de correos electrónicos no deseados en este ataque."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_38.png"
+    },
+    {
+      "pagina": 39,
+      "fragmento": [
+        "3. Suplantación de identidad por correo electrónico.",
+        "El atacante envía correos que aparentan ser legítimos para engañar al destinatario y obtener datos mediante respuestas o sitios falsos.",
+        "Ejemplo: Utilizando información de LinkedIn, atacantes contactaron empleados de Sony mediante ingeniería social.",
+        "Lograron sustraer más de 100 terabytes de datos."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_39.png"
+    },
+    {
+      "pagina": 40,
+      "fragmento": [
+        "4. Suplantación de identidad HTTPS.",
+        "Consiste en enviar correos con enlaces a sitios falsos que simulan ser seguros (HTTPS), para engañar al usuario.",
+        "Ejemplo: El grupo Scarlet Widow envía correos electrónicos vacíos con pequeños enlaces que redirigen a sitios maliciosos."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_40.png"
+    },
+    {
+      "pagina": 41,
+      "fragmento": [
+        "5. Ataque farmacéutico.",
+        "La víctima recibe un código malicioso en su computadora que la dirige a un sitio falso para robar sus credenciales.",
+        "Ejemplo: En 2007, más de 50 instituciones financieras fueron atacadas mediante este tipo de estafa."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_41.png"
+    },
+    {
+      "pagina": 42,
+      "fragmento": [
+        "Un ataque de 'denegación de servicio distribuido' o DDoS busca colapsar un servidor usando redes de bots u otras técnicas.",
+        "La organización no puede ofrecer sus servicios normalmente mientras el ataque está en curso."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_42.png"
+    },
+    {
+      "pagina": 43,
+      "fragmento": [],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_43.png"
+    },
+    {
+      "pagina": 44,
+      "fragmento": [
+        "Ejemplos de ataques DDoS.",
+        "1. Ataques en el nivel de aplicaciones (capa 7 del modelo OSI).",
+        "Estos ataques agotan los recursos del servidor utilizando múltiples solicitudes HTTP.",
+        "La séptima capa es donde se generan las páginas web en respuesta a peticiones HTTP.",
+        "El servidor se satura ejecutando consultas de base de datos y cargando archivos."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_44.png"
+    },
+    {
+      "pagina": 45,
+      "fragmento": [
+        "2. Inundación HTTP.",
+        "Consiste en enviar múltiples solicitudes HTTP desde muchas computadoras, como si se actualizaran páginas repetidamente.",
+        "Esto genera una sobrecarga que ocasiona la denegación de servicio.",
+        "Puede ejecutarse de forma simple, usando una sola URL y pocas IPs, o de forma compleja con IPs y URLs aleatorias."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_45.png"
+    },
+    {
+      "pagina": 46,
+      "fragmento": [
+        "3. Ataques de protocolo.",
+        "Son ataques DDoS conocidos como de 'agotamiento del estado' que explotan vulnerabilidades en las capas 3 y 4 del modelo OSI: red y transporte.",
+        "Saturan los recursos del servidor y de los equipos de red, como firewalls, provocando una denegación de servicio.",
+        "Un ejemplo es la inundación SYN, que explota el protocolo TCP enviando una gran cantidad de solicitudes de conexión desde direcciones IP falsas."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_46.png"
+    },
+    {
+      "pagina": 47,
+      "fragmento": [
+        "4. Ataques volumétricos.",
+        "Consisten en generar una gran cantidad de datos para saturar el ancho de banda disponible en el servidor.",
+        "Esto crea un aumento brusco del tráfico, provocando una denegación de servicio."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_47.png"
+    },
+    {
+      "pagina": 48,
+      "fragmento": [
+        "5. Amplificación de DNS.",
+        "Es un ataque basado en la reflexión, donde se envía una solicitud a un servidor DNS desde una IP falsificada (del servidor de destino).",
+        "El servidor DNS responde al destino nuevamente, generando tráfico adicional.",
+        "Se amplifica mediante botnets, que sobrecargan los recursos del servidor objetivo rápidamente."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_48.png"
+    },
+    {
+      "pagina": 49,
+      "fragmento": [
+        "Amenaza interna.",
+        "Es un ataque originado dentro de la organización.",
+        "Los responsables suelen ser empleados con acceso a información privilegiada, que usan su posición para robar datos o modificar sistemas críticos."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_49.png"
+    },
+    {
+      "pagina": 50,
+      "fragmento": [],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_50.png"
+    },
+    {
+      "pagina": 51,
+      "fragmento": [
+        "¿Cómo funciona la ciberseguridad?",
+        "Los sistemas de ciberseguridad operan de manera preventiva.",
+        "Implementan actualizaciones de software y capas de protección para detectar y bloquear actividades inusuales."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_51.png"
+    },
+    {
+      "pagina": 52,
+      "fragmento": [
+        "¿Cómo funciona la ciberseguridad?",
+        "También se emplea el hacking ético, práctica que detecta vulnerabilidades bajo supervisión, para corregirlas antes de que sean explotadas."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_52.png"
+    },
+    {
+      "pagina": 53,
+      "fragmento": [],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_53.png"
+    },
+    {
+      "pagina": 54,
+      "fragmento": [
+        "Hacker ético.",
+        "Funciones:",
+        "- Ejecutar pruebas de penetración (pentesting).",
+        "- Monitorear redes para prevenir la inyección de código malicioso.",
+        "- Manejo de sistemas y recuperación de información.",
+        "Formación:",
+        "- Grado en Sistemas, Computación o Ingeniería.",
+        "- Certificación en hacking ético (CEH, EC-Council).",
+        "Habilidades:",
+        "- Criptografía.",
+        "- Análisis de vulnerabilidades.",
+        "- Monitoreo de redes.",
+        "- Penetración de redes.",
+        "- Herramientas: Nmap, Burp Suite, Netsparker.",
+        "Salario estimado:",
+        "- Junior: $38,000.",
+        "- Medio: $54,000.",
+        "- Senior: $80,000."
+      ],
+      "imagen": "procesados\\semana_11\\11 Ing Sistemas de Informacion V1\\slide_54.png"
+    }
+  ]
+}

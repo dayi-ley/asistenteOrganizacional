@@ -1,0 +1,38 @@
+{
+  "informacion_general": {
+    "nombre_asignatura": "INGENIERÍA DE SISTEMAS DE INFORMACIÓN",
+    "codigo": "101029",
+    "departamento_academico": "Ingeniería electrónica e informática",
+    "escuela_profesional": "Ingeniería informática",
+    "programa_estudios": "Ingeniería informática",
+    "plan_estudios": "2019",
+    "ciclo_estudios": "VII",
+    "creditos": 4,
+    "requisito": "101024 Investigación de Operaciones",
+    "modalidad": "Presencial",
+    "semestre_academico": "2025-I",
+    "duracion_semanas": 16,
+    "horas_semanales": 5,
+    "horas_teoria": 3,
+    "horas_practica": 2,
+    "fecha_inicio": "2025-04-07",
+    "fecha_fin": "2025-07-26",
+    "docente": "Ing. Rea Morales, Alejandro"
+  },
+  "sumilla": {
+    "descripcion": "La asignatura pertenece al área curricular de estudios de especialidad, es teórico-práctico y tiene el propósito de desarrollar en el estudiante la capacidad de analizar la información relevante de la organización, con el uso de sistemas de información gerencial, utilizando modelos de sistemas de información.",
+    "unidades_aprendizaje": [
+      "Introducción a la ingeniería de sistemas de información",
+      "Fundamentos de un sistema de información",
+      "Modelos de sistemas de información",
+      "Formulación de proyectos de sistemas de información"
+    ],
+    "tarea_academica": "Al finalizar la asignatura, el alumno plantea y formula modelos, diseña e implementa sistemas de información en una organización."
+  },
+  "capacidades": [
+    "Maneja conceptos generales de un Sistema de Información",
+    "Identifica adecuadamente la estructura, tecnología e interdependencias de los Sistemas de Información",
+    "Reconoce adecuadamente la conexión entre la Empresa, la Infraestructura de T.I, las Capacidades de Negocio y el Nuevo Enfoque de la Cadena de Valor de los Sistemas de Información",
+    "Comprende la situación al identificar un problema para hacer una toma de decisiones tomando criterios basados en Sistema de Información"
+  ]
+} 

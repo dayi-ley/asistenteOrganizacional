@@ -1,0 +1,399 @@
+{
+  "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+  "semana": "semana_06",
+  "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+  "fragmentos": [
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Universidad Nacional Federico Villarreal FACULTAD DE INGENIERÍA ELECTRÓNICA E INFORMÁTICA INGENIERÍA DE SISTEMAS DE INFORMACIÓN Docente Ing. Alejandro Rea Lima, Perú Mayo 2025 Sesión 06"
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Tendencias tecnológicas que toda empresa debe conocer"
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Da igual si eres líder de equipo, supervisor, gerente, directivo o el CEO de la empresa. Todo líder tiene un papel esencial en impulsar una cultura de innovación y transformación digital en tu compañía. La adopción de nuevas tecnologías es clave para buscar la innovación y el crecimiento de tu empresa en los próximos años. Es el momento de asumir la responsabilidad estratégica de identificar, adoptar e integrar estas novedades en los procesos y proyectos."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Este capítulo presenta 10 tendencias tecnológicas que toda empresa debe dominar para lograr equipos más eficientes, efectivos y productivos."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "1. IA y aprendizaje automático La IA generativa es tendencia desde 2022 y sigue en crecimiento. Los modelos de lenguaje a gran escala ahora procesan prompts de tamaño equivalente a 20 novelas. Este avance impulsa inversión en aplicaciones como chatbots, campañas publicitarias y descubrimiento de fármacos."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "2. Ciberseguridad Los delitos digitales generan un costo de 9,5 billones de euros al año para empresas y gobiernos. Esto supera el PIB combinado de España, Francia y Brasil. Invertir en protección contra amenazas y corregir vulnerabilidades técnicas es fundamental."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "3. Tecnologías sostenibles Aunque solo el 12% de los CEOs la prioriza, solo el 38% la integra en sus decisiones. Una estrategia sostenible puede mejorar el cumplimiento regulatorio, optimizar recursos y transformar la percepción pública de la marca."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "4. Computación cuántica Aunque incipiente, la computación cuántica atrae inversiones millonarias. Usa bits cuánticos en lugar de binarios, permitiendo cálculos revolucionarios a alta velocidad."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "5. Internet de las Cosas IoT Un ecosistema moderno procesa terabytes por minuto. Captura información con sensores y la analiza localmente con edge computing. Actúa como una red de mini gestores que toman decisiones en tiempo real."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "6. Infraestructura en nube híbrida Combina escalabilidad, seguridad y cumplimiento con integración de nube pública y soluciones locales. Ideal para empresas que buscan velocidad de procesamiento y automatización."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "7. Blockchain Registro digital descentralizado y distribuido usado para transacciones. Base de criptomonedas como Bitcoin, pero también tiene usos empresariales. Se espera que alcance 788.000 millones de euros en 2032."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "8. Robots y cobots Robots multifuncionales que realizan múltiples tareas y alternan entre ellas. Ofrecen eficiencia, retorno rápido de inversión y escalabilidad. Pueden colaborar con humanos o reemplazarlos en ciertas tareas."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "9. Baterías de estado sólido Ofrecen mayor seguridad, carga rápida y alta densidad energética. Superan las de iones de litio, permitiendo celulares con autonomía de días y vehículos con más de 1.000 km de alcance."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "10. Plataformas LowcodeNocode Permiten crear soluciones digitales sin necesidad de conocimientos técnicos. Reducen la dependencia de equipos TI. Las aplicaciones son más fáciles de integrar, modificar y actualizar. Se proyecta un mercado de 178.000 millones de euros en 2030."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Cómo la IA está transformando las empresas"
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 15,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_15.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Una transformación significativa Categorías de IA en la práctica empresarial Desafíos en la implementación de IA Cómo adoptarla exitosamente El futuro de la IA en las empresas"
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 17,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_17.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Según Harvard Business Review, el 75% de los ejecutivos cree que la IA transformará sus empresas en los próximos 36 meses. El interés por IA creció de 0,71% en 2016 a 16,53% en 2023. Se proyecta que los ingresos pasen de 108,4 millones USD en 2020 a 738,7 millones USD en 2030. Crecimiento del interés global en IA entre 2015 y 2023 según participación de empresas."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 18,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_18.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Machine Learning será motor clave del crecimiento de IA en la próxima década. El mercado pasará de 59,2 millones USD en 2020 a 528,1 millones USD en 2030. Otras áreas incluyen Procesamiento de lenguaje natural Sensores autónomos Robótica de IA Visión computacional Las pequeñas y medianas empresas pueden usar ML para mejorar eficiencia, personalizar experiencias y tomar decisiones más acertadas."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 19,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_19.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "IA en la práctica empresarial Tres aplicaciones clave Automatización de procesos de negocio Generación de insights con análisis de datos Compromiso cognitivo chatbots, recomendaciones, apoyo a empleados El uso más común es para automatizar tareas físicas y digitales. Luego viene el análisis de patrones a gran escala. El compromiso cognitivo es menos frecuente pero incluye herramientas de interacción inteligente."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 21,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_21.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "CATEGORÍAS DE LA IA EN LA PRÁCTICA EMPRESARIAL Toda empresa necesita analizar sus resultados y estudiar el mercado para tener éxito. El insight cognitivo va más allá de un análisis de datos común utiliza algoritmos para detectar patrones en grandes volúmenes de datos e interpreta lo que significan. En el mercado automotriz, por ejemplo, esta tecnología analiza datos de vehículos con garantía activada."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 21,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_21.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Así se identifican problemas de seguridad o calidad en coches, motos, aviones o piezas específicas. Ventajas del insight cognitivo frente al análisis de datos tradicional Más profundidad en la interpretación. Identificación avanzada de patrones. Mayor precisión en conclusiones empresariales."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 22,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_22.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "CATEGORÍAS DE LA IA EN LA PRÁCTICA EMPRESARIAL Incluye proyectos que involucran clientes o empleados mediante herramientas como chatbots, agentes inteligentes y aprendizaje automático. Muchas empresas ya implementan agentes inteligentes que ofrecen atención personalizada 247. Estos robots digitales resuelven tareas de baja y media complejidad como recuperación de contraseñas o soporte técnico."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 22,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_22.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Sitios web y apps incorporan sistemas de recomendación altamente personalizados, donde el usuario describe lo que desea. Uso interno de IA sitios para responder preguntas frecuentes sobre TI, beneficios y políticas de RRHH. La IA permite mejorar no solo la experiencia del cliente, sino también el soporte a los empleados."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 23,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_23.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Desafíos en la implementación de la IA No importa si implementas un tipo específico de IA o varios, siempre habrá desafíos. Una investigación de Rackspace Technology con 1.870 empresas reveló que el 34% de los proyectos de IA fallan o son abandonados. Principales causas de fracaso Falta de datos de calidad. Ausencia de especialistas en la organización. Estrategia mal elaborada. Es clave conocer estos obstáculos para prepararse y superarlos."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 24,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_24.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "1. Falta de datos de calidad Datos insuficientes o con mala calidad dificultan obtener resultados útiles con IA. La IA depende de datos sólidos para generar insights valiosos. Esto afecta sobre todo a empresas pequeñas por los altos costos asociados software, hardware, mantenimiento y personal especializado. Integrar IA con sistemas existentes ERP, CRM, CMS puede requerir desarrollo de APIs personalizadas."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 24,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_24.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Motivos frecuentes de fallos en IA y ML 34% Falta de calidad en los datos. 34% Falta de experiencia interna. 31% Datos no listos para producción. 31% Estrategia mal concebida. 29% Ausencia de entorno de desarrollo. 27% Sesgo en el algoritmo. 28% Falta de inversión en personal adecuado."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 25,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_25.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "4. Cuestiones de seguridad Los gestores temen que la IA acceda a datos sensibles. Es vital elegir herramientas que cumplan con las leyes y normas vigentes. 5. Cambio de cultura La IA implica nuevos procesos y decisiones. La alta dirección debe involucrar al personal y ofrecer formación adecuada. 6. Falta de habilidades técnicas La IA requiere conocimientos en data science, ML y programación. No todas las empresas tienen ese perfil técnico disponible. 7. Subvaloración de la IA"
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 25,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_25.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Algunos líderes no entienden el valor de la IA. Se recomienda educar sobre su potencial, mostrando casos de éxito reales."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 26,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_26.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "8. Regulación La IA está en evolución constante los cambios regulatorios son difíciles de seguir. Las organizaciones deben identificar riesgos y trabajar en mitigarlos cumpliendo normativas actuales y futuras. 9. Aceptación de los empleados Algunos empleados no entienden la IA o se sienten incómodos con ella. Involucrarlos desde el diseño y ofrecer formación asegura mejor adopción. 10. Expectativas irreales Promesas exageradas generan expectativas poco realistas."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 26,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_26.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Es crucial educar a los stakeholders sobre las limitaciones de la IA y enfocar sus expectativas en lo posible."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 27,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_27.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Investigación de Deloitte sobre IA generativa Impedimentos destacados para su adopción 35% Riesgo de errores con consecuencias reales salud, finanzas. 34% Proyectos que no entregan el valor esperado. 30% Escasez de datos de alta calidad. 29% Pérdida de confianza por sesgos y errores. Otros problemas 25% Disputas legales por propiedad intelectual. 20% Altos costos de desarrollo y operación, especialmente para pequeñas empresas."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 28,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_28.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Preocupaciones ambientales El 13% destaca el alto consumo energético de modelos complejos, impulsando la demanda por soluciones sostenibles. Cuestiones de soberanía en IA El 12% refleja tensiones geopolíticas por el control de tecnologías estratégicas, generando incertidumbre regulatoria y dependencia global. Estos desafíos requieren innovación técnica, gobernanza sólida y ajustes de expectativas para que la IA generativa alcance su potencial."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 28,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_28.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Obstáculos para la adopción futura de IA generativa Errores con consecuencias en el mundo real Disponibilidad limitada de datos de alta calidad Cuestiones de propiedad intelectual Impacto energético y ambiental No alcanzar el valor esperado Pérdida de confianza por sesgos y errores Costos crecientes de desarrollo y operación Tensiones de soberanía tecnológica"
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 29,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_29.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Cómo adoptar la IA de manera exitosa Conociendo las categorías de IA y sus desafíos, es hora de aplicar una estrategia de adopción efectiva. Esta guía explica cómo seleccionar las funcionalidades adecuadas y definir el alcance del proyecto según el tamaño de la organización. Ya sea mejorando procesos cotidianos o transformando operaciones radicalmente, sigue estos pasos para maximizar tus resultados."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 30,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_30.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Estudia las tecnologías que pretendes implementar El primer paso es entender qué recurso de IA necesita más tu empresa. Evita perseguir tecnologías equivocadas investigando bien qué hace cada aplicación y sus limitaciones. Aspectos clave a considerar 1. ¿Qué problemas resuelven? 2. ¿Cuáles son los mejores proveedores? 3. ¿Qué tan rápido se puede implementar?"
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 30,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_30.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Ejemplo El aprendizaje profundo es útil para procesar grandes volúmenes de datos, pero difícil de auditar en industrias reguladas como las finanzas."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 31,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_31.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Aprovecha las capacidades de tu equipo Identifica colaboradores con conocimientos técnicos como científicos de datos que dominen Big Data y estadística. Si no cuentas con un equipo interno, considera construir un ecosistema de proveedores externos. Dado que el mercado de IA cognitiva aún está en sus inicios, será difícil encontrar especialistas con experiencia profunda. Recomendación centraliza talentos en áreas como TI para que puedan ser asignados transversalmente a diferentes proyectos."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 32,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_32.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Crea un portafolio de proyectos Una vez identificadas las tecnologías adecuadas, evalúa tus necesidades y capacidades para priorizar iniciativas. Busca áreas donde el análisis de datos avanzado genere impacto y donde actualmente no exista una solución similar. Ejemplo cuellos de botella entre equipos que no comparten conocimiento. Otra opción procesos costosos o lentos donde la automatización podría ahorrar recursos."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 32,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_32.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Caso real Pfizer utiliza IBM Watson para acelerar investigaciones oncológicas con IA cognitiva."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 33,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_33.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Evalúa el poder de procesamiento Si tu empresa recolecta más datos de los que puede procesar, considera aplicar IA para tareas como publicidad personalizada o predicción de ventas. Determina los casos de uso más valiosos haciendo preguntas como 1. ¿Qué tan crítico es este problema para mi estrategia? 2. ¿Qué tan difícil sería implementar la solución? 3. ¿Los beneficios superan los costos y riesgos? Una vez definido esto, selecciona la tecnología adecuada para cada caso."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 33,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_33.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Ejemplo Para chatbots, verifica que puedan generar respuestas avanzadas. Para reconocimiento visual, asegúrate de contar con datos etiquetados y evitar imágenes complejas que el sistema no pueda procesar."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 34,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_34.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Prueba pilotos y rediseña flujos Implementa proyectos piloto de forma incremental utilizando tecnologías disponibles mientras planificas transformaciones mayores. Ejemplo empezar automatizando solicitudes internas de TI antes de escalar a atención al cliente. Crea un equipo o departamento especializado en gestión de proyectos de IA. Esto permite formar colaboradores con habilidades específicas y aumenta las probabilidades de que los pilotos se conviertan en iniciativas definitivas."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 34,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_34.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Pfizer cuenta con más de 60 proyectos de IA cognitiva muchos aún son pilotos, otros están en etapa final de implementación."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 35,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_35.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Cómo adoptar la IA de manera exitosa Promueve el crecimiento de estas iniciativas. De los proyectos piloto lanzados, al menos uno debería tener éxito y convertirse en solución definitiva. Prevé colaboración estrecha entre especialistas en tecnología y responsables del proceso automatizado. En la mayoría de casos, será necesario integrar la nueva funcionalidad con sistemas y procesos existentes. Crea un plan detallado que facilite la expansión de los proyectos piloto exitosos."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 36,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_36.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Cómo adoptar la IA de manera exitosa Promueve el crecimiento de estas iniciativas. Al menos uno de los proyectos piloto debe convertirse en solución definitiva. Prevé colaboración entre especialistas en tecnología y responsables del proceso automatizado. Promueve la integración de la nueva funcionalidad con sistemas y procesos existentes. Establece un plan detallado que facilite la evolución de estas soluciones."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 37,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_37.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "El futuro de la IA en las empresas Las tecnologías modernas de IA tienen el potencial de transformar la forma de trabajar. No es necesario apostar todo en proyectos extremadamente ambiciosos. Se recomienda comenzar con una adopción moderada y planear una implementación agresiva a largo plazo. Empresas con esta visión estratégica podrán aprovechar plenamente los beneficios de la IA en el futuro."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 37,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_37.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Imagina un entorno donde las máquinas realizan tareas repetitivas, liberando tiempo para ser más productivo y creativo. Allí es donde reside el verdadero potencial de la Inteligencia Artificial."
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 39,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_39.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "¿Qué trabajos desaparecerán por la Inteligencia Artificial? Según el estudio de Hiring Labs de Indeed, se analizó el impacto de GenAI en más de 2.800 ocupaciones. Las cinco profesiones con mayor probabilidad de ser reemplazadas por IA son 1. Ocupaciones de contabilidad 2. Marketing digital y publicidad 3. Desarrolladores de software 4. Ocupaciones administrativas en salud 5. Supervisores y gestores de reclamos de seguros"
+    },
+    {
+      "semana": "semana_06",
+      "archivo": "06 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 40,
+      "imagen": "procesados\\semana_06\\06 Ing Sistemas de Informacion V1\\slide_40.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_06/06 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Crea un agente IA como asistente para tus clases"
+    }
+  ]
+}

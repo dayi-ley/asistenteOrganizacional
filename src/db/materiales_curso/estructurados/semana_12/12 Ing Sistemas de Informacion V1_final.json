@@ -1,0 +1,159 @@
+{
+  "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+  "semana": "semana_12",
+  "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+  "fragmentos": [
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Universidad Nacional Facultad de Ingeniería Electrónica e Informática Ingeniería de Sistemas de Información Docente Ing. Alejandro Rea Lima, Perú Junio 2025 Sesión 12"
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Tipos de ciberseguridad. Para entender mejor en qué consiste la ciberseguridad y cómo se implementa, veamos cuáles son sus principales áreas operativas."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Ciberseguridad de la infraestructura crítica. Garantiza el funcionamiento de los principales sistemas y redes de los países, tales como las redes de carreteras, servicios públicos, agua potable o energía eléctrica."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Seguridad en la red. Se enfoca en la protección de redes informáticas a través de soluciones como cortafuegos, detección de intrusiones, cifrados, controles de acceso, etc."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Seguridad en la nube. Resguarda toda la información que es almacenada y compartida en la nube, evitando la pérdida de datos, robo de credenciales, entre otras acciones perjudiciales."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Seguridad de IoT. Los dispositivos que funcionan a través de Internet son propensos a sufrir ataques cibernéticos, por lo que requieren sistemas de seguridad como autenticación o encriptación."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Seguridad de los datos. Asegura que el intercambio de datos entre un usuario a otro se realice de forma segura, mediante soluciones como el cifrado, restricciones de acceso o copias de seguridad."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Seguridad de las aplicaciones. Este tipo de ciberseguridad detecta y corrige elementos vulnerables en el código de una aplicación, evitando que puedan ser explotados por hackers y programas maliciosos."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Seguridad de los puntos de conexión. Mitiga los riesgos que surgen al ingresar a la red de una organización de forma remota. Puede clasificarse como un componente de la seguridad de la red."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Planificación de la recuperación de desastres y continuidad del negocio. Establece políticas y procedimientos para responder a un ciberataque de forma inmediata, sin comprometer el funcionamiento de una empresa."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Educación del usuario final. Consiste en capacitar al personal de una organización para detectar amenazas y reaccionar oportunamente ante ellas."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Últimas innovaciones tecnológicas en ciberseguridad."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "¿Qué aportan las tecnologías modernas de ciberseguridad? La ingeniería en ciberseguridad ha permitido desarrollar herramientas que facilitan la protección de datos para las organizaciones. Estos son algunos ejemplos."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Confianza cero. Este principio establece que ninguna aplicación ni usuario es confiable por defecto, incluso si forman parte de una organización. Con base en ello, se aplican controles de acceso y supervisión constante."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 15,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_15.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Análisis del comportamiento. Monitorea las actividades de transferencia o intercambio de información para detectar comportamientos sospechosos y tomar medidas correctivas."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 16,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_16.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Sistema de detección de intrusiones. Son herramientas utilizadas para identificar amenazas mediante sistemas modernos como machine learning y técnicas de análisis de datos."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 17,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_17.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Cifrado en la nube. Consiste en aplicar códigos de seguridad a los datos antes de subirlos a la nube, impidiendo el acceso de personas no autorizadas."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 18,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_18.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Conclusión. La ciberseguridad es esencial en un mundo digitalizado donde las amenazas son cada vez más sofisticadas. A nivel individual y organizacional, aplicar medidas de protección no solo resguarda la información, sino que también garantiza la continuidad de las operaciones."
+    },
+    {
+      "semana": "semana_12",
+      "archivo": "12 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 19,
+      "imagen": "procesados\\semana_12\\12 Ing Sistemas de Informacion V1\\slide_19.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_12/12 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Caso de estudio la empresa ciberresiliente, la nueva estrella de la ciberseguridad. Presentar 2 informes en formato Word al correo areaQunfv.edu.pe hasta las 5pm se recepcionará. Podcast recomendado 'Ciberseguridad protege tu pyme de amenazas digitales'."
+    }
+  ]
+}

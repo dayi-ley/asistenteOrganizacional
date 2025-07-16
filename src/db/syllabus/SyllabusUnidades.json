@@ -1,0 +1,201 @@
+{
+  "unidades": [
+    {
+      "id": 1,
+      "titulo": "Introducción a la Ingeniería de Sistemas de Información",
+      "logro_aprendizaje": "Analizar conceptos generales de un Sistema de Información",
+      "semanas": [
+        {
+          "semana": 1,
+          "fecha_inicio": "2025-04-07",
+          "fecha_fin": "2025-04-13",
+          "contenido_tematico": "Rol estratégico de la Ingeniería de Sistemas de Información",
+          "sesiones": [
+            "Definición y objetivos de la Ingeniería de Sistemas de Información",
+            "Importancia en la transformación digital organizacional",
+            "Relación con la Industria 4.0 y 5.0"
+          ],
+          "evidencia": "Caso: Evolución digital en la SUNAT"
+        },
+        {
+          "semana": 2,
+          "fecha_inicio": "2025-04-14",
+          "fecha_fin": "2025-04-20",
+          "contenido_tematico": "Componentes y ciclo de vida de los Sistemas de Información",
+          "sesiones": [
+            "Componentes: personas, procesos, datos, software, hardware, redes",
+            "Ciclo de vida de desarrollo de sistemas (SDLC)"
+          ],
+          "evidencia": "Mapeo de componentes de un SI (ej. sistema de matrículas universitario)"
+        },
+        {
+          "semana": 3,
+          "fecha_inicio": "2025-04-21",
+          "fecha_fin": "2025-04-27",
+          "contenido_tematico": "Historia, tendencias y futuro de los Sistemas de Información",
+          "sesiones": [
+            "Evolución de los SI: de los sistemas contables a los sistemas inteligentes",
+            "Tendencias globales: IA, Blockchain, IoT, Cloud"
+          ],
+          "evidencia": "Debate: ¿Qué tecnología redefinirá los SI en los próximos 10 años?"
+        },
+        {
+          "semana": 4,
+          "fecha_inicio": "2025-04-28",
+          "fecha_fin": "2025-05-04",
+          "contenido_tematico": "Tecnologías emergentes y su integración en los Sistemas de Información",
+          "sesiones": [
+            "Internet de las cosas (IoT), Blockchain, Inteligencia Artificial (IA), 5G",
+            "Integración con sistemas legados"
+          ],
+          "evidencia": "Taller de exploración: Puertos Inteligente Chancay"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Fundamentos de un Sistema de Información",
+      "logro_aprendizaje": "Diferenciar los tipos de sistemas que existen en niveles de organización",
+      "semanas": [
+        {
+          "semana": 5,
+          "fecha_inicio": "2025-05-05",
+          "fecha_fin": "2025-05-11",
+          "contenido_tematico": "Procesamiento de información y flujo de datos",
+          "sesiones": [
+            "Entrada, procesamiento, almacenamiento y salida de información",
+            "Flujo de datos e integridad de la información"
+          ],
+          "evidencia": "Ejercicio de modelado de flujo de datos (DFD)"
+        },
+        {
+          "semana": 6,
+          "fecha_inicio": "2025-05-12",
+          "fecha_fin": "2025-05-18",
+          "contenido_tematico": "Tipos de Sistemas de Información en la organización",
+          "sesiones": [
+            "TPS, MIS, DSS, ESS, ERP, CRM, SCM",
+            "Aplicaciones en distintos niveles jerárquicos"
+          ],
+          "evidencia": "Caso: ERP en Alicorp o SAP en Cementos Pacasmayo"
+        },
+        {
+          "semana": 7,
+          "fecha_inicio": "2025-05-19",
+          "fecha_fin": "2025-05-25",
+          "contenido_tematico": "Datos, información y conocimiento",
+          "sesiones": [
+            "Diferencias y relación entre datos, información y conocimiento",
+            "Calidad de datos y toma de decisiones"
+          ],
+          "evidencia": "Taller: limpieza de datos con Power BI"
+        },
+        {
+          "semana": 8,
+          "fecha_inicio": "2025-05-26",
+          "fecha_fin": "2025-06-01",
+          "contenido_tematico": "Examen Parcial",
+          "evidencia": "Unidad 1 y 2"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Modelos de Sistemas de Información",
+      "logro_aprendizaje": "Aplicar herramientas de modelado para representar soluciones informáticas",
+      "semanas": [
+        {
+          "semana": 9,
+          "fecha_inicio": "2025-06-02",
+          "fecha_fin": "2025-06-08",
+          "contenido_tematico": "Sistemas ERP, CRM y SCM en la era digital",
+          "sesiones": [
+            "Principios de ERP, CRM, SCM",
+            "Casos de integración en la nube"
+          ],
+          "evidencia": "Caso: ERP en Alicorp y CRM en Nestlé"
+        },
+        {
+          "semana": 10,
+          "fecha_inicio": "2025-06-09",
+          "fecha_fin": "2025-06-15",
+          "contenido_tematico": "Big Data y Analítica Avanzada",
+          "sesiones": [
+            "Fundamentos de Big Data (3Vs, 5Vs)",
+            "Herramientas: Hadoop, Spark, Power BI"
+          ],
+          "evidencia": "Caso: Analítica para seguridad ciudadana - Miraflores"
+        },
+        {
+          "semana": 11,
+          "fecha_inicio": "2025-06-16",
+          "fecha_fin": "2025-06-22",
+          "contenido_tematico": "Inteligencia Artificial aplicada a Sistemas de Información",
+          "sesiones": [
+            "Machine Learning, NLP, Deep Learning",
+            "Aplicaciones en predicción, recomendación y automatización"
+          ],
+          "evidencia": "Caso: IA en minería predictiva - Compañía Minera Antamina"
+        },
+        {
+          "semana": 12,
+          "fecha_inicio": "2025-06-23",
+          "fecha_fin": "2025-06-29",
+          "contenido_tematico": "Ciberseguridad en Sistemas de Información",
+          "sesiones": [
+            "Seguridad de la información (ISO/IEC 27001)",
+            "Gestión de riesgos y continuidad del negocio"
+          ],
+          "evidencia": "Caso: Resiliencia cibernética en BBVA Continental"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Formulación de Proyectos de Sistemas de Información",
+      "logro_aprendizaje": "Planificar y justificar técnicamente un proyecto de SI",
+      "semanas": [
+        {
+          "semana": 13,
+          "fecha_inicio": "2025-06-30",
+          "fecha_fin": "2025-07-06",
+          "contenido_tematico": "Identificación y formulación del problema",
+          "sesiones": [
+            "Diagnóstico organizacional y análisis del entorno",
+            "Técnicas de levantamiento de información (entrevistas, encuestas)"
+          ],
+          "evidencia": "Redacción: Diagnóstico y delimitación del problema de un caso real"
+        },
+        {
+          "semana": 14,
+          "fecha_inicio": "2025-07-07",
+          "fecha_fin": "2025-07-13",
+          "contenido_tematico": "Diseño y planificación del proyecto de SI",
+          "sesiones": [
+            "Alcance, objetivos, actividades, recursos, cronograma",
+            "Herramientas: EDT, Gantt, matriz de marco lógico"
+          ],
+          "evidencia": "Elaboración de planificación de proyecto"
+        },
+        {
+          "semana": 15,
+          "fecha_inicio": "2025-07-14",
+          "fecha_fin": "2025-07-20",
+          "contenido_tematico": "Evaluación de viabilidad y sostenibilidad",
+          "sesiones": [
+            "Análisis de factibilidad (técnica, económica, operativa)",
+            "Sostenibilidad del sistema a largo plazo"
+          ],
+          "evidencia": "Taller: análisis de viabilidad de propuesta de SI"
+        },
+        {
+          "semana": 16,
+          "fecha_inicio": "2025-07-21",
+          "fecha_fin": "2025-07-26",
+          "contenido_tematico": "Examen Final",
+          "evidencia": "Unidad 3 y 4"
+        }
+      ]
+    }
+  ]
+} 

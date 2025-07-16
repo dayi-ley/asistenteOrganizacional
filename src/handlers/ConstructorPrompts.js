@@ -1,0 +1,1 @@
+// Construcción dinámica del prompt para GPT basado en contexto 

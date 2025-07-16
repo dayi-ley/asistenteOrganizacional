@@ -1,0 +1,136 @@
+{
+  "semestres": [
+    {
+      "semestre": 1,
+      "total_creditos": 20,
+      "cursos": [
+        { "numero": 1, "nombre": "Lenguaje y Comunicación", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 2, "nombre": "Filosofía y Ética", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 3, "nombre": "Metodología del Trabajo Universitario", "creditos": 2, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 4, "nombre": "Actividades Culturales y Deportivas", "creditos": 1, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 5, "nombre": "Matemática Básica", "creditos": 4, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 6, "nombre": "Fundamentos de Cálculo", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 7, "nombre": "Introducción a la Ingeniería Informática", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 8, "nombre": "Inglés I", "creditos": 1, "requisitos": [], "tipo": "obligatorio" }
+      ]
+    },
+    {
+      "semestre": 2,
+      "total_creditos": 22,
+      "cursos": [
+        { "numero": 9, "nombre": "Liderazgo y Desarrollo Personal", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 10, "nombre": "Medio Ambiente y Desarrollo Sostenible", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 11, "nombre": "Tecnologías de la Información y Comunicación", "creditos": 2, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 12, "nombre": "Sociología", "creditos": 2, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 13, "nombre": "Matemática Discreta para Informática", "creditos": 3, "requisitos": [5, 7], "tipo": "obligatorio" },
+        { "numero": 14, "nombre": "Cálculo Integral", "creditos": 4, "requisitos": [6], "tipo": "obligatorio" },
+        { "numero": 15, "nombre": "Física", "creditos": 4, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 16, "nombre": "Inglés II", "creditos": 1, "requisitos": [8], "tipo": "obligatorio" }
+      ]
+    },
+    {
+      "semestre": 3,
+      "total_creditos": 22,
+      "cursos": [
+        { "numero": 17, "nombre": "Psicología Organizacional", "creditos": 2, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 18, "nombre": "Estadística", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 19, "nombre": "Metodología de la Investigación Científica", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 20, "nombre": "Geopolítica y Realidad Nacional", "creditos": 3, "requisitos": [], "tipo": "obligatorio" },
+        { "numero": 21, "nombre": "Lógica Digital", "creditos": 3, "requisitos": [13, 15], "tipo": "obligatorio" },
+        { "numero": 22, "nombre": "Matemática Aplicada", "creditos": 3, "requisitos": [14], "tipo": "obligatorio" },
+        { "numero": 23, "nombre": "Lenguaje de Programación I", "creditos": 4, "requisitos": [13], "tipo": "obligatorio" },
+        { "numero": 24, "nombre": "Inglés III", "creditos": 1, "requisitos": [16], "tipo": "obligatorio" }
+      ]
+    },
+    {
+      "semestre": 4,
+      "total_creditos": 22,
+      "cursos": [
+        { "numero": 25, "nombre": "Métodos Numéricos", "creditos": 3, "requisitos": [18], "tipo": "obligatorio" },
+        { "numero": 26, "nombre": "Base de Datos I", "creditos": 3, "requisitos": [23], "tipo": "obligatorio" },
+        { "numero": 27, "nombre": "Teoría de Comunicaciones", "creditos": 3, "requisitos": [21], "tipo": "obligatorio" },
+        { "numero": 28, "nombre": "Electrónica Digital", "creditos": 4, "requisitos": [21], "tipo": "obligatorio" },
+        { "numero": 29, "nombre": "Arquitectura y Organización del Computador", "creditos": 3, "requisitos": [22], "tipo": "obligatorio" },
+        { "numero": 30, "nombre": "Lenguaje de Programación II", "creditos": 3, "requisitos": [23], "tipo": "obligatorio" },
+        { "numero": 31, "nombre": "Inglés Aplicado a la Informática I", "creditos": 3, "requisitos": [24], "tipo": "obligatorio" }
+      ]
+    },
+    {
+      "semestre": 5,
+      "total_creditos": 22,
+      "cursos": [
+        { "numero": 32, "nombre": "Contabilidad y Costos", "creditos": 3, "requisitos": [25], "tipo": "obligatorio" },
+        { "numero": 33, "nombre": "Base de Datos II", "creditos": 4, "requisitos": [26], "tipo": "obligatorio" },
+        { "numero": 34, "nombre": "Dispositivos Móviles I", "creditos": 3, "requisitos": [27, 28], "tipo": "obligatorio" },
+        { "numero": 35, "nombre": "Proyecto Integrador I", "creditos": 3, "requisitos": [26, 30], "tipo": "obligatorio" },
+        { "numero": 36, "nombre": "Lenguaje de Programación III", "creditos": 3, "requisitos": [30], "tipo": "obligatorio" },
+        { "numero": 37, "nombre": "Inglés Aplicado a la Informática II", "creditos": 3, "requisitos": [31], "tipo": "obligatorio" },
+        { "numero": 38, "nombre": "Microprocesadores", "creditos": 3, "requisitos": [28], "tipo": "electivo"}
+      ]
+    },
+    {
+      "semestre": 6,
+      "total_creditos": 22,
+      "cursos": [
+        { "numero": 39, "nombre": "Investigación de Operaciones", "creditos": 3, "requisitos": [32], "tipo": "obligatorio" },
+        { "numero": 40, "nombre": "Gestión y Análisis de Datos e Información", "creditos": 4, "requisitos": [33], "tipo": "obligatorio" },
+        { "numero": 41, "nombre": "Dispositivos Móviles II", "creditos": 3, "requisitos": [34], "tipo": "obligatorio" },
+        { "numero": 42, "nombre": "Redes y Conectividad", "creditos": 3, "requisitos": [34], "tipo": "obligatorio" },
+        { "numero": 43, "nombre": "Teleinformática I", "creditos": 3, "requisitos": [29], "tipo": "obligatorio" },
+        { "numero": 44, "nombre": "Inglés Aplicado a la Informática III", "creditos": 3, "requisitos": [37], "tipo": "obligatorio" },
+        { "numero": 45, "nombre": "Inteligencia Artificial", "creditos": 3, "requisitos": [35], "tipo": "electivo"}
+      ]
+    },
+    {
+      "semestre": 7,
+      "total_creditos": 22,
+      "cursos": [
+        { "numero": 46, "nombre": "Ingeniería de Sistemas de Información", "creditos": 4, "requisitos": [39], "tipo": "obligatorio" },
+        { "numero": 47, "nombre": "Formulación y Evaluación de Proyectos", "creditos": 3, "requisitos": [40], "tipo": "obligatorio" },
+        { "numero": 48, "nombre": "Proyecto Integrador II", "creditos": 4, "requisitos": [41], "tipo": "obligatorio" },
+        { "numero": 49, "nombre": "Planeamiento Estratégico de la Información", "creditos": 3, "requisitos": [40], "tipo": "obligatorio" },
+        { "numero": 50, "nombre": "Ingeniería Económica", "creditos": 2, "requisitos": [39], "tipo": "obligatorio" },
+        { "numero": 51, "nombre": "Teleinformática II", "creditos": 3, "requisitos": [43], "tipo": "obligatorio" },
+        { "numero": 52, "nombre": "Realidad Virtual", "creditos": 3, "requisitos": [42], "tipo": "electivo"}
+      ]
+    },
+    {
+      "semestre": 8,
+      "total_creditos": 18,
+      "cursos": [
+        { "numero": 53, "nombre": "Finanzas para Empresas", "creditos": 3, "requisitos": [39], "tipo": "obligatorio" },
+        { "numero": 54, "nombre": "Dinámica de Sistemas de Información", "creditos": 3, "requisitos": [46], "tipo": "obligatorio" },
+        { "numero": 55, "nombre": "Tópicos Avanzados en Programación", "creditos": 3, "requisitos": [48], "tipo": "obligatorio" },
+        { "numero": 56, "nombre": "Innovación y Tecnología", "creditos": 3, "requisitos": [49], "tipo": "obligatorio" },
+        { "numero": 57, "nombre": "Sistemas Operativos", "creditos": 3, "requisitos": [41], "tipo": "obligatorio" },
+        { "numero": 58, "nombre": "Proyectos Informáticos", "creditos": 3, "requisitos": [49], "tipo": "obligatorio" }
+      ]
+    },
+    {
+      "semestre": 9,
+      "total_creditos": 19,
+      "cursos": [
+        { "numero": 59, "nombre": "Prospectiva Empresarial", "creditos": 3, "requisitos": [53, 56], "tipo": "obligatorio" },
+        { "numero": 60, "nombre": "Simulación de Sistemas Informáticos y Empresariales", "creditos": 3, "requisitos": [54], "tipo": "obligatorio" },
+        { "numero": 61, "nombre": "Control y Calidad de Software", "creditos": 3, "requisitos": [55], "tipo": "obligatorio" },
+        { "numero": 62, "nombre": "Proyecto Integrador en Dispositivos Móviles", "creditos": 3, "requisitos": [55], "tipo": "obligatorio" },
+        { "numero": 63, "nombre": "Sistemas de Información Gerencial", "creditos": 3, "requisitos": [53], "tipo": "obligatorio" },
+        { "numero": 64, "nombre": "Taller de Tesis I", "creditos": 2, "requisitos": [58], "tipo": "obligatorio" },
+        { "numero": 65, "nombre": "Prácticas Pre Profesionales I", "creditos": 2, "requisitos": [58], "tipo": "obligatorio" }
+      ]
+    },
+    {
+      "semestre": 10,
+      "total_creditos": 19,
+      "cursos": [
+        { "numero": 66, "nombre": "Gerencia y Consultoría Informática", "creditos": 3, "requisitos": [59], "tipo": "obligatorio" },
+        { "numero": 67, "nombre": "Ingeniería del Conocimiento", "creditos": 3, "requisitos": [60], "tipo": "obligatorio" },
+        { "numero": 68, "nombre": "Seguridad y Auditoría Informática", "creditos": 3, "requisitos": [61], "tipo": "obligatorio" },
+        { "numero": 69, "nombre": "Tecnologías Emergentes", "creditos": 3, "requisitos": [62], "tipo": "obligatorio" },
+        { "numero": 70, "nombre": "Tecnologías E-Business", "creditos": 3, "requisitos": [62], "tipo": "obligatorio" },
+        { "numero": 71, "nombre": "Taller de Tesis II", "creditos": 2, "requisitos": [64], "tipo": "obligatorio" },
+        { "numero": 72, "nombre": "Prácticas Pre Profesionales II", "creditos": 2, "requisitos": [65], "tipo": "obligatorio" }
+      ]
+    }
+  ]
+} 

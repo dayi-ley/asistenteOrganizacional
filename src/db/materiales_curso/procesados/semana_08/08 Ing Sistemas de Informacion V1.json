@@ -1,0 +1,258 @@
+{
+  "archivo": "08 Ing Sistemas de Informacion V1.pdf",
+  "num_paginas": 27,
+  "paginas": [
+    {
+      "pagina": 1,
+      "fragmento": [
+        "Universidad Nacional Federico Villarreal.",
+        "Facultad de Electrónica e Informática.",
+        "Ingeniería de Sistemas de Información.",
+        "Docente: Ing. Alejandro Rea.",
+        "Lima, Perú – Junio 2025.",
+        "Sesión 10."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_01.png"
+    },
+    {
+      "pagina": 2,
+      "fragmento": [
+        "La inteligencia de los datos.",
+        "“La tecnología Big Data ya está aquí, ahora hay que aprender a usarla.”"
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_02.png"
+    },
+    {
+      "pagina": 3,
+      "fragmento": [
+        "En contexto.",
+        "Chris Meyer.",
+        "En la década de los 90..."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_03.png"
+    },
+    {
+      "pagina": 4,
+      "fragmento": [
+        "VOLUMEN.",
+        "VELOCIDAD.",
+        "VARIEDAD.",
+        "VERACIDAD.",
+        "VALOR."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_04.png"
+    },
+    {
+      "pagina": 5,
+      "fragmento": [
+        "Big Data es el océano de información en el que nadamos a diario: vastos zettabytes de datos que fluyen desde nuestras computadoras, dispositivos móviles y sensores de máquinas.",
+        "Las organizaciones usan estos datos para tomar decisiones, mejorar procesos y políticas, y crear productos, servicios y experiencias centrados en el cliente.",
+        "Big Data se llama \"grande\" no solo por su volumen, sino también por la variedad y complejidad de su naturaleza."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_05.png"
+    },
+    {
+      "pagina": 6,
+      "fragmento": [
+        "Normalmente, supera la capacidad de las bases de datos tradicionales para capturar, gestionar y procesar datos.",
+        "Big Data puede provenir de cualquier lugar o cosa que sea posible monitorear digitalmente.",
+        "Satélites meteorológicos, dispositivos de Internet de las Cosas (IoT), cámaras de tránsito y tendencias en redes sociales son solo algunas fuentes de datos que se extraen y analizan.",
+        "Su análisis ayuda a que las empresas sean más resilientes y competitivas."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_06.png"
+    },
+    {
+      "pagina": 7,
+      "fragmento": [
+        "La importancia del análisis de Big Data.",
+        "Mayor eficiencia.",
+        "Ventaja competitiva.",
+        "Mejora de la toma de decisiones.",
+        "Mejor experiencia del cliente.",
+        "Desafíos del análisis de Big Data."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_07.png"
+    },
+    {
+      "pagina": 8,
+      "fragmento": [
+        "El verdadero valor de Big Data se mide por el grado en que usted puede analizar y comprender los datos.",
+        "La inteligencia artificial (IA), el machine learning y las tecnologías modernas para bases de datos permiten la visualización y análisis de Big Data.",
+        "Esto brinda información estratégica accionable en tiempo real."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_08.png"
+    },
+    {
+      "pagina": 9,
+      "fragmento": [
+        "Las analíticas de Big Data ayudan a las empresas a poner sus datos a trabajar para crear nuevas oportunidades y construir modelos de negocio.",
+        "Como dijo acertadamente Geoffrey Moore, autor y analista de gestión: “Sin analíticas de Big Data, las empresas son ciegas y sordas, entran a la web como animales distraídos a una autopista.”"
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_09.png"
+    },
+    {
+      "pagina": 10,
+      "fragmento": [
+        "Fragmento ilegible o corrupto.",
+        "Esta página contiene caracteres distorsionados y no presenta contenido lógico reconocible.",
+        "No se puede recuperar texto coherente sin acceso a la fuente original en mejor resolución."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_10.png"
+    },
+    
+    {
+      "pagina": 11,
+      "fragmento": [
+        "Por inconcebible que parezca hoy, la computadora guía del Apolo llevó la primera nave espacial a la Luna con menos de 80 kilobytes de memoria.",
+        "Desde entonces, la tecnología informática ha crecido a un ritmo exponencial, y la generación de datos junto con ella.",
+        "De hecho, la capacidad tecnológica mundial para almacenar datos se ha duplicado cada tres años aproximadamente desde la década de 1980."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_11.png"
+    },
+    {
+      "pagina": 12,
+      "fragmento": [
+        "Hace poco más de 50 años, cuando despegó el Apolo 11, la cantidad de datos digitales generados en todo el mundo hubiera cabido en una laptop promedio.",
+        "En 2020, Statista estima que se crearon o replicaron 64,27B y que la cantidad de datos digitales creados durante los próximos cinco años será más del doble de los creados desde la llegada del almacenamiento digital."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_12.png"
+    },
+    {
+      "pagina": 13,
+      "fragmento": [
+        "A medida que el software y la tecnología se vuelven más avanzados, los sistemas no digitales son menos viables en comparación.",
+        "Los datos generados y recopilados digitalmente demandan sistemas de gestión más sofisticados.",
+        "Además, el crecimiento exponencial de plataformas de redes sociales, tecnologías de smartphones y dispositivos IoT digitalmente conectados ha ayudado a crear la actual era de Big Data."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_13.png"
+    },
+    {
+      "pagina": 14,
+      "fragmento": [
+        "Tipos de Big Data: ¿Qué son los datos estructurados y no estructurados?",
+        "Los conjuntos de datos (data sets) normalmente se clasifican en tres tipos según su estructura y cuán sencillo es indexarlos.",
+        "Datos estructurados.",
+        "Datos no estructurados.",
+        "Datos semiestructurados.",
+        "Los tres tipos de Big Data."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_14.png"
+    },
+    {
+      "pagina": 15,
+      "fragmento": [
+        "Tipos de Big Data.",
+        "Datos estructurados: se guardan en bases de datos, conjuntos de datos y hojas de cálculo.",
+        "Datos no estructurados: datos sin procesar como encuestas de clientes, notas y correos electrónicos.",
+        "Datos semiestructurados: poseen cierta estructura organizativa, pero no son fáciles de analizar tal como están."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_15.png"
+    },
+    {
+      "pagina": 16,
+      "fragmento": [
+        "¿Qué son datos estructurados?"
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_16.png"
+    },
+    {
+      "pagina": 17,
+      "fragmento": [
+        "Datos estructurados: es el tipo más sencillo de organizar y buscar.",
+        "Pueden incluir datos financieros, registros de máquinas y detalles demográficos.",
+        "Una hoja de cálculo de Excel, con su diseño de columnas y filas predefinidas, es una buena forma de visualizar datos estructurados."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_17.png"
+    },
+    {
+      "pagina": 18,
+      "fragmento": [
+        "Sus componentes se categorizan fácilmente, lo cual permite a los diseñadores y administradores de bases de datos definir algoritmos simples para búsqueda y análisis.",
+        "Incluso cuando existen grandes volúmenes de datos estructurados, no necesariamente califican como Big Data.",
+        "Los datos estructurados por sí solos son relativamente simples de gestionar y, por lo tanto, no cumplen con los criterios de definición de Big Data."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_18.png"
+    },
+    {
+      "pagina": 19,
+      "fragmento": [
+        "Tradicionalmente, las bases de datos han usado un lenguaje de programación llamado lenguaje de consulta estructurado (SQL) para gestionar datos estructurados.",
+        "El SQL fue desarrollado por IBM en la década de 1970 para permitirles a los desarrolladores construir y gestionar las bases de datos relacionales.",
+        "Estas bases de datos relacionales se organizaban al estilo de las hojas de cálculo que comenzaban a prevalecer en ese momento."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_19.png"
+    },
+
+    {
+      "pagina": 20,
+      "fragmento": [
+        "Sin contenido textual visible.",
+        "Esta diapositiva no contiene texto procesable. El análisis se limita a la imagen adjunta."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_20.png"
+    },
+    {
+      "pagina": 21,
+      "fragmento": [
+        "Datos no estructurados: esta categoría puede incluir cosas como posteos en redes sociales, archivos de audio, imágenes y comentarios abiertos de clientes.",
+        "Este tipo de datos no son fáciles de capturar en bases de datos relacionales estándar de filas y columnas.",
+        "Tradicionalmente, las empresas que querían buscar, gestionar o analizar grandes cantidades de datos no estructurados debían usar laboriosos procesos manuales."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_21.png"
+    },
+    {
+      "pagina": 22,
+      "fragmento": [
+        "Nunca hubo duda sobre el valor potencial de analizar y comprender tales datos, pero el costo de hacerlo a menudo era demasiado elevado para justificarlo.",
+        "Debido al tiempo que llevaba, los resultados solían quedar obsoletos incluso antes de ser entregados.",
+        "En lugar de hojas de cálculo o bases de datos relacionales, los datos no estructurados se suelen almacenar en data lakes, almacenes de datos y bases de datos NoSQL."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_22.png"
+    },
+    {
+      "pagina": 23,
+      "fragmento": [
+        "Datos semiestructurados."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_23.png"
+    },
+    {
+      "pagina": 24,
+      "fragmento": [
+        "Datos semiestructurados: tal como suena, los datos semiestructurados son un híbrido entre estructurados y no estructurados.",
+        "Los correos electrónicos son un buen ejemplo, ya que incluyen datos no estructurados en el cuerpo del mensaje, así como propiedades organizativas como emisor, destinatario, asunto y fecha.",
+        "Los dispositivos que usan etiquetado geográfico o semántico, o marcas de tiempo, también pueden brindar datos estructurados junto con contenido no estructurado."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_24.png"
+    },
+    {
+      "pagina": 25,
+      "fragmento": [
+        "Una imagen de smartphone no identificada, por ejemplo, puede indicar que es una selfie y el momento y lugar donde se tomó.",
+        "Una base de datos moderna que usa tecnología de IA no solo puede identificar al instante diferentes tipos de datos, sino también generar algoritmos en tiempo real para gestionar y analizar eficazmente los distintos data sets involucrados."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_25.png"
+    },
+    {
+      "pagina": 26,
+      "fragmento": [
+        "Fuentes de Big Data.",
+        "La cantidad de cosas que generan datos está creciendo a un ritmo fenomenal —desde satélites y drones hasta tostadoras—.",
+        "A efectos de su categorización, las fuentes de datos generalmente se dividen en tres tipos."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_26.png"
+    },
+    {
+      "pagina": 27,
+      "fragmento": [
+        "Veracidad.",
+        "Visualización.",
+        "Variedad.",
+        "Velocidad.",
+        "Viralidad."
+      ],
+      "imagen": "procesados\\semana_08\\08 Ing Sistemas de Informacion V1\\slide_27.png"
+    }
+
+  ]
+}

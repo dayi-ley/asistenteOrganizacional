@@ -1,0 +1,108 @@
+{
+  "indice_materiales": {
+    "descripcion": "Índice general de materiales del curso ISIUX para búsquedas rápidas",
+    "ultima_actualizacion": "2025-04-14",
+    "semanas_disponibles": [
+      {
+        "semana": 1,
+        "fecha_inicio": "2025-04-07",
+        "fecha_fin": "2025-04-13",
+        "tema_principal": "Panorama General de la Ingeniería de Sistemas de Información",
+        "archivo": "semana_01/materiales_semana_01.json",
+        "materiales_disponibles": {
+          "presentaciones": 1
+        }
+      },
+      {
+        "semana": 2,
+        "fecha_inicio": "2025-04-14",
+        "fecha_fin": "2025-04-20",
+        "tema_principal": "La Transformación Digital de Starbucks y Tendencias en la Industria Alimentaria",
+        "archivo": "semana_02/materiales_semana_02.json",
+        "materiales_disponibles": {
+          "presentaciones": 1,
+          "bloques": 7,
+          "resumen": 1
+        },
+        "bloques": [
+          "semana_02/bloque_01_caso_eats2go.json",
+          "semana_02/bloque_02_sistemas_en_empresas.json",
+          "semana_02/bloque_03_datos_informacion_sistemas_parte_a.json",
+          "semana_02/bloque_03_datos_informacion_sistemas_parte_b.json",
+          "semana_02/bloque_04_tipos_sistemas_informacion.json",
+          "semana_02/bloque_05_sistemas_por_funcion.json",
+          "semana_02/bloque_06_empresas_web.json"
+        ],
+        "resumen": "semana_02/resumen_general_semana_02.json"
+      },
+      {
+        "semana": 3,
+        "fecha_inicio": "2025-04-21",
+        "fecha_fin": "2025-04-27",
+        "tema_principal": "Historia, tendencias y futuro de los Sistemas de Información",
+        "archivo": "semana_03/materiales_semana_03.json",
+        "materiales_disponibles": {
+          "presentaciones": 1
+        }
+      }
+    ],
+    "palabras_clave_indexadas": {
+      "ISI": ["semana_01"],
+      "componentes": ["semana_01"],
+      "tipos de sistemas": ["semana_01"],
+      "industria 4.0": ["semana_01"],
+      "tendencias": ["semana_01", "semana_02"],
+      "desafíos": ["semana_01"],
+      "Starbucks": ["semana_02"],
+      "transformación digital": ["semana_02"],
+      "app móvil": ["semana_02"],
+      "personalización": ["semana_02"],
+      "fidelización": ["semana_02"],
+      "big data": ["semana_02"],
+      "sostenibilidad": ["semana_02"],
+      "tendencias alimentarias": ["semana_02"],
+      "innovación": ["semana_02"],
+      "Eats2Go": ["semana_02"],
+      "sistemas empresariales": ["semana_02"],
+      "datos": ["semana_02"],
+      "información": ["semana_02"],
+      "SCM": ["semana_02"],
+      "CRM": ["semana_02"],
+      "BI": ["semana_02"],
+      "ES": ["semana_02"],
+      "función empresarial": ["semana_02"],
+      "web": ["semana_02"],
+      "historia SI": ["semana_03"],
+      "tendencias SI": ["semana_03"],
+      "futuro SI": ["semana_03"],
+      "evolución SI": ["semana_03"],
+      "Blockchain": ["semana_03"],
+      "IoT": ["semana_03"],
+      "Cloud": ["semana_03"],
+      "niveles organizativos": ["semana_03"],
+      "DSS": ["semana_03"],
+      "MIS": ["semana_03"],
+      "TPS": ["semana_03"]
+    },
+    "profesores": {
+      "Alejandro Alfonso Rea Morales": {
+        "materiales_publicados": 9,
+        "semanas": ["semana_01", "semana_02", "semana_03"]
+      }
+    },
+    "tipos_contenido": {
+      "presentaciones": {
+        "total": 3,
+        "semanas": ["semana_01", "semana_02", "semana_03"]
+      },
+      "bloques": {
+        "total": 7,
+        "semanas": ["semana_02"]
+      },
+      "resumen": {
+        "total": 1,
+        "semanas": ["semana_02"]
+      }
+    }
+  }
+} 

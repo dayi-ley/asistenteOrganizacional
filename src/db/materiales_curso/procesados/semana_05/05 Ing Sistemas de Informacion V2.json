@@ -1,0 +1,189 @@
+{
+  "archivo": "05 Ing Sistemas de Informacion V2.pdf",
+  "num_paginas": 20,
+  "paginas": [
+    {
+      "pagina": 1,
+      "fragmento": [
+        "Universidad Nacional Federico Villarreal",
+        "FACULTAD DE INGENIERÍA ELECTRÓNICA E INFORMÁTICA",
+        "INGENIERÍA DE SISTEMAS DE INFORMACIÓN",
+        "Docente: Ing. Alejandro Rea",
+        "Lima, Perú - Mayo 2025",
+        "Sesión 05"
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_01.png"
+    },
+    {
+      "pagina": 2,
+      "fragmento": [
+        "Transformación Digital",
+        "Representa el cambio estructural impulsado por tecnologías emergentes en las organizaciones."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_02.png"
+    },
+    {
+      "pagina": 3,
+      "fragmento": [
+        "El 76% de las empresas peruanas ha iniciado su transformación digital.",
+        "Las áreas priorizadas son operaciones (81%) y tecnología (73%)."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_03.png"
+    },
+    {
+      "pagina": 4,
+      "fragmento": [
+        "La transformación digital en Perú ha tenido un crecimiento exponencial en los últimos años."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_04.png"
+    },
+    {
+      "pagina": 5,
+      "fragmento": [
+        "El Gobierno aprueba la Política Nacional de Transformación Digital al 2030.",
+        "Plan Bicentenario 2021–2024.",
+        "Anuncio oficial por la Presidencia del Consejo de Ministros."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_05.png"
+    },
+    {
+      "pagina": 6,
+      "fragmento": [
+        "Liderazgo en sectores clave",
+        "Las industrias financiera y retail lideran la digitalización en Perú.",
+        "Buscan ofrecer experiencias personalizadas y optimizar eficiencia operativa."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_06.png"
+    },
+    {
+      "pagina": 7,
+      "fragmento": [
+        "Impacto en la economía",
+        "La transformación digital promueve empleo, inversión extranjera e innovación en modelos de negocio."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_07.png"
+    },
+    {
+      "pagina": 8,
+      "fragmento": [
+        "Mayor eficiencia",
+        "Automatización de procesos y optimización de recursos permite reducir costos y aumentar productividad."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_08.png"
+    },
+    {
+      "pagina": 9,
+      "fragmento": [
+        "Innovación constante",
+        "La adopción de Inteligencia Artificial y Big Data impulsa nuevos productos y servicios.",
+        "Fortalece la competitividad en el mercado global."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_09.png"
+    },
+    {
+      "pagina": 10,
+      "fragmento": [
+        "Mejor experiencia del cliente",
+        "Empresas digitales ofrecen experiencias personalizadas y omnicanal.",
+        "Esto incrementa satisfacción y fidelización."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_10.png"
+    },
+    {
+      "pagina": 11,
+      "fragmento": [
+        "Desafíos y obstáculos para la transformación digital"
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_11.png"
+    },
+    {
+      "pagina": 12,
+      "fragmento": [
+        "Obstáculos",
+        "- Falta de habilidades digitales.",
+        "- Cultura organizacional poco receptiva.",
+        "- Ausencia de visión estratégica.",
+        "- Estructura rígida y piramidal."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_12.png"
+    },
+    {
+      "pagina": 13,
+      "fragmento": [
+        "Obstáculos",
+        "- Regulaciones y políticas internas restrictivas.",
+        "- Baja tolerancia al cambio.",
+        "- Comunicación interna deficiente.",
+        "- Falta de apoyo de la alta dirección."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_13.png"
+    },
+    {
+      "pagina": 14,
+      "fragmento": [
+        "El papel de la Inteligencia Artificial",
+        "La IA es clave en la transformación digital en Perú.",
+        "El 58% de las empresas la utiliza para automatizar procesos, mejorar decisiones y personalizar experiencias."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_14.png"
+    },
+    {
+      "pagina": 15,
+      "fragmento": [
+        "El talento digital como activo estratégico",
+        "El 71% de las empresas ha incorporado nuevos perfiles profesionales para sus iniciativas digitales."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_15.png"
+    },
+    {
+      "pagina": 16,
+      "fragmento": [
+        "El talento digital como activo estratégico",
+        "El 48% ha invertido en formación interna.",
+        "El 63% considera que su fuerza laboral tiene las habilidades necesarias para enfrentar desafíos digitales."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_16.png"
+    },
+    {
+      "pagina": 17,
+      "fragmento": [
+        "El talento digital como activo estratégico",
+        "Se valoran habilidades en ciencia de datos, desarrollo de software, ciberseguridad y experiencia de usuario.",
+        "Es esencial invertir en formación y capacitación."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_17.png"
+    },
+    {
+      "pagina": 18,
+      "fragmento": [
+        "Habilidades digitales más demandadas en Perú",
+        "- Gestión y análisis de grandes volúmenes de datos.",
+        "- Dominio de metodologías ágiles.",
+        "- Programación de software.",
+        "- Creación de contenido digital."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_18.png"
+    },
+    {
+      "pagina": 19,
+      "fragmento": [
+        "Habilidades digitales más demandadas en Perú",
+        "- Ciberseguridad y fraude informático.",
+        "- Plataformas de colaboración.",
+        "- Redes sociales.",
+        "- Dispositivos móviles.",
+        "- Plataformas de aprendizaje a distancia."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_19.png"
+    },
+    {
+      "pagina": 20,
+      "fragmento": [
+        "Habilidades digitales más demandadas en Perú",
+        "Las empresas peruanas están comprometidas con la innovación y adopción tecnológica.",
+        "Se requiere reducir la brecha digital, formar talento y establecer un entorno regulatorio favorable."
+      ],
+      "imagen": "procesados\\semana_05\\05 Ing Sistemas de Informacion V2\\slide_20.png"
+    }
+  ]
+}

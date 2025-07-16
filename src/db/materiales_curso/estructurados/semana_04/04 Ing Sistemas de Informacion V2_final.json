@@ -1,0 +1,151 @@
+{
+  "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+  "semana": "semana_04",
+  "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+  "fragmentos": [
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Universidad Nacional Federico Villarreal FACULTAD DE INGENIERÍA ELECTRÓNICA E INFORMÁTICA INGENIERÍA DE SISTEMAS DE INFORMACIÓN Docente Ing. Alejandro Rea Lima, Perú Mayo 2025 Sesión 04"
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Industria 4.0 La Cuarta Revolución Industrial Integración de tecnologías digitales avanzadas en procesos industriales. Fábricas inteligentes con sistemas físicos y digitales interconectados."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Industria 4.0 es un término que describe la cuarta revolución industrial. Se caracteriza por la integración de tecnologías digitales avanzadas en los procesos industriales y productivos."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "El objetivo es crear fábricas inteligentes smart factories. Sistemas físicos y digitales interconectados permiten mayor automatización, eficiencia, personalización y toma de decisiones en tiempo real."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Conceptos clave de Industria 4.0 Digitalización Transformar procesos físicos en digitales. Conectividad Redes IoT conectan máquinas, sensores y sistemas. Automatización Inteligente IA y machine learning permiten que las máquinas aprendan y optimicen procesos."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Conceptos clave de Industria 4.0 Personalización masiva Producción personalizada con eficiencia de escala. Ciclo cerrado de datos Recopilación, análisis y retroalimentación continua para mejorar procesos en tiempo real."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Tecnologías habilitadoras 4.0 Internet de las Cosas IoT Conecta máquinas, sensores y sistemas para recopilar y compartir datos. Big Data y Analítica Procesa grandes volúmenes de datos para encontrar patrones y optimizar decisiones. Inteligencia Artificial y Machine Learning Permite que los sistemas aprendan y mejoren sin intervención humana directa."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Tecnologías habilitadoras 4.0 Robótica Avanzada Cobots que colaboran con humanos y se adaptan a distintas tareas. Impresión 3D Manufactura aditiva Crea piezas personalizadas reduciendo tiempos y costos. Realidad Aumentada y Realidad Virtual Mejora formación, mantenimiento y diseño en entornos industriales."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Tecnologías habilitadoras 4.0 Computación en la Nube y en el Borde Almacenamiento y procesamiento flexible de datos, tanto centralizado como cerca de la fuente. Ciberseguridad Protección de redes y sistemas industriales interconectados. Sistemas Ciberfísicos CPS Integran computación, redes y procesos físicos, base de la smart factory."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Tecnologías habilitadoras 4.0 Blockchain Asegura trazabilidad y confianza en cadenas de suministro."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplos de conceptos clave 4.0 Digitalización Una planta automotriz convierte planos en papel a modelos CAD 3D digitales para simular ensamblaje antes de construir físicamente. Conectividad Sensores en producción textil envían datos en tiempo real sobre temperatura, humedad y velocidad de máquinas."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplos de conceptos clave 4.0 Automatización inteligente Un sistema de clasificación usa cámaras y visión artificial para dirigir paquetes automáticamente. Personalización masiva Nike permite a los clientes diseñar sus zapatillas la fábrica ajusta producción sin perder eficiencia."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplos de conceptos clave 4.0 Ciclo cerrado de datos Una planta embotelladora recopila datos sobre velocidad, fallas y calidad. El sistema ajusta automáticamente la presión de las máquinas."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplos de tecnologías habilitadoras 4.0 Internet de las Cosas IoT Sensores en planta de alimentos monitorean temperatura y humedad en tiempo real. Big Data y Analítica Empresa minera analiza terabytes de datos para predecir fallas y evitar tiempos de inactividad."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 15,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_15.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplos de tecnologías habilitadoras 4.0 Inteligencia Artificial y Machine Learning IA analiza vibración en motores para predecir fallos. Robótica Avanzada Cobots en fábrica electrónica ensamblan componentes adaptándose a nuevos modelos sin reprogramación compleja."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 16,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_16.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplos de tecnologías habilitadoras 4.0 Impresión 3D Airbus fabrica piezas de titanio reduciendo peso y tiempo comparado con métodos tradicionales. Realidad AumentadaVirtual Técnicos en planta petroquímica usan gafas AR con instrucciones superpuestas en tiempo real."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 17,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_17.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplos de tecnologías habilitadoras 4.0 Computación en la Nube y en el Borde Sistema de visión artificial procesa imágenes en el edge y envía reportes a la nube. Ciberseguridad Empresa automotriz implementa firewalls y detección de intrusos para proteger robots conectados."
+    },
+    {
+      "semana": "semana_04",
+      "archivo": "04 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 18,
+      "imagen": "procesados\\semana_04\\04 Ing Sistemas de Informacion V2\\slide_18.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_04/04 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplos de tecnologías habilitadoras 4.0 Sistemas Ciberfísicos Línea de producción de bebidas ajusta velocidad y llenado de botellas según demanda en tiendas. Blockchain Empresa alimentaria registra cada paso de la cadena de suministro, garantizando trazabilidad y confianza."
+    }
+  ]
+}

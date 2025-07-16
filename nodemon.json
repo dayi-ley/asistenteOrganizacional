@@ -1,0 +1,11 @@
+{
+  "watch": ["src"],
+  "ext": "js",
+  "ignore": [
+    "src/db/**/*.json",
+    "node_modules/**/*",
+    ".wwebjs_auth/**/*",
+    "*.log"
+  ],
+  "delay": "1000"
+} 

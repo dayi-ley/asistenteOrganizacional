@@ -1,0 +1,117 @@
+{
+  "id": "fiei",
+  "nombre": "Facultad de Ingeniería Electrónica e Informática",
+  "sigla": "FIEI",
+  "universidad": "Universidad Nacional Federico Villarreal",
+  "descripcion": "Facultad que forma profesionales en las áreas de Ingeniería Electrónica, Ingeniería Informática, Ingeniería Mecatrónica e Ingeniería de Telecomunicaciones.",
+  "fecha_creacion": "1997-11-17",
+  "aniversario": "17 de noviembre",
+  "autoridades": {
+    "decano": {
+      "nombre": "Dr. Luis Humberto Manrique Suárez",
+      "correo": "decanato.fiei@unfv.edu.pe",
+      "anexo": "980223"
+    },
+    "secretario_academico": {
+      "nombre": "Mg. Oriele Cabrerba Cabrera",
+      "correo": "sa.fiei@unfv.edu.pe",
+      "anexo": "982595"
+    },
+    "oficina_administracion": {
+      "nombre": "Lic. Carmen Pisces Machuca",
+      "correo": "oaa.fiei@unfv.edu.pe",
+      "anexo": "982544"
+    },
+    "departamento_academico": {
+      "nombre": "Soledad Mosquera Zavala",
+      "correo": "",
+      "anexo": "982557"
+    }
+  },
+  "escuelas_profesionales": [
+    {
+      "id": "ii",
+      "nombre": "Ingeniería Informática",
+      "responsable": "Kleddy Guizado Zedano",
+      "correo": "epii.fiei@unfv.edu.pe",
+      "anexo": "982676"
+    },
+    {
+      "id": "ie",
+      "nombre": "Ingeniería Electrónica",
+      "responsable": "Marisol Pozo Fernández",
+      "correo": "epie.fiei@unfv.edu.pe",
+      "anexo": "982666"
+    },
+    {
+      "id": "im",
+      "nombre": "Ingeniería Mecatrónica",
+      "responsable": "Gustavo Dextre Gomero",
+      "correo": "epim.fiei@unfv.edu.pe",
+      "anexo": "982686"
+    },
+    {
+      "id": "it",
+      "nombre": "Ingeniería de Telecomunicaciones",
+      "responsable": "Cinthya Mello Díaz",
+      "correo": "epit.fiei@unfv.edu.pe",
+      "anexo": "982696"
+    }
+  ],
+  "otras_oficinas": [
+    {
+      "nombre": "Oficina de Prácticas Pre Profesionales",
+      "responsable": "Mg. Pedro Sáenz Rivera",
+      "correo": "oppp.fiei@unfv.edu.pe",
+      "anexo": "982624"
+    },
+    {
+      "nombre": "Oficina de Grados y Gestión del Egresado",
+      "responsable": "Graciela del Carpio Alva",
+      "correo": "ogt.fiei@unfv.edu.pe",
+      "anexo": "982615"
+    },
+    {
+      "nombre": "Unidad de Investigación, Innovación y Emprendimiento",
+      "responsable": "Sixta Esther Gonzales Joya",
+      "correo": "iinv.fiei@unfv.edu.pe",
+      "anexo": "982644"
+    },
+    {
+      "nombre": "Oficina de Tutoría y Psicopedagogía",
+      "responsable": "Gina Talledo Herrada",
+      "correo": "dotap.fiei@unfv.edu.pe",
+      "anexo": "982634"
+    },
+    {
+      "nombre": "Biblioteca Especializada",
+      "responsable": "No especificado",
+      "correo": "",
+      "anexo": "982597"
+    }
+  ],
+  "contacto": {
+    "direccion": "Jr. Iquique Nº 127 - Breña - Lima",
+    "telefono": "+51 748-0888",
+    "anexos": ["9871", "9866"]
+  },
+  "historial_destacado": [
+    {
+      "anio": 2023,
+      "logros": [
+        "Participación en el IV Torneo Nacional de Robótica.",
+        "Reconocimientos a los mejores ingresantes del año.",
+        "Actividades deportivas universitarias destacadas.",
+        "Docentes premiados por contribuciones investigativas."
+      ]
+    }
+  ],
+  "proyectos_en_curso": [
+    {
+      "nombre": "Nueva sede de la FIEI en Oquendo",
+      "descripcion": "Proyecto de construcción de una sede moderna para estudiantes, docentes y administrativos.",
+      "estado": "Anunciado",
+      "fecha_inicio_estimado": "2024-12"
+    }
+  ]
+} 

@@ -1,0 +1,327 @@
+{
+  "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+  "semana": "semana_07",
+  "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+  "fragmentos": [
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Universidad Nacional Federico Villarreal. Facultad de Electrónica e Informática. Ingeniería de Sistemas de Información. Docente Ing. Alejandro Rea. Lima, Perú Junio 2025. Sesión 09."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Actividad Práctica Mapeo de SI en una Empresa. Identificación de Sistemas Catalogar todos los sistemas de información utilizados en la organización, desde aplicaciones departamentales hasta plataformas corporativas. Análisis de Interrelaciones Determinar cómo se conectan e interactúan los diferentes sistemas, identificando flujos de datos y dependencias. Evaluación de Efectividad Valorar el rendimiento de cada sistema en relación con los objetivos de negocio y necesidades de los usuarios."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Propuesta de Mejoras Desarrollar recomendaciones para optimizar la arquitectura de sistemas, eliminando redundancias e incorporando nuevas soluciones. Esta actividad práctica permite aplicar los conceptos teóricos de los SI en un contexto real. Al mapear los sistemas de información de una empresa conocida o local, los participantes pueden comprender la complejidad de las arquitecturas tecnológicas empresariales y cómo estas soportan los procesos de negocio."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "El ejercicio fomenta el pensamiento crítico sobre la integración de sistemas y ayuda a identificar oportunidades de mejora que podrían aumentar la eficiencia operativa y la competitividad de la organización analizada."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Modelos de Sistemas de Información 2025. En un entorno empresarial dinámico y orientado a los datos, los modelos de sistemas de información SI han evolucionado significativamente. Hoy son herramientas estratégicas que permiten a las organizaciones adaptarse, innovar y tomar decisiones basadas en inteligencia digital."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Esta presentación explorará los principales modelos actuales y emergentes, su aplicación práctica y su papel en el diseño de soluciones inteligentes, sostenibles y centradas en el usuario para 2025. Autor Alejandro Rea Morales."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Integración de Tecnologías Emergentes. Para 2025, los modelos de SI integran naturalmente tecnologías emergentes como la inteligencia artificial, el Internet de las cosas IoT, la computación en la nube y la analítica avanzada. Esto ha transformado los SI en ecosistemas digitales complejos, centrados en el valor para el usuario, la automatización inteligente y la adaptabilidad continua. Elementos Clave Inteligencia Artificial para automatización inteligente y toma de decisiones."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Internet de las Cosas IoT para interconexión de dispositivos y datos en tiempo real. Computación en la nube para infraestructura flexible y escalable. Analítica avanzada para insights profundos en la estrategia empresarial."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Reinterpretación de Marcos Conceptuales. Modelos Clásicos EntradaProcesoSalida EPS, Modelo de DeLone y McLean. Enfoques Contemporáneos Modelos centrados en servicios digitales, arquitecturas orientadas a eventos, modelos híbridos basados en datos y flujos de valor. Estos modelos se reinterpretan bajo enfoques más contemporáneos. Esta transformación ha renovado los marcos conceptuales tradicionales."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Modelos clásicos como el de entradaprocesosalida EPS o el de DeLone y McLean se combinan o adaptan bajo enfoques actuales, centrados en servicios, eventos y valor digital."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Visión Estratégica y Humana. Alineación con el Negocio ¿Cómo se alinean los sistemas con los objetivos empresariales? Impacto en la Experiencia ¿Cómo afectan la experiencia del cliente y la eficiencia operativa? Principios Éticos y Sostenibilidad ¿Cómo incorporan principios éticos y de sostenibilidad digital? Comprender y aplicar modelos de SI en 2025 implica no solo una visión técnica, sino también estratégica y humana."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Es crucial analizar cómo estos sistemas se alinean con los objetivos del negocio, impactan en la experiencia del cliente y en la eficiencia operativa, e incorporan principios éticos y sostenibilidad."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Evolución de los Modelos de Sistemas de Información. La evolución de los modelos de SI refleja la transformación de las organizaciones, la tecnología y las necesidades sociales en el uso de la información para la toma de decisiones, automatización e innovación. Desde sus orígenes funcionales y técnicos hasta los modelos actuales, estratégicos y centrados en el valor digital. Esta evolución puede analizarse en cinco etapas clave."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "1° Generación Modelos Funcionales y Estructurados 19601980. Los primeros modelos de SI se centraban en representar los flujos de datos y procesos para automatizar tareas administrativas. Su objetivo principal era la eficiencia operativa y el procesamiento de datos. Modelo EntradaProcesoSalida EPS Base de la informática clásica, fundamental para la automatización. Diagramas de Flujo de Datos DFD Utilizados para modelar procesos y almacenamiento de datos."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Sistemas Orientados a Funciones MIS, TPS Diseñados para departamentos específicos, enfocados en el control de procesos."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "2° Generación Modelos Orientados al Soporte de Decisiones 19801990. Con la introducción de herramientas de análisis, emergieron modelos para apoyar la inteligencia gerencial. El énfasis se puso en la toma de decisiones, el análisis y la representación del conocimiento. Sistemas de Apoyo a Decisiones DSS Herramientas para facilitar la toma de decisiones complejas. Sistemas Expertos ES Emulan el conocimiento de expertos humanos."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Modelos Jerárquicos y Multidimensionales Integración de datos internos y externos para un análisis más profundo."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "3° Generación Modelos Estratégicos y de Alineación Empresarial 19902000. Los SI se volvieron críticos para la competitividad, generando modelos que vinculan la tecnología con la estrategia organizacional. El enfoque fue la alineación TInegocio y el valor estratégico. Modelo de Alineación Estratégica SAM, 1992 De Henderson y Venkatraman, vincula TI con la estrategia del negocio. Modelo de DeLone y McLean Evalúa el éxito de los sistemas de información en términos de impacto."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Integración con BPR y ERP Reingeniería de procesos de negocio y sistemas de planificación de recursos empresariales."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "4° Generación Modelos Centrados en Servicios, Procesos y Arquitectura 20002020. Con la expansión de internet y la nube, los modelos evolucionaron hacia arquitecturas flexibles y modulares. El énfasis se puso en la interoperabilidad, escalabilidad y arquitectura empresarial. Arquitectura Orientada a Servicios SOA Permite la creación de sistemas modulares y reutilizables. Modelos Basados en Procesos de Negocio BPM Enfocados en la optimización y automatización de procesos."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Arquitecturas Empresariales TOGAF, Zachman Marcos para diseñar y gestionar la arquitectura de TI de una organización."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "5° Generación Modelos Digitales e Inteligentes 20202025 y en adelante. Actualmente, los SI son ecosistemas digitales que integran datos, IA, IoT y automatización. El énfasis está en la inteligencia adaptativa, la automatización ética, la resiliencia y el valor social. Modelos Basados en Datos Impulsados por el aprendizaje automático y el análisis de datos. Modelos Predictivos Predicciones en tiempo real."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Gemelos Digitales y Sistemas Ciberfísicos Representaciones virtuales e integración de sistemas físicos y computacionales en la Industria 4.0. Modelos Éticos y Sostenibles Consideración de privacidad, equidad y responsabilidad social."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Conclusión Un Cambio de Paradigma. La evolución de los modelos de sistemas de información representa un cambio paradigmático. Hemos pasado de representar procesos internos a modelar ecosistemas dinámicos capaces de aprender, anticipar y responder en tiempo real. Esta transformación obliga a profesionales y organizaciones a repensar el diseño y uso de los SI en un mundo interconectado y centrado en el dato."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "De Procesamiento a Inteligencia Los SI han pasado de ser herramientas de procesamiento de datos a sistemas inteligentes capaces de aprender y adaptarse. Impulso de la Digitalización La digitalización global ha sido un motor clave de esta evolución. Decisiones Rápidas y Precisas La necesidad de tomar decisiones más rápidas y precisas ha acelerado el desarrollo. Tecnologías Disruptivas La integración de tecnologías disruptivas ha sido fundamental en este avance."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "El Futuro de los Sistemas de Información. La trayectoria de los SI apunta hacia una mayor integración, inteligencia y responsabilidad. Las organizaciones deben adoptar un enfoque holístico, donde la tecnología no solo optimice operaciones, sino que también genere valor social y sostenible. Generaciones De evolución de los modelos de SI. Años De transformación desde los primeros SI. Paradigma Un cambio fundamental en cómo entendemos los SI."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 15,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_15.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Sistemas ERP, CRM y SCM en la Era Digital. En la era digital actual, la gestión empresarial se apoya en sistemas tecnológicos clave que optimizan operaciones, relaciones con clientes y cadenas de suministro. Esta presentación explorará los sistemas ERP, CRM y SCM, destacando su evolución y el impacto transformador que tienen en las organizaciones modernas."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 16,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_16.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "ERP El Cerebro Organizacional. Operan en la nube SaaS, permitiendo acceso remoto y escalabilidad para adaptarse al crecimiento. Integran IA para análisis predictivo, automatización contable y gestión de riesgos, mejorando la toma de decisiones. Se conectan con IoT en manufactura o logística para seguimiento en tiempo real, optimizando procesos."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 16,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_16.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Un sistema ERP Enterprise Resource Planning es una plataforma integral que centraliza la gestión de recursos y procesos clave de una organización, desde finanzas y contabilidad hasta producción y RR.HH. Es el cerebro organizacional que integra todas las áreas funcionales, estandarizando y automatizando procesos para la transformación digital."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 17,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_17.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Casos de Éxito de ERP. Corporación Lindley Perú Migró a SAP S4HANA Cloud, integrando finanzas, logística y producción. Logró una reducción del 50% en tiempos de cierre contable y mejoró la trazabilidad del inventario, demostrando la eficiencia de la integración. Siemens Alemania Utiliza SAP ERP con inteligencia artificial para la integración global de sus plantas."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 17,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_17.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Esto resultó en un aumento significativo de la eficiencia de producción y una alineación financiera entre sus operaciones en 190 países. Estos ejemplos ilustran cómo los sistemas ERP modernos, potenciados por la nube y la IA, permiten a las grandes corporaciones optimizar sus operaciones internas a escala global, generando eficiencias y mejoras sustanciales en sus procesos."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 18,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_18.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "CRM El Corazón Orientado al Cliente. Recopilación de Datos Recoge datos de múltiples canales como sitios web, redes sociales, correo y chatbots para una visión 360 del cliente. Personalización con ML Emplea machine learning para personalizar ofertas y predecir comportamientos, mejorando la relevancia de las interacciones. Automatización Inteligente Automatiza ventas, marketing y servicio postventa con flujos inteligentes, optimizando el ciclo de vida del cliente."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 18,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_18.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "El CRM Customer Relationship Management es un sistema diseñado para gestionar las interacciones con clientes actuales y potenciales. Actúa como el corazón del negocio, enfocado en el cliente, gestionando el valor relacional y mejorando la experiencia del cliente CX para maximizar el Customer Lifetime Value CLV."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 19,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_19.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Casos de Éxito de CRM. Interbank Perú Implementó Salesforce CRM con integración omnicanal, logrando un incremento del 30% en la conversión de leads y una mejora sustancial en la satisfacción del cliente a través de la personalización. CocaCola FEMSA México Utiliza Microsoft Dynamics 365 CRM para gestionar relaciones con distribuidores y consumidores. Esto resultó en una reducción del churn y un aumento del ticket promedio gracias a campañas segmentadas por IA."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 19,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_19.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Estos casos demuestran cómo los sistemas CRM modernos permiten a las empresas fortalecer sus relaciones con los clientes, personalizar sus ofertas y optimizar sus estrategias de ventas y marketing. Esto se traduce en un crecimiento significativo y una mayor lealtad del cliente."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 20,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_20.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "SCM El Sistema Nervioso Logístico. Datos en Tiempo Real Se basa en datos en tiempo real de sensores IoT y blockchain para una trazabilidad completa de la cadena. Pronóstico con IA Utiliza inteligencia artificial para pronóstico de demanda y planificación dinámica, optimizando la gestión de inventarios. Visibilidad Aumentada Aumenta la visibilidad de inventarios, proveedores, rutas y entregas, permitiendo una gestión proactiva."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 20,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_20.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Un sistema SCM Supply Chain Management gestiona todo el flujo de bienes, servicios e información a lo largo de la cadena de valor. Es el sistema nervioso logístico que sincroniza proveedores, producción y distribución, reduciendo costos, mejorando el nivel de servicio y construyendo cadenas de suministro resilientes."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 21,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_21.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Casos de Éxito de SCM. Alicorp Perú Optimización de la cadena de suministro con Oracle SCM Cloud. Logró una mejora del 40% en la precisión del pronóstico de demanda y una reducción de quiebres de stock en puntos críticos, asegurando la disponibilidad de productos. Amazon Emplea un sistema SCM propio con IoT, IA y visión computacional."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 21,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_21.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Esto le permite cumplir entregas en menos de 24 horas en grandes regiones, con una eficiencia logística sin precedentes que redefine los estándares de la industria. Estos ejemplos resaltan cómo los sistemas SCM avanzados, impulsados por tecnologías como IoT e IA, son fundamentales para optimizar las operaciones logísticas, mejorar la precisión de los pronósticos y garantizar una entrega eficiente y rápida de productos a los consumidores."
+    },
+    {
+      "semana": "semana_07",
+      "archivo": "07 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 22,
+      "imagen": "procesados\\semana_07\\07 Ing Sistemas de Informacion V1\\slide_22.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_07/07 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Conclusión Pilares de la Transformación Digital. ERP, CRM y SCM son pilares tecnológicos complementarios en la transformación digital. Cada uno contribuye desde su ámbito a generar valor ERP garantiza eficiencia interna. CRM impulsa el crecimiento centrado en el cliente. SCM optimiza la cadena de valor externa. Su implementación integrada es un factor decisivo para la competitividad y resiliencia organizacional en la era digital."
+    }
+  ]
+}

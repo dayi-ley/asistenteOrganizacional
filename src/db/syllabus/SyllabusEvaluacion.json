@@ -1,0 +1,60 @@
+{
+  "metodologia": {
+    "estrategias_aprendizaje": [
+      "Técnica de estudio individual",
+      "Búsqueda y análisis de la información",
+      "Ensayos",
+      "Tareas de investigación",
+      "Exposiciones y debates"
+    ],
+    "estrategias_ensenanza": [
+      "Estrategia de planificación",
+      "De regulación, dirección y monitoreo",
+      "Organización de la información",
+      "Elaboración de la información",
+      "Control de la comprensión",
+      "Exposición didáctica"
+    ],
+    "linea_investigacion": [
+      "Ingeniería de Software, simulación y desarrollo de TICS",
+      "Sistema de información y optimización"
+    ]
+  },
+  "evaluacion": {
+    "reglamento": {
+      "escala": "1 a 20",
+      "nota_minima": 11,
+      "inasistencias_maximas": "30% injustificadas inhabilita al estudiante"
+    },
+    "ponderaciones": [
+      {
+        "codigo": "EP",
+        "descripcion": "Evaluación Parcial",
+        "porcentaje": 30
+      },
+      {
+        "codigo": "EF",
+        "descripcion": "Evaluación Final",
+        "porcentaje": 30
+      },
+      {
+        "codigo": "TA",
+        "descripcion": "Trabajos Académicos",
+        "porcentaje": 40
+      }
+    ],
+    "formula": "NF = (EP * 30%) + (EF * 30%) + (TA * 40%)",
+    "fechas_evaluaciones": {
+      "examen_parcial": {
+        "semana": 8,
+        "fecha": "2025-06-01",
+        "unidades": "Unidad 1 y 2"
+      },
+      "examen_final": {
+        "semana": 16,
+        "fecha": "2025-07-26",
+        "unidades": "Unidad 3 y 4"
+      }
+    }
+  }
+} 

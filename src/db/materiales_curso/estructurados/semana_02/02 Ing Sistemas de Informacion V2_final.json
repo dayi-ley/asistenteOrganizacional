@@ -1,0 +1,119 @@
+{
+  "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+  "semana": "semana_02",
+  "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+  "fragmentos": [
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Universidad Nacional Federico Villarreal FACULTAD DE INGENIERÍA ELECTRÓNICA E INFORMÁTICA INGENIERÍA DE SISTEMAS DE INFORMACIÓN Docente Ing. Alejandro Rea Lima, Perú Abril 2025 Sesión 02"
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "La Transformación Digital de Starbucks Pioneros en tecnologías digitales para mejorar la experiencia del cliente."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Estrategia Digital Integral App Móvil Lanzada en 2009, permite ordenar y pagar anticipadamente. Personalización Recopila datos para ofrecer recomendaciones específicas. Fidelización Starbucks Rewards integrado para acumular puntos."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "My Starbucks Barista Con My Starbucks Barista podrás ordenar y pagar tu pedido. Fundamentado en la Inteligencia Artificial, este asistente forma parte de la aplicación móvil de la popular marca. Permite a los clientes ordenar y pagar por sus alimentos y bebidas utilizando solo la voz, como si estuvieran hablando con un barista en la vida real."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ejemplo de interacción Banana Nut Bread will be ready at 2nd & Cherry in 8 minutes. The total cost is $5.21. Want to place the order? Let's start over. What would you like to order?"
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Beneficios para el Cliente Conveniencia Evita filas y optimiza tiempo. Personalización Experiencia adaptada a preferencias. Recompensas Productos gratuitos por fidelidad."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Impacto en la Industria McDonald's Quioscos de autoservicio y apps móviles. Domino's Pizza Rastreo de pedidos en tiempo real. Nestlé Inteligencia Artificial para desarrollar nuevas recetas. PepsiCo Realidad aumentada en empaques."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Análisis de Datos Recopilación y Análisis Captura de preferencias y hábitos mediante Big Data para identificar patrones. Resultados y Personalización Mayor satisfacción y ventas. Ofertas adaptadas al cliente."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Sostenibilidad en Starbucks Objetivos Ambientales Reducción de impacto ecológico. Prácticas Sostenibles Iniciativas de reciclaje y reducción. Impacto Social Programas comunitarios y responsabilidad."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Tendencias de Consumo Leguminosas en dietas plantbased. Riesgos de Stevia. Preocupaciones sobre Ashwagandha."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Tendencias del Sector Leguminosas Ingrediente clave en alimentación plantbased. Stevia Efectos secundarios bajo estudio. Ashwagandha Preocupaciones sobre seguridad. Ashwagandha es un arbusto de hoja perenne que crece en Asia y África. Se usa comúnmente para el estrés. Hay poca evidencia de su uso como adaptógeno. La alimentación plantbased enfatiza el consumo de alimentos de origen vegetal, como frutas, verduras, legumbres, granos integrales, nueces y semillas."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Exportaciones Alimentarias Caída de Exportaciones Impacto en la industria. Factores Macroeconómicos Nuevas regulaciones afectan el flujo. Adaptación Necesaria Empresas buscan alternativas."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Innovación en Alimentos Alimentos Transgénicos Rol clave en seguridad alimentaria. Helados Saludables Nuevos ingredientes y nutrición. Productos CBD Potencial en alimentos funcionales."
+    },
+    {
+      "semana": "semana_02",
+      "archivo": "02 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_02\\02 Ing Sistemas de Informacion V2\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_02/02 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Futuro de la Alimentación Sustentabilidad Enfoque principal para 2024. Tecnología Alimentaria IA y digitalización en producción. Preferencias Gen Z Influencia creciente en gastronomía. Colaboraciones Alianzas estratégicas entre marcas. La generación Z es el grupo de personas nacidas a finales de la década de 1990 e inicio de los 2000 19952000. Están familiarizados con el uso de la tecnología digital, internet y los medios sociales desde una edad muy temprana."
+    }
+  ]
+}

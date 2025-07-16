@@ -1,0 +1,302 @@
+{
+  "archivo": "03 Ing Sistemas de Informacion V2.pdf",
+  "num_paginas": 31,
+  "paginas": [
+    {
+      "pagina": 1,
+      "fragmento": [
+        "Universidad Nacional Federico Villarreal",
+        "FACULTAD DE INGENIERÍA ELECTRÓNICA E INFORMÁTICA",
+        "INGENIERÍA DE SISTEMAS DE INFORMACIÓN",
+        "Docente: Ing. Alejandro Rea",
+        "Lima, Perú - Abril 2025",
+        "Sesión 03"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_01.png"
+    },
+    {
+      "pagina": 2,
+      "fragmento": [
+        "Universidad Nacional Federico Villarreal",
+        "Ingeniería de Sistemas de Información",
+        "Soluciones digitales que potencian organizaciones"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_02.png"
+    },
+    {
+      "pagina": 3,
+      "fragmento": [
+        "Áreas Clave",
+        "Tecnología\nTIC, software, infraestructura",
+        "Innovación\nTransformación digital",
+        "Procesos\nFlujos de negocio",
+        "Gestión\nEstructura organizacional"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_03.png"
+    },
+    {
+      "pagina": 4,
+      "fragmento": [
+        "Objetivo Principal",
+        "Potenciar organizaciones.",
+        "Optimizar procesos.",
+        "Mejora continua mediante soluciones digitales.",
+        "Proteger información: seguridad y privacidad."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_04.png"
+    },
+    {
+      "pagina": 5,
+      "fragmento": [
+        "Componentes Fundamentales",
+        "Información\nCaptura, almacenamiento, análisis.",
+        "Organización\nEstrategia, operaciones, cultura.",
+        "Ingeniería\nDiseño, implementación, optimización.",
+        "Entorno\nÉtica, sostenibilidad, adaptabilidad."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_05.png"
+    },
+    {
+      "pagina": 6,
+      "fragmento": [
+        "Habilidades del Ingeniero",
+        "Análisis de Requerimientos\nIdentificación de necesidades de negocio.",
+        "Arquitectura de Sistemas\nDiseño de soluciones escalables.",
+        "Integración Tecnológica\nIA, IoT, Big Data, Cloud.",
+        "Gestión del Cambio\nAdaptación organizacional."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_06.png"
+    },
+    {
+      "pagina": 7,
+      "fragmento": [
+        "Tendencias Actuales",
+        "Industria 4.0\nFabricación inteligente.",
+        "Transformación Digital\nReinvención de procesos.",
+        "Automatización Inteligente\nProcesos autónomos.",
+        "Ciberseguridad Avanzada\nProtección integral."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_07.png"
+    },
+    {
+      "pagina": 8,
+      "fragmento": [
+        "Inteligencia Artificial en Sistemas",
+        "Decisiones Inteligentes\nAnálisis predictivo.",
+        "Automatización\nProcesos sin intervención humana.",
+        "Análisis de Datos\nIdentificación de patrones y tendencias."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_08.png"
+    },
+    {
+      "pagina": 9,
+      "fragmento": [
+        "Impacto Organizacional",
+        "Eficiencia\nOptimización de recursos.",
+        "Colaboración\nTrabajo en equipo potenciado.",
+        "Competitividad\nVentaja en el mercado."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_09.png"
+    },
+    {
+      "pagina": 10,
+      "fragmento": [
+        "Bibliotecas y Empresas",
+        "Tipos de organizaciones con sistemas de gestión documental y archivos.",
+        "Centros de documentación e información."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_10.png"
+    },
+    {
+      "pagina": 11,
+      "fragmento": [
+        "Tipos de Organizaciones",
+        "Ejemplos incluyen:\n- Estudiantes\n- Hospitales\n- Escuelas\n- Corporaciones (Microsoft, Google, Walmart, Shell)\n- Gobierno\n- Personas naturales (bancos, seguros, impuestos)",
+        "Sectores abordados: salud, educación, producción, seguridad, impuestos, consumo."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_11.png"
+    },
+    {
+      "pagina": 12,
+      "fragmento": [
+        "Sistemas de Información en una Organización",
+        "Niveles Organizacionales:\n- Nivel Estratégico: Sistemas de apoyo a decisiones estratégicas.\n- Nivel Táctico: Sistemas de información gerencial.\n- Nivel Operativo: Sistemas de procesamiento de transacciones."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_12.png"
+    },
+    {
+      "pagina": 13,
+      "fragmento": [
+        "Operational Management",
+        "Este nivel se ocupa de realizar transacciones diarias en la organización.",
+        "Ejemplos de usuarios: cajeros en punto de venta, empleados de recepción en bancos, hospitales, escuelas."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_13.png"
+    },
+    {
+      "pagina": 14,
+      "fragmento": [
+        "Operational Management",
+        "Usuarios de este nivel toman decisiones estructuradas guiadas por reglas definidas.",
+        "Ejemplo: número máximo de libros que se pueden pedir prestados en una biblioteca."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_14.png"
+    },
+    {
+      "pagina": 15,
+      "fragmento": [
+        "Transaction Processing Systems (TPS)",
+        "Registran las transacciones diarias de la organización.",
+        "La información gestionada por un TPS es estructurada y detallada.",
+        "Facilitan el trabajo del personal operativo."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_15.png"
+    },
+    {
+      "pagina": 16,
+      "fragmento": [
+        "Transaction Processing Systems (TPS)",
+        "Tipos de transacciones:\n- Entre empresas (B2B)\n- Empresas y consumidores (B2C)\n- Consumidores entre sí (C2C)\n- Empresas y gobierno\n- Internas de la organización"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_16.png"
+    },
+    {
+      "pagina": 17,
+      "fragmento": [
+        "Ejemplos de TPS",
+        "- Puntos de venta\n- Servicios de venta de boletos (cine, aerolíneas, autobuses)\n- Servicios de oficina (biblioteca, registros hospitalarios)\n- Comercio electrónico (Amazon)\n- Servicios en línea (gobierno electrónico)"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_17.png"
+    },
+    {
+      "pagina": 18,
+      "fragmento": [
+        "Tactical Management",
+        "Supervisa las actividades de la gestión operativa.",
+        "Enfocados en la eficiencia operativa.",
+        "Ejemplos: jefes de departamento, gerentes de nivel medio, supervisores."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_18.png"
+    },
+    {
+      "pagina": 19,
+      "fragmento": [
+        "Tactical Management",
+        "Usuarios tácticos toman decisiones semiestructuradas para mantener la operación.",
+        "Basadas parcialmente en directrices y parcialmente en criterio propio."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_19.png"
+    },
+    {
+      "pagina": 20,
+      "fragmento": [
+        "Tactical Management",
+        "Ejemplo de decisión:\n¿Podemos autorizar el crédito de un cliente incluso si excede el límite permitido?"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_20.png"
+    },
+    {
+      "pagina": 21,
+      "fragmento": [
+        "Management Information Systems (MIS)",
+        "Utilizado por gerentes tácticos para supervisar el rendimiento actual de la organización.",
+        "Un MIS utiliza, resume, agrega y compara la información de diferentes TPS para generar informes."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_21.png"
+    },
+    {
+      "pagina": 22,
+      "fragmento": [
+        "Management Information Systems (MIS)",
+        "Los informes generados por el MIS se utilizan para supervisar, controlar y predecir el rendimiento futuro.",
+        "Ejemplos de MIS:\n- Gestión de producción\n- Gestión de ventas\n- Presupuesto"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_22.png"
+    },
+    {
+      "pagina": 23,
+      "fragmento": [
+        "¿Cómo obtienen los MIS sus datos de los TPS de la organización?",
+        "Los Sistemas de Información Gerencial (MIS) recopilan datos desde múltiples TPS, incluyendo:\n- Sistema de procesamiento de pedidos\n- Archivo maestro de producción\n- Archivos de contabilidad\n- Datos de ventas\n- Datos de costos unitarios de materiales\n- Cambios en productos\n- Gastos generales",
+        "El MIS utiliza esta información para generar informes y tableros interactivos que apoyan la toma de decisiones.",
+        "Fuente: Eandon, K.C. (2012). Sistemas de Información Gerencial."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_23.png"
+    },
+    {
+      "pagina": 24,
+      "fragmento": [
+        "Strategic Management",
+        "Los usuarios de este nivel se ocupan de la planificación y el funcionamiento a largo plazo de la organización.",
+        "Se centran en la toma de decisiones eficaces."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_24.png"
+    },
+    {
+      "pagina": 25,
+      "fragmento": [
+        "Strategic Management",
+        "Utilizan la información de los gerentes tácticos, así como datos externos, para guiarse al tomar decisiones complejas y no estructuradas."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_25.png"
+    },
+    {
+      "pagina": 26,
+      "fragmento": [
+        "Decision Support Systems (DSS)",
+        "Utilizados por la alta dirección para tomar decisiones no rutinarias.",
+        "Utiliza información de sistemas internos (TPS y MIS) y fuentes externas.",
+        "El objetivo principal de los DSS es ayudar a crear soluciones a problemas únicos e inciertos."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_26.png"
+    },
+    {
+      "pagina": 27,
+      "fragmento": [
+        "Decision Support Systems (DSS)",
+        "Los DSS ayudan a responder preguntas como:\n- ¿Qué pasaría con nuestras ventas si un nuevo competidor entrara al mercado?\n- ¿Cómo afectaría un nuevo cambio en la línea de producción a nuestras ganancias?"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_27.png"
+    },
+    {
+      "pagina": 28,
+      "fragmento": [
+        "Decision Support Systems (DSS)",
+        "Los DSS utilizan métodos matemáticos, técnicas estadísticas (probabilidad, modelado predictivo, etc.) y modelos de inteligencia artificial.",
+        "Estas herramientas permiten construir y probar soluciones para diferentes escenarios."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_28.png"
+    },
+    {
+      "pagina": 29,
+      "fragmento": [
+        "Ejemplos de DSS",
+        "- Sistemas de planificación financiera\n- Sistema de gestión de préstamos bancarios\n- Sistema de comercio automatizado"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_29.png"
+    },
+    {
+      "pagina": 30,
+      "fragmento": [
+        "Tarjeta única para unir Metropolitano, Metro y corredores",
+        "La ATU anunció que en el tercer trimestre del 2025 funcionará un sistema de recaudo único entre los servicios de transporte público.",
+        "Autor: José Cayetano Chávez"
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_30.png"
+    },
+    {
+      "pagina": 31,
+      "fragmento": [
+        "Tarjeta única para Metropolitano, líneas del Metro y corredores: retos a superar",
+        "La Autoridad de Transporte Urbano para Lima y Callao (ATU) informó que en el tercer trimestre del año se concretará la tarifa integrada en los servicios concesionados de transporte público.",
+        "Esta medida permitiría a los usuarios viajar en el Metropolitano, corredores complementarios y Líneas 1 y 2 del Metro con una sola tarjeta.",
+        "David Hernández Salazar, presidente ejecutivo de la ATU, explicó que el sistema de cobro único permitirá a los usuarios utilizar los distintos servicios sin necesidad de tarjetas diferentes.",
+        "Actualmente, el sistema de recaudación está en el 'nivel 3', que integra solo el Metropolitano y los corredores con tarjetas como Lima Pass.",
+        "La ATU busca avanzar al 'nivel 4', que permitirá la integración total bajo el modelo de compensación: reunir el dinero y distribuirlo entre los operadores.",
+        "Este sistema pretende garantizar que todos los operadores se beneficien de la tarifa integrada.",
+        "Fuente: Diario El Comercio. Todos los derechos reservados."
+      ],
+      "imagen": "procesados\\semana_03\\03 Ing Sistemas de Informacion V2\\slide_31.png"
+    }
+  ]
+}

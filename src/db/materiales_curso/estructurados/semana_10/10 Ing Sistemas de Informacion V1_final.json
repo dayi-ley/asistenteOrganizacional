@@ -1,0 +1,159 @@
+{
+  "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+  "semana": "semana_10",
+  "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+  "fragmentos": [
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Ing. Alejandro Rea Morales. Mayo 2021."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "¿Qué es Power BI? Power BI es una herramienta de visualización creada por Microsoft. Funciones principales Transformación y extracción de datos valiosos insights. Creación de dashboards interactivos con inteligencia de negocios BI. Facilita la toma de decisiones en cualquier momento. ¿Qué no es Power BI? No es otro Excel se complementan perfectamente. No es una herramienta exclusiva para informáticos está diseñada para cualquier usuario."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Descarga de Power BI Desktop. Power BI Desktop uso desde PC con Windows gratis. Power BI Service Mobile App permite ver reportes desde cualquier dispositivo gratis. Creación completa de reportes sin necesidad de cuenta. Compartir y colaborar con otros usuarios requiere cuenta Pro. Cuenta Pro $10 USDmes por usuario. Enfoque recomendado uso personal con Power BI Desktop."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Consideraciones para el uso de Power BI Desktop. Registro de cuenta Power BI para utilizar Power BI Service se necesita cuenta profesional o académica. Cuentas como Gmail, Hotmail, Outlook no son válidas. El no tener cuenta no afecta el uso completo de Power BI Desktop. Tip recomendado usar Power BI en inglés. Motivos La mayoría de las consultas, funciones y soluciones están disponibles en inglés. Las actualizaciones mensuales y anuncios se realizan principalmente en inglés."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Configuración recomendada Aplicación en inglés GLOBAL Application Language. Locale en idioma de la región CURRENT FILE Locale for import."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Fases de Power BI. GD Obtener Datos Get Data desde Excel, PDF, bases de datos, fuentes web, servicios en línea, etc. DP Preparación de Datos Data Preparation limpieza y organización en Query Editor. DM Modelado de Datos Data Modeling creación de estructuras que relacionan datos. DV Visualización de Datos Data Visualization gráficos, matrices y otras visualizaciones. DR Reporteo de Datos Data Reporting estructura y formato final para la presentación del reporte."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Interfaz inicial de Power BI. Pantalla con opciones como Obtener datos. Transformar datos. Visualizar panel de reportes. Controles comunes visibles al iniciar un proyecto."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "DP Data Preparation. Se refiere al proceso de preparar las tablas en el entorno de Power BI. Uso del Editor de Consultas Query Editor para limpiar, filtrar y transformar datos."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "DM Data Modeling. Ejemplo tabla 'Productos'. Uso de propiedades y relaciones entre objetos dentro del modelo de datos. Permite construir estructuras que relacionan correctamente las distintas tablas."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "DV Data Visualization. Ejemplo de visualización utilidad por continente, utilidad por año. Elementos visuales interactivos en Power BI gráficas, filtros y campos. Función Drillthrough activa para análisis detallado."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "DR Data Reporting. Análisis de utilidad y márgenes en el periodo 20172019. Visualizaciones por producto, año y continente. Ejemplo de interpretación de margen 19.95%. Detalle de utilidad por trimestre, producto y región. Reporte estructurado con formato profesional."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Fases de Power BI Consideraciones. Algunas fases pueden no ser necesarias si el archivo está listo. Las fases no son secuenciales sino iterativas. Es común pasar entre fases mientras se desarrolla un reporte. Ejemplo una tabla ya estructurada puede no requerir modelado ni limpieza."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 12,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_12.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Práctica introductoria a Power BI. Caso de estudio empresa Appol. Registros de ingresos y gastos entre 2017 y 2019. Objetivo calcular indicadores de utilidad y % margen por producto y región. Visualizar indicadores en reporte accesible desde cualquier dispositivo usando Power BI. Tu misión desarrollar el reporte solicitado por los directivos."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 13,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_13.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Práctica introductoria Consideraciones. Fórmulas clave Utilidad Ingresos Gastos. Margen % Utilidad Ingresos. Ejemplo Manzana $1,200 ingresos, $1,000 gastos → $200 utilidad, 16% margen. Desglose por región México $1,000 ingresos, $900 gastos → 10% margen. Perú $200 ingresos, $100 gastos → 50% margen. Conclusión aunque Perú tiene menor volumen, su margen es más alto."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 14,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_14.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Interface Power BI Desktop Visualización de análisis. Barra de herramientas activa. Panel de visualizaciones, campos y filtros. Reportes construidos utilidad y margen por continente, país, año y trimestre. Ejemplo total $671,109,499 con margen del 19.95%."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 15,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_15.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Interface Power BI Desktop Vista extendida. Paneles incluyen visualizaciones, modelo de datos, filtros y campos. Gráficos por continente, país y trimestre. Dashboard profesional que muestra indicadores por región. Margen promedio 19.95%. Distribución geográfica América, Asia, Europa, Oceanía y más."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 16,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_16.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Interface Power BI Desktop configuración del reporte. Se muestran elementos interactivos como visualizaciones, filtros y campos. Paneles personalizados para análisis por país y continente. Margen y utilidad combinados en vistas filtrables. Reporte listo para consulta desde cualquier dispositivo."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 17,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_17.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "GD Conectar y Actualizar Datos. Primera función en todo proyecto integrar fuentes de datos. También usada cuando se requiere añadir nuevas fuentes. Funciones incluidas Get Data, consultas Queries, importar, conectar. Fuentes comunes archivos, bases de datos, servicios en línea. Power BI guarda las rutas a los datos y permite actualización de registros futuros."
+    },
+    {
+      "semana": "semana_10",
+      "archivo": "10 Ing Sistemas de Informacion V1.pdf",
+      "pagina": 18,
+      "imagen": "procesados\\semana_10\\10 Ing Sistemas de Informacion V1\\slide_18.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_10/10 Ing Sistemas de Informacion V1.pdf",
+      "fragmento": "Sin contenido textual visible. La página 18 parece contener únicamente elementos gráficos sin texto relevante."
+    }
+  ]
+}

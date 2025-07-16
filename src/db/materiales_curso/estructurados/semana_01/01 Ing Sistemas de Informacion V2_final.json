@@ -1,0 +1,191 @@
+{
+  "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+  "semana": "semana_01",
+  "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+  "fragmentos": [
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 1,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_01.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Universidad Nacional Federico Villarreal FACULTAD DE INGENIERÍA ELECTRÓNICA E INFORMÁTICA INGENIERÍA DE SISTEMAS DE INFORMACIÓN Docente Ing. Alejandro Rea Lima, Perú Abril 2025 Sesión 01"
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Ingeniería de Sistemas de Información Fundamentos y Aplicaciones La Ingeniería de Sistemas de Información ISI es una disciplina fundamental que se encarga del diseño, análisis, implementación y gestión de sistemas que apoyan los procesos organizacionales mediante el uso eficiente de tecnologías. Su enfoque sociotécnico integra tanto los requerimientos del negocio como la infraestructura tecnológica necesaria."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 2,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_02.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Su propósito principal es alinear la tecnología con los objetivos estratégicos de una organización, optimizando la toma de decisiones y mejorando la eficiencia operativa en todos los niveles empresariales."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Definición y Propósito de la ISI Diseño y Análisis Metodologías para crear arquitecturas de sistemas que respondan a necesidades específicas de la organización. Implementación Desarrollo e integración de soluciones tecnológicas que materializan los diseños propuestos. Gestión Administración continua de los sistemas para garantizar su funcionamiento óptimo y evolución. La ISI busca crear un puente entre las necesidades organizacionales y las soluciones tecnológicas."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 3,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_03.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Esta disciplina no solo se enfoca en aspectos técnicos, sino que considera factores humanos, procesos de negocio y objetivos estratégicos para desarrollar sistemas que realmente aporten valor."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Componentes Fundamentales de un Sistema de Información Software Programas y aplicaciones que ejecutan funciones específicas como ERP, CRM y bases de datos. Hardware Equipos físicos utilizados para el procesamiento de datos como servidores, computadoras, dispositivos móviles y sensores IoT. Datos Recursos informativos organizados que alimentan los procesos y la toma de decisiones empresariales."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 4,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_04.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Personas Usuarios y especialistas que interactúan con el sistema como analistas, usuarios finales y técnicos. Procesos Conjunto de actividades organizadas que transforman datos en información útil para la organización. Todos estos elementos trabajan de forma integrada para ofrecer soporte a las operaciones, la gestión y la estrategia de las organizaciones. La efectividad de un sistema de información depende del equilibrio y la correcta integración de estos cinco componentes fundamentales."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Tipos de Sistemas de Información Sistemas de Procesamiento de Transacciones TPS Automatizan tareas repetitivas y operativas. Ejemplo Punto de venta, nómina. Sistemas de Información Gerencial MIS Proveen reportes para la gestión media. Ejemplo Informes de ventas, inventarios. Sistemas de Soporte a Decisiones DSS Ayudan en la toma de decisiones analíticas. Ejemplo Simulaciones financieras."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 5,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_05.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Sistemas de Información Ejecutiva EIS Proveen visualización estratégica a altos directivos. Ejemplo Dashboards estratégicos. La ISI gestiona distintos tipos de sistemas, cada uno diseñado para satisfacer necesidades específicas dentro de la organización. Estos sistemas varían en complejidad y propósito, desde la automatización de tareas básicas hasta el soporte para decisiones estratégicas de alto nivel."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Sistemas Avanzados de Información Sistemas Expertos Inteligencia Artificial Simulan el juicio humano para resolver problemas complejos, como chatbots y sistemas de diagnóstico médico. Sistemas ERP Enterprise Resource Planning Integran todos los procesos de la organización, como SAP y Oracle ERP, permitiendo una gestión unificada. Sistemas CRM Customer Relationship Management Gestionan relaciones con clientes, como Salesforce y HubSpot, mejorando la experiencia del cliente."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 6,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_06.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Sistemas de Información Geográfica SIGGIS Manejan datos espaciales, como mapas de ubicación de servicios, optimizando decisiones basadas en localización. Estos sistemas avanzados representan la evolución de la ISI hacia soluciones más especializadas y potentes. Su implementación permite a las organizaciones gestionar información compleja, automatizar procesos sofisticados y obtener ventajas competitivas significativas en sus respectivos mercados."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "La ISI en la Industria 4.0 Inteligencia Artificial Automatización avanzada de procesos. Big Data y Analytics Decisiones en tiempo real. Internet de las Cosas IoT Conectividad entre dispositivos. Sistemas Ciberfísicos Integración softwarehardware. La Ingeniería de Sistemas de Información juega un papel fundamental en la Industria 4.0, facilitando la transformación digital de los procesos productivos."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 7,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_07.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Esta revolución industrial se caracteriza por la integración de tecnologías avanzadas que permiten crear entornos inteligentes donde máquinas, productos y personas están interconectados. Los sistemas de información modernos son el núcleo que permite esta interconexión, procesando enormes volúmenes de datos y facilitando la toma de decisiones automatizada."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Caso de Éxito Amazon Gestión de Inventario Sistemas automatizados que rastrean millones de productos en tiempo real en sus almacenes. Logística Inteligente Algoritmos predictivos que optimizan rutas de entrega y reducen tiempos de envío. Personalización Sistemas de recomendación basados en IA que analizan comportamientos de compra. AWS Amazon Web Services Infraestructura cloud que soporta operaciones globales y servicios a terceros."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 8,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_08.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Amazon representa uno de los casos más exitosos de implementación de sistemas de información integrados. La compañía ha revolucionado el comercio electrónico y la logística gracias a su inversión en tecnologías avanzadas que optimizan cada aspecto de su operación. Su enfoque en la integración de datos, automatización y análisis predictivo le ha permitido escalar globalmente mientras mantiene eficiencia operativa y experiencias personalizadas para millones de clientes."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Desafíos en la Implementación de SI Seguridad y Privacidad Protección de datos sensibles. Integración de Sistemas Compatibilidad entre plataformas. Resistencia al Cambio Adopción organizacional. Costes de Implementación Inversión y retorno. La implementación de sistemas de información enfrenta numerosos desafíos que deben ser gestionados adecuadamente."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 9,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_09.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "La seguridad de los datos se ha convertido en una preocupación primordial, especialmente con el aumento de ciberataques y regulaciones de privacidad más estrictas. La integración de nuevos sistemas con infraestructuras existentes presenta complejidades técnicas, mientras que la resistencia al cambio por parte del personal puede obstaculizar la adopción. Adicionalmente, los costes asociados requieren una cuidadosa planificación financiera y evaluación del retorno de inversión."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Tendencias Futuras en ISI Hiperautomatización Combinación de IA, machine learning y automatización de procesos para minimizar la intervención humana. Ciberseguridad Adaptativa Sistemas de seguridad que evolucionan automáticamente frente a nuevas amenazas. Edge Computing Procesamiento de datos cerca de la fuente para reducir la latencia y mejorar la respuesta. Realidad AumentadaVirtual Interfaces inmersivas para visualización y manipulación de datos."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "El futuro de la Ingeniería de Sistemas de Información estará marcado por tecnologías emergentes que transformarán radicalmente cómo las organizaciones gestionan y utilizan la información. La hiperautomatización promete eliminar tareas repetitivas, mientras que los avances en ciberseguridad adaptativa serán cruciales para proteger activos digitales."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 10,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_10.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Las interfaces inmersivas cambiarán nuestra forma de interactuar con los datos, y el edge computing permitirá respuestas más rápidas en entornos donde la latencia es crítica, como vehículos autónomos o aplicaciones industriales."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Actividad Práctica Mapeo de SI en una Empresa Identificación de Sistemas Catalogar todos los sistemas de información utilizados en la organización, desde aplicaciones departamentales hasta plataformas corporativas. Análisis de Interrelaciones Determinar cómo se conectan e interactúan los diferentes sistemas, identificando flujos de datos y dependencias. Evaluación de Efectividad Valorar el rendimiento de cada sistema en relación con los objetivos de negocio y necesidades de los usuarios."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "Propuesta de Mejoras Desarrollar recomendaciones para optimizar la arquitectura de sistemas, eliminando redundancias e incorporando nuevas soluciones. Esta actividad práctica permite aplicar los conceptos teóricos de la ISI en un contexto real. Al mapear los sistemas de información de una empresa conocida o local, los participantes pueden comprender la complejidad de las arquitecturas tecnológicas empresariales y cómo estas soportan los procesos de negocio."
+    },
+    {
+      "semana": "semana_01",
+      "archivo": "01 Ing Sistemas de Informacion V2.pdf",
+      "pagina": 11,
+      "imagen": "procesados\\semana_01\\01 Ing Sistemas de Informacion V2\\slide_11.png",
+      "ruta_pdf": "materiales_python/entrada_pdfs/semana_01/01 Ing Sistemas de Informacion V2.pdf",
+      "fragmento": "El ejercicio fomenta el pensamiento crítico sobre la integración de sistemas y ayuda a identificar oportunidades de mejora que podrían aumentar la eficiencia operativa y la competitividad de la organización analizada."
+    }
+  ]
+}

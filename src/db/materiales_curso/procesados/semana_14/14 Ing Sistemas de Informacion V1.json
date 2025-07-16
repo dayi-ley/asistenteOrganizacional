@@ -1,0 +1,229 @@
+{
+  "archivo": "14 Ing Sistemas de Informacion V1.pdf",
+  "num_paginas": 25,
+  "paginas": [
+    {
+      "pagina": 1,
+      "fragmento": [
+        "Universidad Nacional — Facultad de Ingeniería",
+        "Electrónica e Informática",
+        "Ingeniería de Sistemas de Información",
+        "Docente: Ing. Alejandro Rea",
+        "Lima, Perú - Julio 2025",
+        "Sesión 14"
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_01.png"
+    },
+    {
+      "pagina": 2,
+      "fragmento": [
+        "El diseño y planificación en la formulación de proyectos de Sistemas de Información (SI)."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_02.png"
+    },
+    {
+      "pagina": 3,
+      "fragmento": [
+        "El diseño y planificación de proyectos de SI es una fase crítica que determina el éxito o fracaso del sistema.",
+        "Implica pasos estructurados para comprender necesidades del negocio, definir soluciones tecnológicas y planificar su implementación."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_03.png"
+    },
+    {
+      "pagina": 4,
+      "fragmento": [],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_04.png"
+    },
+    {
+      "pagina": 5,
+      "fragmento": [
+        "Se analiza el entorno organizacional para detectar problemas o áreas de mejora.",
+        "Preguntas clave: ¿Qué necesita la organización? ¿Qué procesos se pueden automatizar o mejorar?",
+        "Ejemplo: Una universidad requiere un sistema de gestión académica porque su proceso de inscripción es lento y manual."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_05.png"
+    },
+    {
+      "pagina": 6,
+      "fragmento": [
+        "Se evalúa la viabilidad del proyecto desde tres perspectivas:",
+        "- Técnica: disponibilidad de tecnología.",
+        "- Económica: rentabilidad.",
+        "- Operativa: adaptación organizacional.",
+        "Ejemplo: BBVA evaluó costos, seguridad y escalabilidad antes de migrar sus sistemas a la nube."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_06.png"
+    },
+    {
+      "pagina": 7,
+      "fragmento": [
+        "Se recopilan y documentan necesidades funcionales y no funcionales mediante entrevistas, encuestas y análisis de procesos.",
+        "Ejemplo: En un hospital, se identifican requerimientos como gestión de pacientes, historial médico y alertas de medicamentos."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_07.png"
+    },
+    {
+      "pagina": 8,
+      "fragmento": [
+        "Se define el funcionamiento del sistema:",
+        "- Diseño lógico: estructuras de datos, flujos de información.",
+        "- Diseño físico: arquitectura tecnológica, bases de datos, interfaces.",
+        "Ejemplo: Amazon usa big data y aprendizaje automático en su sistema de recomendaciones."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_08.png"
+    },
+    {
+      "pagina": 9,
+      "fragmento": [
+        "5. Planificación del proyecto:",
+        "- Cronogramas (Gantt, PERT).",
+        "- Presupuesto.",
+        "- Asignación de recursos.",
+        "- Gestión de riesgos.",
+        "Ejemplo: Coca-Cola FEMSA planificó por país y área funcional al implementar SAP."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_09.png"
+    },
+    {
+      "pagina": 10,
+      "fragmento": [
+        "6. Prototipado y validación.",
+        "Se crean MVPs para validar ideas con usuarios antes del desarrollo completo.",
+        "Ejemplo: Spotify empezó como prototipo funcional para probar la experiencia de streaming."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_10.png"
+    },
+    {
+      "pagina": 11,
+      "fragmento": [
+        "7. Documentación y aprobación.",
+        "Se documenta el diseño y se presenta a los stakeholders para aprobación previa al desarrollo."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_11.png"
+    },
+    {
+      "pagina": 12,
+      "fragmento": [],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_12.png"
+    },
+    {
+      "pagina": 13,
+      "fragmento": [
+        "Zara (Inditex): sistema de información integrado que conecta tiendas, almacenes y producción en tiempo real.",
+        "Permite responder rápidamente a la demanda."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_13.png"
+    },
+    {
+      "pagina": 14,
+      "fragmento": [
+        "Uber: diseño de sistema para conectar conductores y pasajeros en tiempo real mediante geolocalización, precios dinámicos y calificaciones."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_14.png"
+    },
+    {
+      "pagina": 15,
+      "fragmento": [
+        "Gobierno de Estonia: digitalizó servicios públicos con un sistema nacional.",
+        "Incluye votaciones electrónicas, recetas médicas digitales y más."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_15.png"
+    },
+    {
+      "pagina": 16,
+      "fragmento": [
+        "Sector privado: casos de éxito empresarial."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_16.png"
+    },
+    {
+      "pagina": 17,
+      "fragmento": [
+        "Camposol - SAP S/4HANA.",
+        "Migración remota durante la pandemia permitió:",
+        "- Continuidad operativa.",
+        "- Trazabilidad total.",
+        "- Control financiero en tiempo real."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_17.png"
+    },
+    {
+      "pagina": 18,
+      "fragmento": [
+        "Alicorp — Proyecto TEAM (SAP ERP).",
+        "Desde 1996, integró producción, logística y finanzas.",
+        "Mejoró toma de decisiones y eficiencia operativa."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_18.png"
+    },
+    {
+      "pagina": 19,
+      "fragmento": [
+        "BBVA Perú — Transformación digital.",
+        "Estrategia basada en:",
+        "- Experiencia de usuario (UX).",
+        "- Automatización de ventas.",
+        "- Cambio cultural organizacional.",
+        "Resultados: mayor eficiencia y satisfacción del cliente."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_19.png"
+    },
+    {
+      "pagina": 20,
+      "fragmento": [
+        "Laboratoria.",
+        "Startup peruana para educación tecnológica femenina en América Latina.",
+        "Su sistema permite:",
+        "- Seguimiento de aprendizaje.",
+        "- Conexión laboral.",
+        "- Análisis de impacto social."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_20.png"
+    },
+    {
+      "pagina": 21,
+      "fragmento": [
+        "Sector público: gobierno digital y transformación."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_21.png"
+    },
+    {
+      "pagina": 22,
+      "fragmento": [
+        "Gobierno del Perú — Plataforma Gob.pe.",
+        "Centralización de más de 3,000 servicios digitales.",
+        "Beneficios:",
+        "- Acceso unificado.",
+        "- Transparencia.",
+        "- Reducción de tiempos y costos administrativos."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_22.png"
+    },
+    {
+      "pagina": 23,
+      "fragmento": [
+        "6. SUNAT — Transformación Digital Tributaria.",
+        "Ha implementado sistemas para:",
+        "- Facturación electrónica obligatoria.",
+        "- Declaraciones automáticas.",
+        "- Fiscalización inteligente con Big Data.",
+        "Impacto: aumento en la recaudación y reducción de la evasión fiscal."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_23.png"
+    },
+    {
+      "pagina": 24,
+      "fragmento": [],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_24.png"
+    },
+    {
+      "pagina": 25,
+      "fragmento": [
+        "Ferreyros: Implementó soluciones de Business Intelligence para análisis de ventas y mantenimiento predictivo.",
+        "Banco de Crédito del Perú (BCP): Aplicó inteligencia artificial para atención al cliente y análisis de riesgo.",
+        "Neptunia S.A.: Automatizó procesos logísticos mediante sistemas integrados."
+      ],
+      "imagen": "procesados\\semana_14\\14 Ing Sistemas de Informacion V1\\slide_25.png"
+    }
+  ]
+}

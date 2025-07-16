@@ -1,0 +1,305 @@
+{
+  "archivo": "13 Ing Sistemas de Informacion V1.pdf",
+  "num_paginas": 34,
+  "paginas": [
+    {
+      "pagina": 1,
+      "fragmento": [
+        "Universidad Nacional — Facultad de Ingeniería",
+        "Electrónica e Informática",
+        "Ingeniería de Sistemas de Información",
+        "Docente: Ing. Alejandro Rea",
+        "Lima, Perú - Julio 2025",
+        "Sesión 13"
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_01.png"
+    },
+    {
+      "pagina": 2,
+      "fragmento": [
+        "¿En qué consiste la Identificación y Formulación del Problema?"
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_02.png"
+    },
+    {
+      "pagina": 3,
+      "fragmento": [
+        "Es la primera etapa del ciclo de vida del desarrollo de software.",
+        "Aquí se define claramente qué problema se quiere resolver, a quién afecta y qué alcance tendrá la solución.",
+        "Es el fundamento para evitar errores costosos en etapas posteriores."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_03.png"
+    },
+    {
+      "pagina": 4,
+      "fragmento": [
+        "Objetivos principales:",
+        "- Comprender el contexto y la necesidad del cliente o usuario.",
+        "- Delimitar el problema real (no solo los síntomas).",
+        "- Establecer metas claras para el sistema.",
+        "- Documentar requerimientos iniciales (funcionales y no funcionales).",
+        "- Justificar la necesidad de una solución tecnológica."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_04.png"
+    },
+    {
+      "pagina": 5,
+      "fragmento": [
+        "Metodologías para la Identificación y Formulación del Problema."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_05.png"
+    },
+    {
+      "pagina": 6,
+      "fragmento": [
+        "1. Design Thinking.",
+        "Se centra en el usuario.",
+        "Durante la fase de 'Empatizar e Identificar el problema', se recolecta información mediante entrevistas, encuestas y observación directa.",
+        "La técnica 'How Might We...?' ayuda a formular el problema como una oportunidad."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_06.png"
+    },
+    {
+      "pagina": 7,
+      "fragmento": [
+        "2. Soft Systems Methodology (SSM).",
+        "Es útil en sistemas complejos, sociales y con múltiples partes interesadas.",
+        "Utiliza diagramas de causa-efecto y el método CATWOE (Cliente, Actor, Transformación, Weltanschauung, Owner, Environment) para formular problemas."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_07.png"
+    },
+    {
+      "pagina": 8,
+      "fragmento": [
+        "3. Análisis de Problemas (Problem Analysis).",
+        "- Forma parte del Business Analysis Body of Knowledge (BABOK).",
+        "- Identifica causas raíz, por ejemplo, mediante el diagrama de Ishikawa o los 5 Why’s.",
+        "- Define brechas entre el estado actual y el deseado."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_08.png"
+    },
+    {
+      "pagina": 9,
+      "fragmento": [
+        "4. UML en esta fase.",
+        "Se utilizan casos de uso preliminares y modelos de contexto para representar actores y procesos del sistema actual o deseado."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_09.png"
+    },
+    {
+      "pagina": 10,
+      "fragmento": [
+        "5. Lean Startup o MVP (Minimum Viable Product).",
+        "En entornos ágiles, se plantea una hipótesis de problema y se valida rápidamente con un prototipo funcional."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_10.png"
+    },
+    {
+      "pagina": 11,
+      "fragmento": [
+        "Caso práctico:",
+        "Sistema de Gestión de Citas Médicas para un Centro de Salud."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_11.png"
+    },
+    {
+      "pagina": 12,
+      "fragmento": [
+        "Contexto.",
+        "El centro de salud 'Salud Integral' atiende a más de 200 pacientes diarios.",
+        "Actualmente utiliza agendas físicas para programar citas.",
+        "Esto produce errores como duplicaciones, pérdidas de citas y tiempos de espera prolongados."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_12.png"
+    },
+    {
+      "pagina": 13,
+      "fragmento": [
+        "Identificación del problema.",
+        "Problema central: Ineficiencia en la gestión manual de citas médicas.",
+        "Causas:",
+        "- Uso de agenda física con alta probabilidad de error humano.",
+        "- Falta de control sobre disponibilidad de médicos.",
+        "- Requerimiento de presencia física o llamada telefónica para agendar cita."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_13.png"
+    },
+    {
+      "pagina": 14,
+      "fragmento": [
+        "Identificación del problema.",
+        "Consecuencias:",
+        "- Insatisfacción de los pacientes.",
+        "- Tiempos mal distribuidos para los médicos.",
+        "- Pérdida de ingresos por citas no asistidas o mal gestionadas."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_14.png"
+    },
+    {
+      "pagina": 15,
+      "fragmento": [
+        "Metodología aplicada: Design Thinking.",
+        "- Se realizaron entrevistas a personal administrativo, médicos y pacientes.",
+        "- Se identificaron puntos críticos del proceso actual.",
+        "Se formuló el problema:",
+        "¿Cómo podríamos mejorar la programación de citas para que pacientes y médicos tengan una experiencia más eficiente y organizada?"
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_15.png"
+    },
+    {
+      "pagina": 16,
+      "fragmento": [
+        "Formulación del problema.",
+        "El centro de salud Salud Integral enfrenta dificultades en la gestión de citas debido al uso de métodos manuales."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_16.png"
+    },
+    {
+      "pagina": 17,
+      "fragmento": [
+        "Formulación del problema.",
+        "Esta situación genera pérdida de tiempo, sobrecarga administrativa y molestias para los pacientes."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_17.png"
+    },
+    {
+      "pagina": 18,
+      "fragmento": [
+        "Formulación del problema.",
+        "Se requiere el desarrollo de un sistema de gestión digital de citas que automatice la programación, control de disponibilidad y envío de recordatorios."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_18.png"
+    },
+    {
+      "pagina": 19,
+      "fragmento": [
+        "Resultado esperado.",
+        "Sistema Web/Móvil para gestionar citas médicas, con funciones de calendario, disponibilidad médica, notificaciones automáticas, historial de citas y panel administrativo."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_19.png"
+    },
+    {
+      "pagina": 20,
+      "fragmento": [
+        "Conclusión.",
+        "La identificación y formulación del problema es clave para que un proyecto de software tenga éxito.",
+        "Si no se define bien el problema, se corre el riesgo de construir una solución que no sirva."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_20.png"
+    },
+    {
+      "pagina": 21,
+      "fragmento": [
+        "Conclusión.",
+        "Aplicar metodologías adecuadas permite comprender el contexto profundamente y construir soluciones tecnológicas alineadas con necesidades reales."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_21.png"
+    },
+    {
+      "pagina": 22,
+      "fragmento": [
+        "PERÚ.",
+        "Los hackers ya no necesitan vulnerar sistemas de seguridad; ahora apuntan a los trabajadores de bancos.",
+        "En Latinoamérica, el 80% de los casos de cibercrimen involucran el factor humano, persuadiendo personas para obtener acceso sin activar alarmas."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_22.png"
+    },
+    {
+      "pagina": 23,
+      "fragmento": [
+        "En Perú, desde el año pasado, han aumentado los casos de cibercrimen que involucran fraude digital, estafas con inteligencia artificial y filtración de datos sensibles.",
+        "Ejemplos: Interbank, Inkafarma, Banco de la Nación."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_23.png"
+    },
+    {
+      "pagina": 24,
+      "fragmento": [
+        "Aunque algunas entidades niegan vulneraciones, afirman que sus sistemas no han sido hackeados ni se ha accedido a cuentas bancarias.",
+        "Sin embargo, Marsh McLennan indica que los cibercriminales operan sin dejar rastros ni activar alarmas digitales."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_24.png"
+    },
+    {
+      "pagina": 25,
+      "fragmento": [
+        "En los últimos años, los ataques en el sector retail han aumentado globalmente, especialmente a través de ingeniería social.",
+        "No requieren malware ni brechas técnicas: basta con una llamada falsa o un correo simulado para abrir acceso a los sistemas."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_25.png"
+    },
+    {
+      "pagina": 26,
+      "fragmento": [],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_26.png"
+    },
+    {
+      "pagina": 27,
+      "fragmento": [
+        "Ciberataques a trabajadores.",
+        "Ocho de cada diez ciberataques se dirigen al factor humano.",
+        "Esto se ha vuelto común en América Latina y ha comprometido grandes empresas, aprovechando errores humanos con precisión alarmante."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_27.png"
+    },
+    {
+      "pagina": 28,
+      "fragmento": [
+        "Perú no es la excepción.",
+        "Además de extorsión y posible colusión de empleados bancarios con delincuentes, también ocurren filtraciones de datos sin vulnerar sistemas tecnológicos."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_28.png"
+    },
+    {
+      "pagina": 29,
+      "fragmento": [
+        "La técnica ha sido perfeccionada por grupos cibercriminales sofisticados como Scattered Spider.",
+        "Han afectado empresas del retail en EE.UU. y Reino Unido mediante manipulación psicológica y habilidades técnicas avanzadas."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_29.png"
+    },
+    {
+      "pagina": 30,
+      "fragmento": [
+        "Fecha: 07-02-2025 — Alerta de seguridad digital.",
+        "Nombre de la alerta: Supuesta base de datos de clientes de Inkafarma está a la venta.",
+        "Tipo de ataque: Fuga de información.",
+        "Medios de propagación: Internet, redes sociales.",
+        "Se detectó una publicación en un foro de hackers donde se afirma que Inkafarma sufrió una vulneración.",
+        "Actor de amenazas: 'intelBrokerBF'. Fecha: 6 de febrero de 2025.",
+        "Afecta 3.9 millones de registros con datos como DNI, teléfono, correo, nombre y fecha de nacimiento."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_30.png"
+    },
+    {
+      "pagina": 31,
+      "fragmento": [
+        "Aunque este tipo de casos se reportan en el extranjero, los cibercriminales latinoamericanos replican el modelo.",
+        "Lo hacen persuadiendo a trabajadores para acceder a información interna, sin necesidad de vulnerar barreras tecnológicas."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_31.png"
+    },
+    {
+      "pagina": 32,
+      "fragmento": [
+        "Scattered Spider ha demostrado gran capacidad para suplantar identidades en llamadas de soporte.",
+        "Acceden a sistemas críticos sin levantar sospechas ni alertas.",
+        "Sus ataques causan interrupciones operativas, pérdidas económicas millonarias y caída en valor de acciones."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_32.png"
+    },
+    {
+      "pagina": 33,
+      "fragmento": [
+        "La preocupación actual es que ya no se trata de un grupo aislado.",
+        "Diversas bandas criminales adoptan este enfoque, aumentando el nivel de exposición para empresas en América Latina."
+      ],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_33.png"
+    },
+    {
+      "pagina": 34,
+      "fragmento": [],
+      "imagen": "procesados\\semana_13\\13 Ing Sistemas de Informacion V1\\slide_34.png"
+    }
+  ]
+}

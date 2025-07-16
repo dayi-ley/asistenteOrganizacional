@@ -1,0 +1,79 @@
+{
+  "estructura_materiales": {
+    "descripcion": "Estructura para organizar materiales del curso ISIUX por semanas",
+    "organizacion": {
+      "por_semana": true,
+      "por_tipo_contenido": true,
+      "metadatos_requeridos": [
+        "semana",
+        "tipo_material",
+        "titulo",
+        "descripcion",
+        "palabras_clave",
+        "fecha_publicacion",
+        "profesor_responsable"
+      ]
+    },
+    "tipos_material": {
+      "presentaciones": {
+        "extensiones": ["ppt", "pptx", "txt"],
+        "descripcion": "Presentaciones convertidas a texto plano",
+        "estructura_contenido": {
+          "titulo": "string",
+          "diapositivas": [
+            {
+              "numero": "number",
+              "titulo": "string",
+              "contenido": "string",
+              "puntos_clave": ["string"]
+            }
+          ]
+        }
+      },
+      "documentos": {
+        "extensiones": ["pdf", "doc", "docx", "txt"],
+        "descripcion": "Documentos de lectura y referencia",
+        "estructura_contenido": {
+          "titulo": "string",
+          "resumen": "string",
+          "contenido_principal": "string",
+          "secciones": [
+            {
+              "titulo": "string",
+              "contenido": "string",
+              "puntos_clave": ["string"]
+            }
+          ]
+        }
+      },
+      "ejercicios": {
+        "extensiones": ["pdf", "doc", "txt"],
+        "descripcion": "Ejercicios y prácticas",
+        "estructura_contenido": {
+          "titulo": "string",
+          "objetivos": ["string"],
+          "instrucciones": "string",
+          "ejercicios": [
+            {
+              "numero": "number",
+              "descripcion": "string",
+              "puntos": "number",
+              "criterios_evaluacion": ["string"]
+            }
+          ]
+        }
+      },
+      "recursos_adicionales": {
+        "extensiones": ["pdf", "txt", "url"],
+        "descripcion": "Enlaces, videos, recursos complementarios",
+        "estructura_contenido": {
+          "titulo": "string",
+          "tipo_recurso": "string",
+          "descripcion": "string",
+          "url": "string",
+          "notas": "string"
+        }
+      }
+    }
+  }
+} 

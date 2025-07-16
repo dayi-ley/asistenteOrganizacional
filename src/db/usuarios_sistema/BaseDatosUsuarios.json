@@ -1,0 +1,593 @@
+{
+  "usuarios": [
+    {
+      "id": "2021017446",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Augusto Jose",
+        "apellidos": "Ascorra Vilcapoma"
+      },
+      "numero_whatsapp": "+51924326204",
+      "correo_institucional": "2021017446@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015161",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Giancarlo",
+        "apellidos": "Ayllon Hualparuca"
+      },
+      "numero_whatsapp": "+51997226233",
+      "correo_institucional": "2022015161@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015401",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Miguel Angel",
+        "apellidos": "Castro Jimenez"
+      },
+      "numero_whatsapp": "+51923094562",
+      "correo_institucional": "2022015401@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2021017508",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Fabiola Lissett",
+        "apellidos": "Ccanre Taya"
+      },
+      "numero_whatsapp": "+51917295002",
+      "correo_institucional": "2021017508@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022022273",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Jennery",
+        "apellidos": "Huaman Sinarahua"
+      },
+      "numero_whatsapp": "+51990004930",
+      "correo_institucional": "2022022273@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015348",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Sebastian Alejandro",
+        "apellidos": "Huertas Zamudio"
+      },
+      "numero_whatsapp": "+51944770988",
+      "correo_institucional": "2022015348@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015259",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Gustavo Alberto",
+        "apellidos": "Leandro Milla"
+      },
+      "numero_whatsapp": "+51960705464",
+      "correo_institucional": "2022015259@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015357",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Luis Sebastian",
+        "apellidos": "Loya Vera"
+      },
+      "numero_whatsapp": "+51997361372",
+      "correo_institucional": "2022015357@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015116",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Abram Fernando",
+        "apellidos": "Loza Benites"
+      },
+      "numero_whatsapp": "+51961299152",
+      "correo_institucional": "2022015116@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015223",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Gabriel",
+        "apellidos": "Maguiña"
+      },
+      "numero_whatsapp": "+51932709382",
+      "correo_institucional": "2022015223@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015375",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Favio Juan",
+        "apellidos": "Mitac Espinoza"
+      },
+      "numero_whatsapp": "+51914135698",
+      "correo_institucional": "2022015375@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2021017401",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Oscar",
+        "apellidos": "Montes Triveño"
+      },
+      "numero_whatsapp": "+51910795809",
+      "correo_institucional": "2021017401@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2020011122",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Elizabeth Yolanda",
+        "apellidos": "Nieves Campos"
+      },
+      "numero_whatsapp": "+51975699750",
+      "correo_institucional": "2020011122@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015482",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Alvaro Amir",
+        "apellidos": "Obregon Castillejo"
+      },
+      "numero_whatsapp": "+51924522403",
+      "correo_institucional": "2022015482@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015081",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Harold Arturo",
+        "apellidos": "Ortiz Galvez"
+      },
+      "numero_whatsapp": "+51940090582",
+      "correo_institucional": "2022015081@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2021017393",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Angel Diego",
+        "apellidos": "Potesta Toledo"
+      },
+      "numero_whatsapp": "+51913294691",
+      "correo_institucional": "2021017393@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015339",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Lily",
+        "apellidos": "Roque Aquise"
+      },
+      "numero_whatsapp": "+51906922587",
+      "correo_institucional": "2022015339@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015099",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Mateo Rafael",
+        "apellidos": "Salinas Fernandez"
+      },
+      "numero_whatsapp": "+51999992652",
+      "correo_institucional": "2022015099@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2021017321",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Victor Ricardo",
+        "apellidos": "Santamaria Machaca"
+      },
+      "numero_whatsapp": "+51994934507",
+      "correo_institucional": "2021017321@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2023020594",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Juana Pamela",
+        "apellidos": "Timoteo Ascaya"
+      },
+      "numero_whatsapp": "+51982489924",
+      "correo_institucional": "2023020594@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015384",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "William Facundo Celso",
+        "apellidos": "Vega Gutierrez"
+      },
+      "numero_whatsapp": "+51974808878",
+      "correo_institucional": "2022015384@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015197",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Leonel Santiago",
+        "apellidos": "Ventura Lopez"
+      },
+      "numero_whatsapp": "+51992302906",
+      "correo_institucional": "2022015197@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2021017348",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Sergio Esteban",
+        "apellidos": "Vidal Perez"
+      },
+      "numero_whatsapp": "+51932068077",
+      "correo_institucional": "2021017348@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2021017419",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Josue Emanuel",
+        "apellidos": "Villa Mallma"
+      },
+      "numero_whatsapp": "+51900491931",
+      "correo_institucional": "2021017419@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015143",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Armando",
+        "apellidos": "Villaverde Condori"
+      },
+      "numero_whatsapp": "+51991252091",
+      "correo_institucional": "2022015143@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2021017339",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Cristian",
+        "apellidos": "Villega Diaz"
+      },
+      "numero_whatsapp": "+51935197962",
+      "correo_institucional": "2021017339@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015393",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Jaime Ramiro",
+        "apellidos": "Vivas Chapoñan"
+      },
+      "numero_whatsapp": "+51904831071",
+      "correo_institucional": "2022015393@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015277",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "James",
+        "apellidos": "Yapias Calzada"
+      },
+      "numero_whatsapp": "+51990500646",
+      "correo_institucional": "2022015277@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015000",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Sebastian Alejandro",
+        "apellidos": "Navarro Tapia"
+      },
+      "numero_whatsapp": "+51900000000",
+      "correo_institucional": "2022015000@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "2022015437",
+      "rol": "estudiante",
+      "nombre": {
+        "nombres": "Hayley David",
+        "apellidos": "Quispe Chinguel"
+      },
+      "numero_whatsapp": "+51929486812",
+      "correo_institucional": "2022015437@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "natural",
+        "frecuencia_recomendaciones": "semanal"
+      }
+    },
+    {
+      "id": "001",
+      "rol": "docente",
+      "nombre": {
+        "nombres": "Alejandro Alfonso",
+        "apellidos": "Rea Morales"
+      },
+      "numero_whatsapp": "+51994292015",
+      "correo_institucional": "area@unfv.edu.pe",
+      "aula": "Sección B",
+      "curso": "Ingeniería de Sistemas de Información",
+      "fecha_registro": "2025-07-09",
+      "estado": "activo",
+      "historial_interacciones": [],
+      "preferencias": {
+        "tono_respuesta": "formal",
+        "reporte_dudas": true
+      }
+    }
+  ]
+}
