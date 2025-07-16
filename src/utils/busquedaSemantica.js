@@ -2,11 +2,12 @@ const fs = require('fs');
 const OpenAI = require('openai');
 const { getDB } = require('../db/ConfiguracionBaseDatos');
 require('dotenv').config();
+const path = require('path');
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
 // Archivos de embeddings relevantes (centralizado)
-const EMBEDDINGS_FILES = [
+let EMBEDDINGS_FILES = [
   // Unidades del syllabus
   __dirname + '/../db/embeddings/embeddings_unidades.json',
   // Syllabus general
@@ -19,11 +20,19 @@ const EMBEDDINGS_FILES = [
   __dirname + '/../db/embeddings/perfil_asistente_embeddings.json',
   // Información institucional
   __dirname + '/../db/embeddings/informacion_institucional_embeddings.json',
-  // Horarios de cursos (NUEVO)
+  // Horarios de cursos
   __dirname + '/../db/embeddings/embeddings_horarios.json',
-  // Materiales de curso (agregado para pruebas directas)
-  __dirname + '/../db/embeddings/embeddings_material_semana_01_01IngSistemas.json'
 ];
+// --- AGREGADO: cargar dinámicamente todos los embeddings de materiales ---
+try {
+  const embeddingsDir = path.join(__dirname, '../db/embeddings');
+  const files = fs.readdirSync(embeddingsDir);
+  const materiales = files.filter(f => f.startsWith('embeddings_material_') && f.endsWith('.json'));
+  EMBEDDINGS_FILES = EMBEDDINGS_FILES.concat(materiales.map(f => path.join(embeddingsDir, f)));
+  console.log('✅ Archivos de embeddings de materiales cargados:', materiales.length);
+} catch (e) {
+  console.error('❌ Error cargando embeddings de materiales:', e);
+}
 
 // Cache para los datos de cursos
 let cursosCache = null;

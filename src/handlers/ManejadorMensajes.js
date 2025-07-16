@@ -254,10 +254,44 @@ async function manejarMensaje(client, numero, mensaje) {
           }
         } else {
           // --- INICIO INTEGRACIÓN MATERIALES DE CURSO ---
-          const embeddingsMaterialPath = path.join(__dirname, '../db/embeddings/embeddings_material_semana_01_01IngSistemas.json');
-          const fragmentosMaterial = await buscarFragmentosRelevantes(mensaje, embeddingsMaterialPath, 3);
-          const fragmentosMaterialFiltrados = fragmentosMaterial.filter(f => f.similitud >= 0.5);
+          // Detectar si la pregunta menciona semana o página
+          let semanaFiltro = null;
+          let paginaFiltro = null;
+          const matchSemana = mensaje.match(/semana[_\s-]*(\d{1,2})/i);
+          if (matchSemana) {
+            semanaFiltro = `semana_${matchSemana[1].padStart(2, '0')}`;
+          }
+          const matchPagina = mensaje.match(/p[aá]gina[_\s-]*(\d{1,3})/i);
+          if (matchPagina) {
+            paginaFiltro = parseInt(matchPagina[1]);
+          }
+          // Buscar en todos los materiales embebidos
+          let fragmentosMaterial = await buscarFragmentosRelevantes(mensaje, undefined, 10); // Traer más para filtrar
+          // Filtrar por semana si corresponde
+          if (semanaFiltro) {
+            fragmentosMaterial = fragmentosMaterial.filter(f => f.semana === semanaFiltro);
+          }
+          // Filtrar por página si corresponde
+          if (paginaFiltro) {
+            fragmentosMaterial = fragmentosMaterial.filter(f => String(f.pagina) === String(paginaFiltro));
+          }
+          // Calcular similitud y tomar los top 3
+          fragmentosMaterial.sort((a, b) => b.similitud - a.similitud);
+          const fragmentosMaterialFiltrados = fragmentosMaterial.slice(0, 3).filter(f => f.similitud >= 0.25);
 
+          // --- MEJORA: Si la pregunta es tipo '¿Qué tema se ve en la semana X?' y hay fragmentos de esa semana, mostrar el contenido aunque la similitud sea baja ---
+          const regexPreguntaSemana = /qu[eé]?\s*(temas?|contenido|se ve|se estudia|se aprende|se revisa|se aborda|se trata|se cubre|se dicta|se imparte|se desarrolla|se explica|se realiza|se hace|se trabaja|se expone|se presenta|se analiza|se discute|se investiga|se observa|se eval[úu]a|se repasa|se revisa|se ve)\s+en\s+la\s+semana[_\s-]?(\d{1,2})/i;
+          if (semanaFiltro && regexPreguntaSemana.test(mensaje) && fragmentosMaterial.length > 0) {
+            // Mostrar el contenido de los fragmentos de esa semana (puedes ajustar para mostrar todos o solo el primero)
+            const respuestaSemana = fragmentosMaterial.slice(0, 2).map(f => f.texto || f.text || f.contenido || '').join('\n\n');
+            respuestaBot = respuestaSemana || 'No tengo información específica sobre esa semana.';
+            // Guardar en historial el contexto de los fragmentos usados
+            guardarEnHistorial(numeroLimpio, {
+              respuesta: respuestaBot,
+              contexto_fragmentos: fragmentosMaterial.slice(0, 2)
+            }, 'bot');
+            return respuestaBot;
+          }
           // Si el usuario pide explícitamente la imagen/slide o el PDF
           if (fragmentosMaterialFiltrados.length > 0 && /(slide|imagen|image|img|png|foto|picture|pic|pdf|archivo)/i.test(mensaje)) {
             // --- INICIO MEJORA: buscar fragmento con imagen y keyword ---
@@ -357,7 +391,11 @@ async function manejarMensaje(client, numero, mensaje) {
           }
           // Si hay fragmentos relevantes pero NO es petición de imagen/pdf, responde con el texto y guarda contexto
           if (fragmentosMaterialFiltrados.length > 0 && !/(slide|imagen|image|img|png|foto|picture|pic|pdf|archivo)/i.test(mensaje)) {
-            respuestaBot = fragmentosMaterialFiltrados[0].texto;
+            // Construir contexto para GPT
+            const contexto = fragmentosMaterialFiltrados.map(f => f.texto || f.text || f.contenido || '').join('\n').trim();
+            // Prompt para GPT: respuesta natural, breve y clara SOLO usando el contexto
+            const prompt = `Responde de forma clara, breve y natural usando SOLO la siguiente información interna. Si la respuesta no está en el contexto, responde: \"No tengo información sobre eso\".\n\nContexto:\n${contexto}\n\nPregunta: ${mensaje}`;
+            respuestaBot = await obtenerRespuestaGPT(prompt);
             // Guardar el parafraseo y los fragmentos originales completos
             guardarEnHistorial(numeroLimpio, {
               respuesta: respuestaBot,
