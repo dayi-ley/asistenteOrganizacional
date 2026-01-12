@@ -1,87 +1,118 @@
-# Asistente Organizacional - Bot de WhatsApp
+# ISIUX - Asistente Académico Inteligente
 
-Un bot inteligente de WhatsApp que actúa como asistente organizacional personal, ayudando con tareas, recordatorios y gestión de información.
+Este proyecto implementa **ISIUX**, un asistente virtual basado en Inteligencia Artificial (RAG) integrado en WhatsApp, diseñado específicamente para optimizar la comunicación y gestión académica en la carrera de Informatica
 
-## Características
+---
 
-- Integración con WhatsApp Web
-- Asistente inteligente con GPT
-- Base de datos local con LowDB
-- Gestión de usuarios y recordatorios
-- Historial de interacciones
+## La Necesidad
 
-## Estructura del Proyecto
+En el entorno académico universitario, tanto estudiantes como docentes enfrentan desafíos constantes en la gestión de la información:
+*   **Dispersión de información:** Los horarios, sílabos, materiales de clase y reglamentos están en diferentes plataformas o archivos.
+*   **Respuestas inmediatas:** Los estudiantes requieren respuestas rápidas sobre temas logísticos (aulas, horarios) o académicos (temas de examen) fuera del horario de clase.
+*   **Carga docente:** Los profesores reciben preguntas repetitivas que podrían automatizarse.
+
+**ISIUX** nace para centralizar esta información y entregarla de manera conversacional, natural y precisa a través del canal más usado: **WhatsApp**.
+
+---
+
+## ¿Qué es ISIUX?
+
+Es un bot inteligente que utiliza una arquitectura **RAG (Retrieval-Augmented Generation)**. Esto significa que no solo "conversa" como ChatGPT, sino que tiene acceso a una **biblioteca privada de documentos oficiales del curso**:
+
+*   **Horarios y Aulas:** Sabe dónde y cuándo son las clases.
+*   **Syllabus y Malla:** Conoce los temas, unidades y prerrequisitos.
+*   **Materiales de Clase:** "Lee" los PDFs de las diapositivas semana a semana para responder preguntas específicas sobre el contenido dictado.
+
+### Demo
+
+![Consulta de Horario](./src/assets/captures/AskHorario.jpg)
+
+![Consulta Académica](./src/assets/captures/example1.jpg)
+![Consulta Académica](./src/assets/captures/example2.jpg)
+![Consulta Académica](./src/assets/captures/example3.jpg)
+![Consulta Académica](./src/assets/captures/example4.jpg)
+
+---
+
+## Cómo Funciona
+
+El sistema opera en tres capas principales:
+
+1.  **Interfaz (WhatsApp):** Utiliza `whatsapp-web.js` para simular un cliente de WhatsApp. No requiere API oficial de pago.
+2.  **Cerebro (Lógica + IA):**
+    *   Identifica al usuario (Docente vs Estudiante) para personalizar la respuesta.
+    *   Si la pregunta es logística (horarios), responde con reglas rápidas.
+    *   Si la pregunta es académica, busca en la base de datos vectorial (`embeddings`) los fragmentos más relevantes de los PDFs/JSONs y usa **OpenAI GPT** para generar la respuesta final.
+3.  **Datos (Base de Conocimiento):**
+    *   Scripts en Python procesan los PDFs de las clases.
+    *   Scripts en Node.js generan los "embeddings" (índices matemáticos) para la búsqueda semántica.
+![FlujoLogico de ISIUX](./src/assets/captures/Flujo1Asistente.png)    
+---
+
+## Estructura Principal del Proyecto
+
+Solo se muestran los directorios y archivos más relevantes para entender la arquitectura:
 
 ```
-├── /src
-│   ├── index.js                           # Archivo principal que lanza el bot
-│   ├── ClienteWhatsApp.js                 # Configuración y conexión de WhatsApp
-│   ├── ConfiguracionVariables.js          # Carga y gestión de variables .env
-│   ├── handlers/                 
-│   │   ├── ManejadorMensajes.js           # Lógica para manejar mensajes entrantes
-│   │   └── ConstructorPrompts.js          # Construcción dinámica del prompt para GPT
-│   ├── db/                       
-│   │   ├── ConfiguracionBaseDatos.js      # Configuración de LowDB
-│   │   ├── PerfilAsistente.json           # Perfil y personalidad del asistente
-│   │   ├── BaseDatosUsuarios.json         # Base de datos de usuarios
-│   │   ├── ConfiguracionBaseDatos.js      # Configuración de LowDB
-│   │   ├── informacion_institucional/     # Carpeta con información institucional
-│   │   │   ├── PerfilAsistente.json       # Perfil y personalidad del asistente ISIUX
-│   │   │   ├── InformacionFacultad.json   # Información de la FIEI-UNFV
-│   │   │   └── InformacionCarrera.json    # Información de Ingeniería Informática
-│   │   ├── usuarios_sistema/              # Carpeta con datos de usuarios
-│   │   │   ├── BaseDatosUsuarios.json     # Base de datos de usuarios (estudiantes + docente)
-│   │   │   ├── HistorialInteracciones.json # Historial de mensajes por usuario
-│   │   │   └── BaseDatosRecordatorios.json # Recordatorios personales del usuario
-│   │   ├── datos_operativos/              # Carpeta con datos operativos del sistema
-│   │   │   ├── HorariosCursos.json        # Horarios de cursos con estructura escalable
-│   │   │   └── BaseConocimiento.json      # Contenidos entrenados del curso
-│   │   ├── syllabus/                      # Carpeta con información del sílabo
-│   │   │   ├── SyllabusGeneral.json       # Información general del sílabo
-│   │   │   ├── SyllabusUnidades.json      # Contenido detallado de unidades
-│   │   │   └── SyllabusEvaluacion.json    # Sistema de evaluación y metodología
-│   │   └── malla_curricular/              # Carpeta con información de malla curricular
-│   │       ├── InformacionGeneral.json    # Información general de la malla
-│   │       ├── CursosPorSemestre.json     # Cursos organizados por semestre
-│   │       ├── CursosElectivos.json       # Cursos electivos y sus grupos
-│   │       └── RelacionesRequisitos.json  # Prerrequisitos y relaciones entre cursos
-│   │   └── materiales_curso/              # Carpeta con materiales del curso por semanas
-│   │       ├── estructura_materiales.json # Definición de estructura de materiales
-│   │       ├── configuracion_procesamiento.json # Configuración para procesamiento
-│   │       ├── indice_materiales.json     # Índice general para búsquedas rápidas
-│   │       ├── semana_01/                 # Materiales de la Semana 1
-│   │       │   └── materiales_semana_01.json
-│   │       └── semana_XX/                 # Materiales de otras semanas
-│   │           └── materiales_semana_XX.json
+asistenteOrganizacional/
+├── src/
+│   ├── ClienteWhatsApp.js         # Punto de entrada principal. Inicia el cliente de WhatsApp.
+│   ├── handlers/
+│   │   ├── ManejadorMensajes.js   # Cerebro lógico. Decide si responder con regla o con IA.
+│   │   └── ConstructorPrompts.js  # Prepara las instrucciones para GPT.
+│   ├── db/                        # Base de Datos Local (JSONs)
+│   │   ├── usuarios_sistema/      # Usuarios permitidos (whitelist) y sus roles.
+│   │   ├── datos_operativos/      # Horarios y Base de Conocimiento procesada.
+│   │   ├── materiales_curso/      # PDFs crudos y JSONs procesados de las clases.
+│   │   └── embeddings/            # Vectores para la búsqueda semántica (IA).
 │   └── utils/
-│       └── FuncionesAuxiliares.js         # Funciones auxiliares y utilidades
-│
-├── .env                                   # Variables de entorno (API keys, etc.)
-├── .gitignore
-├── package.json
-└── README.md
+│       ├── busquedaSemantica.js   # Motor de búsqueda. Encuentra la info relevante para la IA.
+│       └── openaiClient.js        # Conexión con la API de OpenAI.
+├── .env                           # Variables de entorno (API Keys).
+└── package.json
 ```
 
-## Instalación
+---
 
-1. Clona el repositorio
-2. Instala las dependencias: `npm install`
-3. Configura las variables de entorno en `.env`
-4. Ejecuta el bot: `npm start`
+## Instalación y Puesta en Marcha
 
-## Configuración
+### Prerrequisitos
+*   Node.js (v18 o superior)
+*   Una cuenta de OpenAI con créditos (API Key).
+*   Un celular con WhatsApp instalado (para escanear el QR).
 
-Crea un archivo `.env` con las siguientes variables:
+### Pasos
 
-```
-OPENAI_API_KEY=tu_clave_de_openai
-NOMBRE_ASISTENTE=nombre_del_asistente
-```
+1.  **Clonar y preparar:**
+    ```bash
+    git clone <repo_url>
+    cd asistenteOrganizacional
+    npm install
+    ```
 
-## Uso
+2.  **Configurar Variables:**
+    Crea un archivo `.env` en la raíz basado en el ejemplo:
+    ```env
+    OPENAI_API_KEY=tu_api_key_aqui
+    NOMBRE_ASISTENTE=ISIUX
+    ```
 
-El bot se conectará a WhatsApp Web y responderá automáticamente a los mensajes entrantes.
+3.  **Registrar Usuarios:**
+    Edita `src/db/usuarios_sistema/BaseDatosUsuarios.json` y agrega los números de teléfono permitidos (con código de país, ej: `51999...`) y su rol (`estudiante` o `docente`).
 
-## Licencia
+4.  **Ejecutar:**
+    ```bash
+    npm run dev
+    ```
 
-MIT 
+5.  **Vincular:**
+    Escanea el código QR que aparecerá en la terminal con tu WhatsApp (Dispositivos Vinculados).
+
+---
+
+## Flujo de Actualización de Datos
+
+Si se agregan nuevos materiales (PDFs de nuevas semanas):
+1.  Colocar los PDFs en `src/db/materiales_curso/materiales_python/entrada_pdfs/`.
+2.  Ejecutar los scripts de procesamiento (Python) para extraer el texto.
+3.  Ejecutar `node src/db/embeddings/generarEmbeddingsMateriales.js` para actualizar la "memoria" del bot.
