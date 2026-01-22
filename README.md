@@ -3,10 +3,7 @@
 Este proyecto implementa **ISIUX**, un asistente virtual basado en Inteligencia Artificial (RAG) integrado en WhatsApp, diseñado específicamente para optimizar la comunicación y gestión académica en la carrera de Informatica
 
 ---
-
-## La Necesidad
-
-En el entorno académico universitario, tanto estudiantes como docentes enfrentan desafíos constantes en la gestión de la información:
+Este proyecto nace de la necesidad de que estudiantes como docentes enfrentan desafíos constantes en la gestión de la información:
 *   **Dispersión de información:** Los horarios, sílabos, materiales de clase y reglamentos están en diferentes plataformas o archivos.
 *   **Respuestas inmediatas:** Los estudiantes requieren respuestas rápidas sobre temas logísticos (aulas, horarios) o académicos (temas de examen) fuera del horario de clase.
 *   **Carga docente:** Los profesores reciben preguntas repetitivas que podrían automatizarse.
@@ -14,10 +11,7 @@ En el entorno académico universitario, tanto estudiantes como docentes enfrenta
 **ISIUX** nace para centralizar esta información y entregarla de manera conversacional, natural y precisa a través del canal más usado: **WhatsApp**.
 
 ---
-
-## ¿Qué es ISIUX?
-
-Es un bot inteligente que utiliza una arquitectura **RAG (Retrieval-Augmented Generation)**. Esto significa que no solo "conversa" como ChatGPT, sino que tiene acceso a una **biblioteca privada de documentos oficiales del curso**:
+El asistente inteligente que utiliza una arquitectura **RAG (Retrieval-Augmented Generation)**. Esto significa que no solo "conversa" como ChatGPT, sino que tiene acceso a una **biblioteca privada de documentos oficiales del curso y/o facultad**:
 
 *   **Horarios y Aulas:** Sabe dónde y cuándo son las clases.
 *   **Syllabus y Malla:** Conoce los temas, unidades y prerrequisitos.
